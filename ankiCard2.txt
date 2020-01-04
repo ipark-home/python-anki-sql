@@ -1,0 +1,812 @@
+against	проти	against.jpg	[sound:against.mp3]	[sound:against_meaning.mp3]	[sound:against_example.mp3]	To be against something is to be touching it or opposed to it.	They both leaned against the wall.	
+		
+well	добре	well.jpg	[sound:well.mp3]	[sound:well_meaning.mp3]	[sound:well_example.mp3]	You use well to say that something was done in a good way.	The couple can dance quite well.	
+		
+still	досі	still.jpg	[sound:still.mp3]	[sound:still_meaning.mp3]	[sound:still_example.mp3]	still is used when you say that a situation keeps going on.	They are still waiting in line to get tickets.	
+		
+fast	швидко	fast.jpg	[sound:fast.mp3]	[sound:fast_meaning.mp3]	[sound:fast_example.mp3]	To fast means to go without food or drink for a period of time.	In her religion, they fast for five days and then have a big feast.	
+		
+aloud	вголос	aloud.jpg	[sound:aloud.mp3]	[sound:aloud_meaning.mp3]	[sound:aloud_example.mp3]	If you say something aloud, you say it so that others can hear you.	My father often reads stories aloud to me and my sister.	
+		
+bow	лук	bow.jpg	[sound:bow.mp3]	[sound:bow_meaning.mp3]	[sound:bow_example.mp3]	A bow is a weapon made of curved wood and string that shoots arrows.	He went hunting with a bow and arrow.	
+		
+across	поперек	across.jpg	[sound:across.mp3]	[sound:across_meaning.mp3]	[sound:across_example.mp3]	To go across something is to go to the other side of it.	He walked across the board to the other side.	
+		
+though	хоча	though.jpg	[sound:though.mp3]	[sound:though_meaning.mp3]	[sound:though_example.mp3]	though is used when the second idea makes the first seem surprising.	though he was overweight, he liked to be active.	
+		
+tail	хвіст	tail.jpg	[sound:tail_1434531251878.mp3]	[sound:tail_meaning.mp3]	[sound:tail_example.mp3]	A tail is a part of an animal's body, sticking out from its rear or back.	Our dog wags its tail when it's happy.	
+		
+far	далеко	far.jpg	[sound:far.mp3]	[sound:far_meaning.mp3]	[sound:far_example.mp3]	If something is far, it is not close.	It's far going from the east coast to the west coast of America.	
+		
+stern	суворий	stern.jpg	[sound:stern.mp3]	[sound:stern_meaning.mp3]	[sound:stern_example.mp3]	When somebody is stern, they are very serious.	The stern teacher didn’t allow the students to speak during class.	
+		
+kill	вбивати	kill.jpg	[sound:kill.mp3]	[sound:kill_meaning.mp3]	[sound:kill_example.mp3]	To kill someone or something is to make them die.	I killed the fly with a fly swatter.	
+		
+sail	вітрило	sail.jpg	[sound:sail.mp3]	[sound:sail_meaning.mp3]	[sound:sail_example.mp3]	To sail is to move a boat on the water.	I love to sail my boat on the lake.	
+		
+nor	ні	nor.jpg	[sound:nor.mp3]	[sound:nor_meaning.mp3]	[sound:nor_example.mp3]	You use nor to connect two negative ideas.	I eat neither apples nor oranges. I don’t like either one.	
+		
+hook	гачок	hook.jpg	[sound:hook.mp3]	[sound:hook_meaning.mp3]	[sound:hook_example.mp3]	A hook is a sharp curved piece of metal used for catching or holding things.	The fish went after the sharp hook.	
+		
+bring	принести	bring.jpg	[sound:bring.mp3]	[sound:bring_meaning.mp3]	[sound:bring_example.mp3]	To bring means to take someone or something to a person or place.	Oscar will bring in all the boxes.	
+		
+maybe	може бути	maybe.jpg	[sound:maybe.mp3]	[sound:maybe_meaning.mp3]	[sound:maybe_example.mp3]	maybe is used to show that something is possible or may be true.	If I focus hard enough, maybe I can come up with the right answer.	
+		
+strength	міцність	strength.jpg	[sound:strength.mp3]	[sound:strength_meaning.mp3]	[sound:strength_example.mp3]	strength is the physical power that you have.	Exercising will increase your strength and give you more power.	
+		
+wood	деревини	wood.jpg	[sound:wood.mp3]	[sound:wood_meaning.mp3]	[sound:wood_example.mp3]	wood is the thing that trees are made of.	I put the pieces of wood in a pile.	
+		
+current	струм	current.jpg	[sound:current.mp3]	[sound:current_meaning.mp3]	[sound:current_example.mp3]	A current is a steady and constant flow of air or water in a river or ocean.	The ocean currents took the ship far off into the sea.	
+		
+perhaps	можливо	perhaps.jpg	[sound:perhaps.mp3]	[sound:perhaps_meaning.mp3]	[sound:perhaps_example.mp3]	perhaps is used when you say that something could happen.	perhaps I will eat an apple for lunch.	
+		
+ocean	океану	ocean.jpg	[sound:ocean.mp3]	[sound:ocean_meaning.mp3]	[sound:ocean_example.mp3]	The ocean is all of the salt water that surrounds land.	The ocean can make powerful waves.	
+		
+bait	приманку	bait.jpg	[sound:bait_1434531251878.mp3]	[sound:bait_meaning.mp3]	[sound:bait_example.mp3]	bait is something used to trick a person or thing to do something.	The best bait for catching fish is a big, fat worm.	
+		
+mast	щогла	mast.jpg	[sound:mast.mp3]	[sound:mast_meaning.mp3]	[sound:mast_example.mp3]	A mast is a long pole on a ship that holds the sail.	The mast held both sails of the ship upright.	
+		
+steady	стійкий	steady.jpg	[sound:steady.mp3]	[sound:steady_meaning.mp3]	[sound:steady_example.mp3]	When someone or something is steady, they are under control.	The problem was hard but she remained steady and solved it.	
+		
+breeze	бриз	breeze.jpg	[sound:breeze.mp3]	[sound:breeze_meaning.mp3]	[sound:breeze_example.mp3]	A breeze is a soft wind.	The breeze caused the leaves to fall off the tree.	
+		
+surface	поверхні	surface.jpg	[sound:surface_1434531251878.mp3]	[sound:surface_meaning.mp3]	[sound:surface_example.mp3]	The surface of something is the top part or outside of it.	The surface of the moon is very rough.	
+		
+strange	дивно	strange.jpg	[sound:strange.mp3]	[sound:strange_meaning.mp3]	[sound:strange_example.mp3]	When something is strange, it is not normal.	Joe had a strange look on his face after he saw what happened.	
+		
+meat	м&#39;ясо	meat.jpg	[sound:meat.mp3]	[sound:meat_meaning.mp3]	[sound:meat_example.mp3]	meat is food made of animals.	This piece of meat I'm eating tastes very good.	
+		
+course	Звичайно	course.jpg	[sound:course.mp3]	[sound:course_meaning.mp3]	[sound:course_example.mp3]	A course is a class in school.	I took a P.E. course in school this year.	
+		
+hurt	боляче	hurt.jpg	[sound:hurt.mp3]	[sound:hurt_meaning.mp3]	[sound:hurt_example.mp3]	To hurt is to do something that makes you feel pain.	She hurt her leg falling down the stairs.	
+		
+since	з	since.jpg	[sound:since.mp3]	[sound:since_meaning.mp3]	[sound:since_example.mp3]	since is used to talk about a past event still happening now.	since 1992, he has been driving that car.	
+		
+rest	відпочинок	rest.jpg	[sound:rest.mp3]	[sound:rest_meaning.mp3]	[sound:rest_example.mp3]	To rest is to stop being active while the body gets back its strength.	I rested on the couch after work.	
+		
+wide	широкий	wide.jpg	[sound:wide.mp3]	[sound:wide_meaning.mp3]	[sound:wide_example.mp3]	If something is wide, it is large from side to side.	The door was as wide as my arms.	
+		
+lay	лежати	lay.jpg	[sound:lay.mp3]	[sound:lay_meaning.mp3]	[sound:lay_example.mp3]	To lay means to put or place in a horizontal or flat position.	Don't lay your socks on the floor.	
+		
+ever	коли-небудь	ever.jpg	[sound:ever.mp3]	[sound:ever_meaning.mp3]	[sound:ever_example.mp3]	ever means at any time.	Going skiing last winter was the most fun I've ever had.	
+		
+strain	штам	strain.jpg	[sound:strain.mp3]	[sound:strain_meaning.mp3]	[sound:strain_example.mp3]	To strain is to try very hard.	Casey strained to lift the heavy box.	
+		
+pain	біль	pain.jpg	[sound:pain.mp3]	[sound:pain_meaning.mp3]	[sound:pain_example.mp3]	pain is the feeling that you have when you are hurt.	His head was full of pain.	
+		
+alone	самостійно	alone.jpg	[sound:alone.mp3]	[sound:alone_meaning.mp3]	[sound:alone_example.mp3]	If someone is alone, they are not with another person.	The boy wanted to be alone to think.	
+		
+face	обличчя	face.jpg	[sound:face.mp3]	[sound:face_meaning.mp3]	[sound:face_example.mp3]	If you face a problem, you deal with it.	My sister and I have to find a better way to face our differences.	
+		
+fresh	свіжий	fresh.jpg	[sound:fresh.mp3]	[sound:fresh_meaning.mp3]	[sound:fresh_example.mp3]	If something is fresh, it is new.	I just bought these oranges. They are very fresh.	
+		
+blood	кров	blood.jpg	[sound:blood.mp3]	[sound:blood_meaning.mp3]	[sound:blood_example.mp3]	blood is the red liquid in your body.	I cut my finger and got blood on my shirt.	
+		
+wonder	дивуються	wonder.jpg	[sound:wonder.mp3]	[sound:wonder_meaning.mp3]	[sound:wonder_example.mp3]	To wonder is to ask yourself questions or have a need to know.	The young mother wondered if she'd have a boy or a girl.	
+		
+although	хоча	although.jpg	[sound:although.mp3]	[sound:although_meaning.mp3]	[sound:although_example.mp3]	You use although to say that one thing is contrasted by another.	although she was late, her friends gave her a warm welcome.	
+		
+land	земля	land.jpg	[sound:land.mp3]	[sound:land_meaning.mp3]	[sound:land_example.mp3]	To land means to come to the ground usually from a ship or aircraft.	The parachutist landed safely on the ground.	
+		
+last	останній	last.jpg	[sound:last.mp3]	[sound:last_meaning.mp3]	[sound:last_example.mp3]	To last is to continue or go on for an amount of time.	The football match lasted for nearly two hours.	
+		
+except	окрім	except.jpg	[sound:except.mp3]	[sound:except_meaning.mp3]	[sound:except_example.mp3]	You use except to talk about the only thing that a statement does not apply to.	Everyone had fun on the trip except Jim, who felt ill the whole time.	
+		
+terrace	тераса	terrace.jpg	[sound:terrace.mp3]	[sound:terrace_meaning.mp3]	[sound:terrace_example.mp3]	A terrace is an open area that is connected to a house or an apartment.	In the afternoons, she liked to sit on the terrace and check her email.	
+		
+asleep	спить	asleep.jpg	[sound:asleep.mp3]	[sound:asleep_meaning.mp3]	[sound:asleep_example.mp3]	When a person is asleep, they are not awake.	The baby has been asleep for hours.	
+		
+huge	величезний	huge.jpg	[sound:huge.mp3]	[sound:huge_meaning.mp3]	[sound:huge_example.mp3]	If something is huge, it is very big.	At work, my father drives a huge truck.	
+		
+calm	спокійний	calm.jpg	[sound:calm_1434531251878.mp3]	[sound:calm_meaning.mp3]	[sound:calm_example.mp3]	When someone is calm, they do not get excited or upset.	A nice warm bath makes me feel so calm.	
+		
+badly	погано	badly.jpg	[sound:badly.mp3]	[sound:badly_meaning.mp3]	[sound:badly_example.mp3]	badly means in a severe or harmful way.	He hurt his arm badly playing with friends.	
+		
+bone	кістки	bone.jpg	[sound:bone.mp3]	[sound:bone_meaning.mp3]	[sound:bone_example.mp3]	A bone is a hard part of the body.	I brought home a nice bone for my dog.	
+		
+smell	запах	smell.jpg	[sound:smell.mp3]	[sound:smell_meaning.mp3]	[sound:smell_example.mp3]	To smell something means to use your nose to sense it.	The two friends smelled the flower.	
+		
+spread	поширення	spread.jpg	[sound:spread.mp3]	[sound:spread_meaning.mp3]	[sound:spread_example.mp3]	To spread is to move quickly to more places.	I like to spread butter on my toast.	
+		
+forward	вперед	forward.jpg	[sound:forward.mp3]	[sound:forward_meaning.mp3]	[sound:forward_example.mp3]	If you move forward, you move in the direction in front of you.	When he saw his mother, the baby crawled forward to her.	
+		
+moment	момент	moment.jpg	[sound:moment.mp3]	[sound:moment_meaning.mp3]	[sound:moment_example.mp3]	A moment is a second or a very short time.	I was only a few moments late for the meeting.	
+		
+behind	позаду	behind.jpg	[sound:behind.mp3]	[sound:behind_meaning.mp3]	[sound:behind_example.mp3]	behind means to be at the back of something.	The little girl was hiding behind a tree.	
+		
+scent	запах	scent.jpg	[sound:scent.mp3]	[sound:scent_meaning.mp3]	[sound:scent_example.mp3]	A scent is a smell.	Julie enjoyed the scent of the flowers.	
+		
+reserve	резерв	reserve.jpg	[sound:reserve.mp3]	[sound:reserve_meaning.mp3]	[sound:reserve_example.mp3]	To reserve something means to keep it for a certain person or time.	He reserved a table at the busy restaurant.	
+		
+tight	щільний	tight.jpg	[sound:tight.mp3]	[sound:tight_meaning.mp3]	[sound:tight_example.mp3]	When something is tight, it is fixed or fastened firmly in place.	The knots were too tight to untie.	
+		
+carefully	ретельно	carefully.jpg	[sound:carefully.mp3]	[sound:carefully_meaning.mp3]	[sound:carefully_example.mp3]	carefully means with great attention, especially to detail or safety.	The baby carefully climbed down the stairs.	
+		
+dead	мертвий	dead.jpg	[sound:dead.mp3]	[sound:dead_meaning.mp3]	[sound:dead_example.mp3]	To be dead is to not be alive.	A dead person is usually buried in the ground.	
+		
+weather	погода	weather.jpg	[sound:weather.mp3]	[sound:weather_meaning.mp3]	[sound:weather_example.mp3]	The weather is the condition of the air: hot, rainy, windy, etc.	The weather can be sunny, rainy, or cold.	
+		
+along	разом	along.jpg	[sound:along.mp3]	[sound:along_meaning.mp3]	[sound:along_example.mp3]	along means to move from one part of a road, river etc. to another.	Walk along this tunnel for ten minutes, and you'll see a door on the left.	
+		
+alongside	поруч	alongside.jpg	[sound:alongside.mp3]	[sound:alongside_meaning.mp3]	[sound:alongside_example.mp3]	If something is alongside another thing, then it is next to it.	We work alongside each other in the office.	
+		
+alive	живий	alive.jpg	[sound:alive.mp3]	[sound:alive_meaning.mp3]	[sound:alive_example.mp3]	If someone or something is alive, they are not dead.	My grandparents are still alive even though they are over 90.	
+		
+inside	всередині	inside.jpg	[sound:inside.mp3]	[sound:inside_meaning.mp3]	[sound:inside_example.mp3]	inside means the inner part, space or side of something.	The inside of the box was empty.	
+		
+toward	до	toward.jpg	[sound:toward.mp3]	[sound:toward_meaning.mp3]	[sound:toward_example.mp3]	If you go toward something, you go closer to it.	Santa walked toward my house with a special tree.	
+		
+beat	бити	beat.jpg	[sound:beat.mp3]	[sound:beat_meaning.mp3]	[sound:beat_example.mp3]	To beat someone means to do better than they do.	I managed to beat everyone in the race.	
+		
+above	вище	above.jpg	[sound:above.mp3]	[sound:above_meaning.mp3]	[sound:above_example.mp3]	If something is above, it is at a higher level than something else.	He straightened the sign that was above the crowd.	
+		
+beside	поруч	beside.jpg	[sound:beside.mp3]	[sound:beside_meaning.mp3]	[sound:beside_example.mp3]	When someone or something is beside you, they are next to you.	The two brothers stood beside each other.	
+		
+fear	страх	fear.jpg	[sound:fear.mp3]	[sound:fear_meaning.mp3]	[sound:fear_example.mp3]	fear is the feeling of being afraid.	I have a great fear of skateboarding.	
+		
+blanket	ковдра	blanket.jpg	[sound:blanket.mp3]	[sound:blanket_meaning.mp3]	[sound:blanket_example.mp3]	A blanket is a piece of cloth that you use to keep warm or to sit upon.	I laid a blanket on the ground so that we could have a picnic.	
+		
+wake	пробудження	wake.jpg	[sound:wake.mp3]	[sound:wake_meaning.mp3]	[sound:wake_example.mp3]	To wake is to not be sleeping anymore.	He is always full of energy when he wakes in the morning.	
+		
+set	набір	set.jpg	[sound:set.mp3]	[sound:set_meaning.mp3]	[sound:set_example.mp3]	To set something is to put it somewhere.	Please set the dice down on the table.	
+		
+weed	бур&#39;ян	weed.jpg	[sound:weed_1434531251878.mp3]	[sound:weed_meaning.mp3]	[sound:weed_example.mp3]	A weed is a plant, especially one that is not useful or wanted.	The yard of the house was full of ugly weeds.	
+		
+ahead	вперед	ahead.jpg	[sound:ahead.mp3]	[sound:ahead_meaning.mp3]	[sound:ahead_example.mp3]	If something is ahead of something else, it is in front of it.	The blue car drove an ahead of us.	
+		
+lightly	злегка	lightly.jpg	[sound:lightly.mp3]	[sound:lightly_meaning.mp3]	[sound:lightly_example.mp3]	To do something lightly is to not push very hard.	Draw lightly so you do not tear your paper.	
+		
+shut	закритий	shut.jpg	[sound:shut.mp3]	[sound:shut_meaning.mp3]	[sound:shut_example.mp3]	To shut something means to close it tightly.	Please shut the door; the air outside is cold.	
+		
+found	знайдено	found.jpg	[sound:found.mp3]	[sound:found_meaning.mp3]	[sound:found_example.mp3]	To found a company or organization means to start it.	The pilgrims founded one of the first colonies in the United States.	
+		
+glow	свічення	glow.jpg	[sound:glow.mp3]	[sound:glow_meaning.mp3]	[sound:glow_example.mp3]	To glow is to make a soft light.	The small flame glowed softly.	
+		
+gulf	затоку	gulf.jpg	[sound:gulf.mp3]	[sound:gulf_meaning.mp3]	[sound:gulf_example.mp3]	A gulf is a gap between people who do not understand each other.	There has been a gulf between James and Tony since their parents died.	
+		
+finally	нарешті	finally.jpg	[sound:finally.mp3]	[sound:finally_meaning.mp3]	[sound:finally_example.mp3]	If something happens finally, it happens after a longtime or at the end.	He finally crossed the finish line after five hours of running.	
+		
+quite	цілком	quite.jpg	[sound:quite.mp3]	[sound:quite_meaning.mp3]	[sound:quite_example.mp3]	quite is used to say that something is complete or very much.	I think typing on a keyboard is quite easy.	
+		
+already	вже	already.jpg	[sound:already.mp3]	[sound:already_meaning.mp3]	[sound:already_example.mp3]	If something happens already, it happens before a certain time.	It is already time for the movie to start. Let's go in.	
+		
+length	довжини	length.jpg	[sound:length.mp3]	[sound:length_meaning.mp3]	[sound:length_example.mp3]	The length of something is how long it is from one end to the other.	The length of the floor is three meters.	
+		
+faint	слабкий	faint.jpg	[sound:faint.mp3]	[sound:faint_meaning.mp3]	[sound:faint_example.mp3]	To faint means to go unconscious and fall down.	Carol fainted because she hadn't eaten in over a day.	
+		
+edge	край	edge.jpg	[sound:edge.mp3]	[sound:edge_meaning.mp3]	[sound:edge_example.mp3]	The edge of something is the part of it that is farthest from the center.	He ran to the edge of the cliff.	
+		
+later	пізніше	later.jpg	[sound:later.mp3]	[sound:later_meaning.mp3]	[sound:later_example.mp3]	later means after the present, expected, or usual time.	She missed the train, so she'll arrive a little later than expected.	
+		
+sheet	лист	sheet.jpg	[sound:sheet.mp3]	[sound:sheet_meaning.mp3]	[sound:sheet_example.mp3]	A sheet is a thin flat piece of paper.	I only needed a single sheet of paper to do my homework.	
+		
+sight	зір	sight.jpg	[sound:sight.mp3]	[sound:sight_meaning.mp3]	[sound:sight_example.mp3]	A sight is something interesting to see.	I saw the pyramids of Egypt. What a sight!	
+		
+wire	дроту	wire.jpg	[sound:wire.mp3]	[sound:wire_meaning.mp3]	[sound:wire_example.mp3]	A wire is a thin string made out of metal.	The wires were connected to towers that brought electricity to the city.	
+		
+feed	корм	feed.jpg	[sound:feed_1434531251878.mp3]	[sound:feed_meaning.mp3]	[sound:feed_example.mp3]	To feed is to give food.	Mother feeds my baby brother everyday.	
+		
+bill	рахунок	bill.jpg	[sound:bill_1434531251878.mp3]	[sound:bill_meaning.mp3]	[sound:bill_example.mp3]	A bill is a statement of money owed for goods or a service.	I have so many bills that I do not know how to pay for them all.	
+		
+drag	перетягування	drag.jpg	[sound:drag.mp3]	[sound:drag_meaning.mp3]	[sound:drag_example.mp3]	To drag something means to pull it across the ground.	The dog was dragging his owner down the street.	
+		
+cramp	судома	cramp.jpg	[sound:cramp.mp3]	[sound:cramp_meaning.mp3]	[sound:cramp_example.mp3]	A cramp is a strong pain caused by a muscle after a lot of physical use.	After the marathon, Jenny got a terrible cramp in her calf muscle.	
+		
+spur	шпора	spur.jpg	[sound:spur.mp3]	[sound:spur_meaning.mp3]	[sound:spur_example.mp3]	To spur someone means to urge them into action.	The coach’s speech spurred her team into playing the best game of their lives.	
+		
+either	або	either.jpg	[sound:either.mp3]	[sound:either_meaning.mp3]	[sound:either_example.mp3]	"either is used with """"or"""" to say there are two or more possibilities."	You can choose to be either white or black when you play chess.	
+		
+flesh	плоті	flesh.jpg	[sound:flesh.mp3]	[sound:flesh_meaning.mp3]	[sound:flesh_example.mp3]	flesh is the skin, muscle and fat on your body.	The zebra's flesh has black and white stripes.	
+		
+net	чистий	net.jpg	[sound:net.mp3]	[sound:net_meaning.mp3]	[sound:net_example.mp3]	A net is a bag made of strong thread. It is used to catch animals.	The boy caught butterflies in his net.	
+		
+noise	шум	noise.jpg	[sound:noise.mp3]	[sound:noise_meaning.mp3]	[sound:noise_example.mp3]	A noise is an unpleasant sound.	The crying baby made a loud noise.	
+		
+confidence	довіру	confidence.jpg	[sound:confidence.mp3]	[sound:confidence_meaning.mp3]	[sound:confidence_example.mp3]	If you have confidence about something, you are sure of it.	I have confidence that I did well on the test.	
+		
+borrow	позичати	borrow.jpg	[sound:borrow.mp3]	[sound:borrow_meaning.mp3]	[sound:borrow_example.mp3]	To borrow something is to take it and then give it back later.	Can I borrow a pencil to use today? I'll give it back to you tomorrow.	
+		
+belly	живіт	belly.jpg	[sound:belly.mp3]	[sound:belly_meaning.mp3]	[sound:belly_example.mp3]	The belly is the stomach of a person or animal.	His belly was full because he ate a lot of food.	
+		
+difference	різниця	difference.jpg	[sound:difference.mp3]	[sound:difference_meaning.mp3]	[sound:difference_example.mp3]	A difference is a way that something is not like other things.	The biggest difference between the birds is the color of their feathers.	
+		
+trail	слід	trail.jpg	[sound:trail.mp3]	[sound:trail_meaning.mp3]	[sound:trail_example.mp3]	A trail is a path through a wild area.	A narrow trail cut through the field and over the hills.	
+		
+dip	dip	dip.jpg	[sound:dip.mp3]	[sound:dip_meaning.mp3]	[sound:dip_example.mp3]	To dip something is to put part of it into a liquid for a short time.	Laurel dipped her strawberry into the chocolate.	
+		
+sudden	раптово	sudden.jpg	[sound:sudden.mp3]	[sound:sudden_meaning.mp3]	[sound:sudden_example.mp3]	When something is sudden, it happens very quickly.	He felt a sudden pain in his chest.	
+		
+delicate	делікатний	delicate.jpg	[sound:delicate.mp3]	[sound:delicate_meaning.mp3]	[sound:delicate_example.mp3]	If something or someone is delicate, they are easy to break or harm.	You should hold the baby carefully because she's very delicate.	
+		
+effort	зусиль	effort.jpg	[sound:effort.mp3]	[sound:effort_meaning.mp3]	[sound:effort_example.mp3]	effort is hard work or an attempt to do something.	He always puts a lot of effort into his studies.	
+		
+necessary	необхідно	necessary.jpg	[sound:necessary.mp3]	[sound:necessary_meaning.mp3]	[sound:necessary_example.mp3]	If something is necessary, you must do it.	It is necessary to have a passport when you travel to a foreign country.	
+		
+forever	назавжди	forever.jpg	[sound:forever.mp3]	[sound:forever_meaning.mp3]	[sound:forever_example.mp3]	If something lasts forever, it means it lasts for all time.	The young couple promised that they would love each other forever.	
+		
+afraid	бояться	afraid.jpg	[sound:afraid.mp3]	[sound:afraid_meaning.mp3]	[sound:afraid_example.mp3]	When someone is afraid, they feel fear.	The woman was afraid of what she saw.	
+		
+sharp	гострий	sharp.jpg	[sound:sharp.mp3]	[sound:sharp_meaning.mp3]	[sound:sharp_example.mp3]	When something is sharp, it has a thin edge that cuts things easily.	That knife is very sharp. Be careful not to hurt yourself.	
+		
+loose	вільний	loose.jpg	[sound:loose_1434531251878.mp3]	[sound:loose_meaning.mp3]	[sound:loose_example.mp3]	When something is loose, it is not held in place well.	The bolt was loose, so I tightened it with the wrench.	
+		
+leave	залишати	leave.jpg	[sound:leave.mp3]	[sound:leave_meaning.mp3]	[sound:leave_example.mp3]	To leave means to go away from someone or something.	He packed his bag and was ready to leave for home.	
+		
+confident	впевнений	confident.jpg	[sound:confident_1434531251878.mp3]	[sound:confident_meaning.mp3]	[sound:confident_example.mp3]	confident means that one believes they can do something without failing.	She was confident she could climb the mountain due to her training.	
+		
+coast	узбережжі	coast.jpg	[sound:coast.mp3]	[sound:coast_meaning.mp3]	[sound:coast_example.mp3]	The coast is the land by an ocean.	I stayed on the southern coast of Australia.	
+		
+cast	лиття	cast.jpg	[sound:cast.mp3]	[sound:cast_meaning.mp3]	[sound:cast_example.mp3]	To cast something means to throw it.	The fisherman cast his line into the water.cast - the actors and actresses in a play, movie, or television show.	
+		
+happen	трапляються	happen.jpg	[sound:happen.mp3]	[sound:happen_meaning.mp3]	[sound:happen_example.mp3]	If someone happens  to do something, they do it by chance.	I happen to meet some new friends at school today.	
+		
+excellent	відмінно	excellent.jpg	[sound:excellent.mp3]	[sound:excellent_meaning.mp3]	[sound:excellent_example.mp3]	When something is excellent, it is very good.	I got an excellent score on my school test.	
+		
+beach	Пляжний	beach.jpg	[sound:beach.mp3]	[sound:beach_meaning.mp3]	[sound:beach_example.mp3]	The beach is a sandy or rocky place by the ocean.	The little girl built a sandcastle on the beach.	
+		
+suddenly	раптом	suddenly.jpg	[sound:suddenly.mp3]	[sound:suddenly_meaning.mp3]	[sound:suddenly_example.mp3]	If something happens suddenly, it happens quickly and unexpectedly.	I was suddenly surprised by the cake my friends brought me.	
+		
+wild	дикий	wild.jpg	[sound:wild.mp3]	[sound:wild_meaning.mp3]	[sound:wild_example.mp3]	If something is wild, it is found in nature.	You should be careful around a fox, because it is a wild animal.	
+		
+flat	квартира	flat.jpg	[sound:flat.mp3]	[sound:flat_meaning.mp3]	[sound:flat_example.mp3]	flat describes something that is level and smooth with no curved parts.	My parents bought a new flat screen TV over the weekend.	
+		
+further	далі	further.jpg	[sound:further.mp3]	[sound:further_meaning.mp3]	[sound:further_example.mp3]	further is used to say something is from a distance or time.	The escalator is further along than I thought.	
+		
+solid	тверда речовина	solid.jpg	[sound:solid.mp3]	[sound:solid_meaning.mp3]	[sound:solid_example.mp3]	If something is solid, it is made of firm material.	The safe looked to be quite solid.	
+		
+shore	берег	shore.jpg	[sound:shore.mp3]	[sound:shore_meaning.mp3]	[sound:shore_example.mp3]	A shore is the edge of a large body of water.	All of the boats were floating near the shore.	
+		
+yet	ще	yet.jpg	[sound:yet.mp3]	[sound:yet_meaning.mp3]	[sound:yet_example.mp3]	yet is used to say something has not happened up to now.	We can't go out yet; we're still eating.	
+		
+chance	шанс	chance.jpg	[sound:chance.mp3]	[sound:chance_meaning.mp3]	[sound:chance_example.mp3]	A chance is an opportunity to do something.	I had a chance to see the Roman Coliseum last summer.	
+		
+shape	форми	shape.jpg	[sound:shape.mp3]	[sound:shape_meaning.mp3]	[sound:shape_example.mp3]	A shape is a simple form like a square or circle.	The triangle is my favorite shape.	
+		
+stupid	дурний	stupid.jpg	[sound:stupid.mp3]	[sound:stupid_meaning.mp3]	[sound:stupid_example.mp3]	When someone is stupid, they lack intelligence.	He said something stupid that made everyone angry at him.	
+		
+sweat	піт	sweat.jpg	[sound:sweat.mp3]	[sound:sweat_meaning.mp3]	[sound:sweat_example.mp3]	To sweat means to lose liquid from the body through the skin.	Whenever I workout, I sweat quite a bit.	
+		
+pressure	тиску	pressure.jpg	[sound:pressure.mp3]	[sound:pressure_meaning.mp3]	[sound:pressure_example.mp3]	pressure is what you apply to make someone do something.	They put pressure on him to change his mind.	
+		
+plenty	багато	plenty.jpg	[sound:plenty.mp3]	[sound:plenty_meaning.mp3]	[sound:plenty_example.mp3]	To have plenty of something is to have more than you need.	The school had plenty of books for the students to read.	
+		
+handle	ручкою	handle.jpg	[sound:handle.mp3]	[sound:handle_meaning.mp3]	[sound:handle_example.mp3]	A handle is the part of an object people hold while using it.	The pot is very hot. So pick it up by the handle.	
+		
+stem	стебло	stem.jpg	[sound:stem.mp3]	[sound:stem_meaning.mp3]	[sound:stem_example.mp3]	The stem of a plant is the stick that grows leaves or flowers.	The rose had a long thin stem.	
+		
+instead	замість цього	instead.jpg	[sound:instead.mp3]	[sound:instead_meaning.mp3]	[sound:instead_example.mp3]	instead means in place of.	He ate the carrot instead of the ice cream.	
+		
+raw	сировина	raw.jpg	[sound:raw.mp3]	[sound:raw_meaning.mp3]	[sound:raw_example.mp3]	If a material is raw, it is natural and has not been processed.	The company dumped raw sewage into the river.	
+		
+hurricane	ураган	hurricane.jpg	[sound:hurricane.mp3]	[sound:hurricane_meaning.mp3]	[sound:hurricane_example.mp3]	A hurricane is a bad storm that happens over the ocean.	The wind from the hurricane bent the palm tree.	
+		
+sword	меч	sword.jpg	[sound:sword.mp3]	[sound:sword_meaning.mp3]	[sound:sword_example.mp3]	A sword is a long sharp weapon.	They used to use swords in battles in ancient times.	
+		
+hail	град	hail.jpg	[sound:hail.mp3]	[sound:hail_meaning.mp3]	[sound:hail_example.mp3]	hail is ice that falls from the sky when rain freezes.	The hail from the storm was the size of golf balls.	
+		
+swim	плавати	swim.jpg	[sound:swim.mp3]	[sound:swim_meaning.mp3]	[sound:swim_example.mp3]	To swim is to move through water.	I love to swim in the ocean.	
+		
+lower	нижче	lower.jpg	[sound:lower.mp3]	[sound:lower_meaning.mp3]	[sound:lower_example.mp3]	To lower something is to make it go down.	The chart shows how his production has lowered over the year.	
+		
+stream	потік	stream.jpg	[sound:stream.mp3]	[sound:stream_meaning.mp3]	[sound:stream_example.mp3]	A stream is a small river.	The boy caught a fish in the stream.	
+		
+stuff	речі	stuff.jpg	[sound:stuff.mp3]	[sound:stuff_meaning.mp3]	[sound:stuff_example.mp3]	stuff is a word used to refer to things without mentioning the things by name.	We gave a lot of stuff to the charity.	
+		
+throw	кинути	throw.jpg	[sound:throw.mp3]	[sound:throw_meaning.mp3]	[sound:throw_example.mp3]	To throw something is to use your hand to make it go through the air.	The pitcher can throw the baseball very fast.	
+		
+wet	мокрий	wet.jpg	[sound:wet.mp3]	[sound:wet_meaning.mp3]	[sound:wet_example.mp3]	If something is wet, it has water on it.	Since my dog was wet, he tried to shake all the water off his body.	
+		
+whole	цілком	whole.jpg	[sound:whole.mp3]	[sound:whole_meaning.mp3]	[sound:whole_example.mp3]	whole  means all of something.	I ate the whole pie. We don't have any more.	
+		
+steal	вкрасти	steal.jpg	[sound:steal.mp3]	[sound:steal_meaning.mp3]	[sound:steal_example.mp3]	To steal is to take something that is not yours.	The men tried to steal money from the bank.	
+		
+loss	втрати	loss.jpg	[sound:loss.mp3]	[sound:loss_meaning.mp3]	[sound:loss_example.mp3]	A loss means the act or an instance of losing something.	I suffered a big loss while I was gambling.	
+		
+pride	гордість	pride.jpg	[sound:pride.mp3]	[sound:pride_meaning.mp3]	[sound:pride_example.mp3]	When you have pride, you are happy with yourself.	I take pride in getting good grades.	
+		
+shaft	вал	shaft.jpg	[sound:shaft.mp3]	[sound:shaft_meaning.mp3]	[sound:shaft_example.mp3]	A shaft is a handle of a tool or weapon.	The golf club had a long wooden shaft that he held in his hands.	
+		
+different	інший	different.jpg	[sound:different.mp3]	[sound:different_meaning.mp3]	[sound:different_example.mp3]	different describes someone or something that is not the same as others.	Each of my sisters has a different hair style from one another.	
+		
+sort	сортувати	sort.jpg	[sound:sort.mp3]	[sound:sort_meaning.mp3]	[sound:sort_example.mp3]	A sort of something is a type of it.	What sort of instrument do you want to learn to play?	
+		
+resolution	дозвіл	resolution.jpg	[sound:resolution.mp3]	[sound:resolution_meaning.mp3]	[sound:resolution_example.mp3]	A resolution is a personal decision.	At New Year, I made a list of resolutions to help me have a better year.	
+		
+sound	звуку	sound.jpg	[sound:sound_1434531251878.mp3]	[sound:sound_meaning.mp3]	[sound:sound_example.mp3]	To sound means to make a noise.	The alarm clock sounded and woke us all up.	
+		
+stiff	жорсткий	stiff.jpg	[sound:stiff.mp3]	[sound:stiff_meaning.mp3]	[sound:stiff_example.mp3]	When something is stiff, it is hard to move.	The bird was standing on the tree's stiff branch.	
+		
+cruel	жорстокий	cruel.jpg	[sound:cruel.mp3]	[sound:cruel_meaning.mp3]	[sound:cruel_example.mp3]	When someone is cruel, they do bad things to hurt others.	The cruel man yelled at his sister.	
+		
+rather	скоріше	rather.jpg	[sound:rather.mp3]	[sound:rather_meaning.mp3]	[sound:rather_example.mp3]	rather is used when you want to do one thing but not the other.	I would rather have the red one than the blue one.	
+		
+force	сили	force.jpg	[sound:force.mp3]	[sound:force_meaning.mp3]	[sound:force_example.mp3]	force is a person's strength or power.	He used all his force to try and open the door.	
+		
+shade	відтінок	shade.jpg	[sound:shade.mp3]	[sound:shade_meaning.mp3]	[sound:shade_example.mp3]	The shade is a dark area that something makes when it blocks the sun.	It was hot outside, so the boy sat in the shade of a tree.	
+		
+tiny	крихітний	tiny.jpg	[sound:tiny.mp3]	[sound:tiny_meaning.mp3]	[sound:tiny_example.mp3]	When people or things are tiny, they are very small.	A baby's hand is tiny.	
+		
+poison	отрута	poison.jpg	[sound:poison.mp3]	[sound:poison_meaning.mp3]	[sound:poison_example.mp3]	poison is a dangerous substance that causes illness or death.	They used poison to get rid of the rats in their home.	
+		
+taste	смак	taste.jpg	[sound:taste.mp3]	[sound:taste_meaning.mp3]	[sound:taste_example.mp3]	A taste is the flavor something makes in your mouth.	The taste of the fruit was sweet.	
+		
+among	серед	among.jpg	[sound:among.mp3]	[sound:among_meaning.mp3]	[sound:among_example.mp3]	If you are among certain things, they are all around you.	There was a red apple among green ones.	
+		
+gentle	ніжний	gentle.jpg	[sound:gentle.mp3]	[sound:gentle_meaning.mp3]	[sound:gentle_example.mp3]	Someone who is gentle is kind and calm. (to be nice or polite; opposite of rough)	He is very gentle with the baby.	
+		
+slip	ковзання	slip.jpg	[sound:slip.mp3]	[sound:slip_meaning.mp3]	[sound:slip_example.mp3]	To slip means to slide and fall down.	The man slipped on the wet floor.	
+		
+endure	терпіти	endure.jpg	[sound:endure.mp3]	[sound:endure_meaning.mp3]	[sound:endure_example.mp3]	To endure something tough means to do or go through it.	She had to endure her husband shouting all day long.	
+		
+rush	пік	rush.jpg	[sound:rush.mp3]	[sound:rush_meaning.mp3]	[sound:rush_example.mp3]	To rush is to go somewhere or do something very quickly.	Nancy rushed to finish her homework.	
+		
+choice	вибір	choice.jpg	[sound:choice.mp3]	[sound:choice_meaning.mp3]	[sound:choice_example.mp3]	A choice is the act or possibility of picking something.	I had my choice of five doors to open.	
+		
+beyond	далі	beyond.jpg	[sound:beyond.mp3]	[sound:beyond_meaning.mp3]	[sound:beyond_example.mp3]	If A is beyond B, A is farther away.	John's house is beyond that lake.	
+		
+overboard	за бортом	overboard.jpg	[sound:overboard.mp3]	[sound:overboard_meaning.mp3]	[sound:overboard_example.mp3]	When something is overboard, it is over the side of a boat and in the water.	Tom and Gary slipped on the wet floor and fell overboard.	
+		
+attention	уваги	attention.jpg	[sound:attention.mp3]	[sound:attention_meaning.mp3]	[sound:attention_example.mp3]	attention is the notice, thought, or consideration of someone.	His work got the attention of two of his co-workers.	
+		
+hardly	навряд чи	hardly.jpg	[sound:hardly.mp3]	[sound:hardly_meaning.mp3]	[sound:hardly_example.mp3]	If something hardly happens, it almost does not happen at all.	I hardly saw the concert since I had to leave early.	
+		
+bright	яскравий	bright.jpg	[sound:bright.mp3]	[sound:bright_meaning.mp3]	[sound:bright_example.mp3]	If something is bright, it shows a lot of light.	The bright light from the explosion hurt my eyes.	
+		
+noble	благородний	noble.jpg	[sound:noble.mp3]	[sound:noble_meaning.mp3]	[sound:noble_example.mp3]	A noble is a rich and powerful person.	The Queen invited a noble from a nearby country to dinner.	
+		
+match	матч	match.jpg	[sound:match.mp3]	[sound:match_meaning.mp3]	[sound:match_example.mp3]	To match is to be the same or similar.	The two shoes matched. They looked the same.	
+		
+prepare	підготувати	prepare.jpg	[sound:prepare.mp3]	[sound:prepare_meaning.mp3]	[sound:prepare_example.mp3]	To prepare is to get ready for something.	I prepared my speech to the class.	
+		
+empty	порожній	empty.jpg	[sound:empty.mp3]	[sound:empty_meaning.mp3]	[sound:empty_example.mp3]	If something is empty, it does not have anything in it.	My gas tank was almost empty, so I couldn't drive my car very long.	
+		
+defeat	поразка	defeat.jpg	[sound:defeat_1434531251878.mp3]	[sound:defeat_meaning.mp3]	[sound:defeat_example.mp3]	To defeat someone is to beat them in a game or battle.	The champion defeated the challenger in the boxing match.	
+		
+thin	тонкий	thin.jpg	[sound:thin.mp3]	[sound:thin_meaning.mp3]	[sound:thin_example.mp3]	If someone or something is thin, they are not fat.	The man was thin because he didn't eat much.	
+		
+cheerful	веселий	cheerful.jpg	[sound:cheerful.mp3]	[sound:cheerful_meaning.mp3]	[sound:cheerful_example.mp3]	If someone is cheerful, they are happy or feel good.	The children were cheerful because they didn't have to go to school.	
+		
+normal	нормальний	normal.jpg	[sound:normal.mp3]	[sound:normal_meaning.mp3]	[sound:normal_example.mp3]	If something is normal, it is not strange nor surprising to you.	It is normal for me to bathe every night.	
+		
+faith	віра	faith.jpg	[sound:faith.mp3]	[sound:faith_meaning.mp3]	[sound:faith_example.mp3]	When people have faith in something, they believe in it and trust it.	The sick girl had faith in doctors. She knew they would make her better.	
+		
+pleasant	приємний	pleasant.jpg	[sound:pleasant.mp3]	[sound:pleasant_meaning.mp3]	[sound:pleasant_example.mp3]	If something is pleasant, you enjoy it.	The character had a pleasant look on its face.	
+		
+row	рядок	row.jpg	[sound:row.mp3]	[sound:row_meaning.mp3]	[sound:row_example.mp3]	A row is a line of things.	James put all of his toy soldiers into neat rows.	
+		
+shiver	тремтіння	shiver.jpg	[sound:shiver.mp3]	[sound:shiver_meaning.mp3]	[sound:shiver_example.mp3]	A shiver is a shaking movement the body makes when someone is cold or scared.	I got shivers on my way home because it was so cold.	
+		
+aid	допомогу	aid.jpg	[sound:aid.mp3]	[sound:aid_meaning.mp3]	[sound:aid_example.mp3]	To aid someone is to help them when they need something.	The doctor aided the boy after his accident.	
+		
+pot	може	pot.jpg	[sound:pot.mp3]	[sound:pot_meaning.mp3]	[sound:pot_example.mp3]	A pot is a deep, round metal container used for cooking.	Don't touch the pot on the stove. It's hot.	
+		
+fiction	фантастика	fiction.jpg	[sound:fiction.mp3]	[sound:fiction_meaning.mp3]	[sound:fiction_example.mp3]	fiction is a story that is not true.	I enjoy reading works of fiction because they are very entertaining.	
+		
+whether	чи	whether.jpg	[sound:whether.mp3]	[sound:whether_meaning.mp3]	[sound:whether_example.mp3]	You use whether when you must choose between two things.	I could not decide whether to go left or right.	
+		
+supper	вечеря	supper.jpg	[sound:supper.mp3]	[sound:supper_meaning.mp3]	[sound:supper_example.mp3]	supper is a meal that is eaten in the evening.	We usually have supper around 6 o'clock at my house.	
+		
+village	село	village.jpg	[sound:village.mp3]	[sound:village_meaning.mp3]	[sound:village_example.mp3]	A village is a very small town.	There are only a few houses in my village.	
+		
+timid	боязкий	timid.jpg	[sound:timid.mp3]	[sound:timid_meaning.mp3]	[sound:timid_example.mp3]	If someone is timid, they are afraid, shy, or nervous.	The timid child hides behind her mother whenever she sees a stranger.	
+		
+rough	грубий	rough.jpg	[sound:rough.mp3]	[sound:rough_meaning.mp3]	[sound:rough_example.mp3]	When something is rough, it is not even or smooth.	The rough ground hurt my feet.	
+		
+prove	довести	prove.jpg	[sound:prove.mp3]	[sound:prove_meaning.mp3]	[sound:prove_example.mp3]	To prove something is to show that it is true.	My teacher proved the answer on the board.	
+		
+alarm	тривоги	alarm.jpg	[sound:alarm.mp3]	[sound:alarm_meaning.mp3]	[sound:alarm_example.mp3]	An alarm is something that warns people of danger.	When the students heard the fire alarm, they left the building.	
+		
+pillow	подушка	pillow.jpg	[sound:pillow.mp3]	[sound:pillow_meaning.mp3]	[sound:pillow_example.mp3]	A pillow is something that you put your head on when you sleep.	When I travel, I usually take along my favorite pillow.	
+		
+bare	просто	bare.jpg	[sound:bare.mp3]	[sound:bare_meaning.mp3]	[sound:bare_example.mp3]	When something is bare, it is plain. It has no covering.	He likes to walk around in his bare feet.	
+		
+coral	корали	coral.jpg	[sound:coral.mp3]	[sound:coral_meaning.mp3]	[sound:coral_example.mp3]	coral is the hard, colorful material formed by the shells of animals.	The diver admired the beautiful coral under the water.	
+		
+enemy	ворога	enemy.jpg	[sound:enemy.mp3]	[sound:enemy_meaning.mp3]	[sound:enemy_example.mp3]	An enemy is a country that is fighting another country during a war.	The enemy prepared to attack the kingdom.	
+		
+proper	власне	proper.jpg	[sound:proper.mp3]	[sound:proper_meaning.mp3]	[sound:proper_example.mp3]	If something is proper, it is right.	It is not proper to throw your garbage on the road.	
+		
+level	рівень	level.jpg	[sound:level.mp3]	[sound:level_meaning.mp3]	[sound:level_example.mp3]	A level is a point on a scale that measures something.	Please check the level of the temperature.	
+		
+drift	дрейф	drift.jpg	[sound:drift.mp3]	[sound:drift_meaning.mp3]	[sound:drift_example.mp3]	To drift means to be moved slowly by wind or water.	The large chunk of ice drifted in the water.	
+		
+flight	політ	flight.jpg	[sound:flight.mp3]	[sound:flight_meaning.mp3]	[sound:flight_example.mp3]	A flight is an act of flying, often in an airplane.	The airplane made a flight around the world.	
+		
+yard	дворі	yard.jpg	[sound:yard.mp3]	[sound:yard_meaning.mp3]	[sound:yard_example.mp3]	A yard is the ground just outside of a person's house.	The girls jumped rope in the yard.	
+		
+friendly	доброзичливий	friendly.jpg	[sound:friendly.mp3]	[sound:friendly_meaning.mp3]	[sound:friendly_example.mp3]	friendly is behaving in a pleasant, kind way toward someone.	The friendly animals came up to the girl.	
+		
+worse	гірше	worse.jpg	[sound:worse.mp3]	[sound:worse_meaning.mp3]	[sound:worse_example.mp3]	If something is worse, it is of poorer quality than another thing.	Business was worse this month than last month.	
+		
+panic	паніка	panic.jpg	[sound:panic.mp3]	[sound:panic_meaning.mp3]	[sound:panic_example.mp3]	To panic is to feel so nervous or afraid that you cannot think clearly.	Everyone panicked when the house caught on fire.	
+		
+loop	петлі	loop.jpg	[sound:loop.mp3]	[sound:loop_meaning.mp3]	[sound:loop_example.mp3]	A loop is a line made into shape of a circle.	He made a loop with the rope and placed it over the post.	
+		
+firm	фірми	firm.jpg	[sound:firm.mp3]	[sound:firm_meaning.mp3]	[sound:firm_example.mp3]	When something is firm, it is solid but not too hard.	He sleeps better on a firm bed.	
+		
+sign	знак	sign.jpg	[sound:sign.mp3]	[sound:sign_meaning.mp3]	[sound:sign_example.mp3]	A sign is a notice giving information, directions, a warning, etc.	The sign indicated that today would be a bad day.	
+		
+forefinger	вказівний палець	forefinger.jpg	[sound:forefinger.mp3]	[sound:forefinger_meaning.mp3]	[sound:forefinger_example.mp3]	The forefinger is the finger between one’s thumb and middle finger.	He shouted, “ There it is!” and pointed with his forefinger.	
+		
+lovely	прекрасний	lovely.jpg	[sound:lovely.mp3]	[sound:lovely_meaning.mp3]	[sound:lovely_example.mp3]	If people or things are lovely, they are good-looking or beautiful.	The trees look lovely in the fall.	
+		
+raise	піднімати	raise.jpg	[sound:raise_1434531251878.mp3]	[sound:raise_meaning.mp3]	[sound:raise_example.mp3]	To raise something is to lift it up.	We had to work together to raise the last piece.	
+		
+straw	соломи	straw.jpg	[sound:straw.mp3]	[sound:straw_meaning.mp3]	[sound:straw_example.mp3]	A straw is a thin tube that is used to suck liquid into the mouth.	I drank the orange juice through a straw.	
+		
+blow	удар	blow.jpg	[sound:blow.mp3]	[sound:blow_meaning.mp3]	[sound:blow_example.mp3]	To blow means to move air or move something through the air, as in the wind.	The wind is blowing very hard today. We should stay inside.	
+		
+pity	жалість	pity.jpg	[sound:pity.mp3]	[sound:pity_meaning.mp3]	[sound:pity_example.mp3]	pity is the feeling of sadness and kindness for those who are suffering.	Because she had pity for the lost boy, she helped him find his parents.	
+		
+desperate	відчайдушний	desperate.jpg	[sound:desperate_1434531251878.mp3]	[sound:desperate_meaning.mp3]	[sound:desperate_example.mp3]	If you are desperate, you will try anything to do or change something.	I'm desperate to find a new job.	
+		
+treachery	зрада	treachery.jpg	[sound:treachery.mp3]	[sound:treachery_meaning.mp3]	[sound:treachery_example.mp3]	treachery is a behavior in which a person betrays a country or a person.	The man ran away to escape from the treachery of his wife.	
+		
+chin	підборіддя	chin.jpg	[sound:chin.mp3]	[sound:chin_meaning.mp3]	[sound:chin_example.mp3]	Your chin is the hard part at the bottom of your face.	Luke pointed to the hair on his chin.	
+		
+suppose	припустимо	suppose.jpg	[sound:suppose.mp3]	[sound:suppose_meaning.mp3]	[sound:suppose_example.mp3]	To suppose is to guess.	I suppose I should go home now.	
+		
+mean	маю на увазі	mean.jpg	[sound:mean.mp3]	[sound:mean_meaning.mp3]	[sound:mean_example.mp3]	mean describes someone who is unkind or cruel.	My co-worker is a very mean person. He gets angry very quickly.	
+		
+increase	збільшувати	increase.jpg	[sound:increase.mp3]	[sound:increase_meaning.mp3]	[sound:increase_example.mp3]	To increase something is to make it larger or more.	They've increased the price of gas by 15 cents!	
+		
+reach	досягти	reach.jpg	[sound:reach.mp3]	[sound:reach_meaning.mp3]	[sound:reach_example.mp3]	To reach means to arrive at a place.	I was happy to finally reach my destination.	
+		
+fault	вини	fault.jpg	[sound:fault.mp3]	[sound:fault_meaning.mp3]	[sound:fault_example.mp3]	A fault is a mistake.	It is my fault that the cat ran away. I left the door open.	
+		
+chew	жувати	chew.jpg	[sound:chew.mp3]	[sound:chew_meaning.mp3]	[sound:chew_example.mp3]	To chew is to move your mouth to break up food.	I always chew my food carefully before swallowing it.	
+		
+own	власні	own.jpg	[sound:own.mp3]	[sound:own_meaning.mp3]	[sound:own_example.mp3]	To own something means to have it. That thing belongs to you.	My grandfather owns that house.	
+		
+vomit	блювота	vomit.jpg	[sound:vomit.mp3]	[sound:vomit_meaning.mp3]	[sound:vomit_example.mp3]	To vomit means to have food come up from one’s stomach.	It is common for women to vomit when they are pregnant.	
+		
+convince	переконати	convince.jpg	[sound:convince.mp3]	[sound:convince_meaning.mp3]	[sound:convince_example.mp3]	To convince someone means to make them sure of something.	She convinced me to buy the house.	
+		
+promise	обіцяють	promise.jpg	[sound:promise.mp3]	[sound:promise_meaning.mp3]	[sound:promise_example.mp3]	To promise is to say you will do something for sure.	He promised to return my key by tomorrow.	
+		
+pray	молитися	pray.jpg	[sound:pray.mp3]	[sound:pray_meaning.mp3]	[sound:pray_example.mp3]	To pray means to talk to God.	When people go to church, they pray for their families and friends.	
+		
+board	борту	board.jpg	[sound:board.mp3]	[sound:board_meaning.mp3]	[sound:board_example.mp3]	A board is a flat piece of wood.	The sign was made of a few wooden boards.	
+		
+save	зберегти	save.jpg	[sound:save.mp3]	[sound:save_meaning.mp3]	[sound:save_example.mp3]	To save something is to keep it from being hurt.	I want to help save the world.	
+		
+shift	зміщення	shift.jpg	[sound:shift_1434531251878.mp3]	[sound:shift_meaning.mp3]	[sound:shift_example.mp3]	To shift to something is to move into a new place or direction.	He shifted to the other side of the table to eat his breakfast.	
+		
+return	повернення	return.jpg	[sound:return.mp3]	[sound:return_meaning.mp3]	[sound:return_example.mp3]	To return is to go back to a place.	I was happy to return home to my mom after school.	
+		
+safety	безпеки	safety.jpg	[sound:safety.mp3]	[sound:safety_meaning.mp3]	[sound:safety_example.mp3]	safety means to be the condition of being safe and free from danger.	For his own safety, he was placed in a car seat.	
+		
+fit	підходять	fit.jpg	[sound:fit.mp3]	[sound:fit_meaning.mp3]	[sound:fit_example.mp3]	If something fits, it is small enough or the right size to go there.	The colorful eggs fit into the box.	
+		
+cloud	хмара	cloud.jpg	[sound:cloud.mp3]	[sound:cloud_meaning.mp3]	[sound:cloud_example.mp3]	A cloud is a group of water drops in the sky.	The sky was filled with white clouds.	
+		
+patch	патч	patch.jpg	[sound:patch.mp3]	[sound:patch_meaning.mp3]	[sound:patch_example.mp3]	A patch is a part of a surface that is different in appearance from the rest.	There was one small patch of grass in the sand-covered desert.	
+		
+hide	приховати	hide.jpg	[sound:hide.mp3]	[sound:hide_meaning.mp3]	[sound:hide_example.mp3]	To hide is to try not to let others see you.	The other children will hide while you count to 100.	
+		
+spot	місце	spot.jpg	[sound:spot.mp3]	[sound:spot_meaning.mp3]	[sound:spot_example.mp3]	A spot is a place where something happens.	The kitchen is a good spot to eat meals.	
+		
+flour	борошно	flour.jpg	[sound:flour.mp3]	[sound:flour_meaning.mp3]	[sound:flour_example.mp3]	flour is a powder made from plants that is used to make foods like bread.	I wanted to bake a pie, but I needed flour.	
+		
+flag	прапор	flag.jpg	[sound:flag.mp3]	[sound:flag_meaning.mp3]	[sound:flag_example.mp3]	A flag is a piece of colored cloth that represents something.	Our country has a beautiful flag.	
+		
+permanent	постійний	permanent.jpg	[sound:permanent.mp3]	[sound:permanent_meaning.mp3]	[sound:permanent_example.mp3]	If something is permanent, it lasts for a long time or forever.	We don't know if Aunt Mildred's visit will be a permanent one.	
+		
+benevolent	доброзичливий	benevolent.jpg	[sound:benevolent.mp3]	[sound:benevolent_meaning.mp3]	[sound:benevolent_example.mp3]	If someone is benevolent, they are kind and generous.	My father was a benevolent man and gave lots of money to charity.	
+		
+none	ні	none.jpg	[sound:none.mp3]	[sound:none_meaning.mp3]	[sound:none_example.mp3]	none means not any of someone or something.	He spent all his money. There is none left.	
+		
+desert	пустелі	desert.jpg	[sound:desert.mp3]	[sound:desert_meaning.mp3]	[sound:desert_example.mp3]	The desert is an area of land without many plants or water.	Not many plants grow in the desert.	
+		
+obey	підкорятися	obey.jpg	[sound:obey.mp3]	[sound:obey_meaning.mp3]	[sound:obey_example.mp3]	To obey means to follow what a law or a person says you must do.	My little sister did not obey my mother. Now she is in trouble.	
+		
+offer	пропозицію	offer.jpg	[sound:offer.mp3]	[sound:offer_meaning.mp3]	[sound:offer_example.mp3]	To offer is to present someone with something.	He offered me the keys to his car.	
+		
+angry	сердитий	angry.jpg	[sound:angry.mp3]	[sound:angry_meaning.mp3]	[sound:angry_example.mp3]	When someone is angry, they may want to speak loudly or fight.	She didn’t do her homework, so her father is angry.	
+		
+factory	фабрика	factory.jpg	[sound:factory.mp3]	[sound:factory_meaning.mp3]	[sound:factory_example.mp3]	A factory is a building where things are made or put together.	We have only one factory in our town.	
+		
+cove	бухта	cove.jpg	[sound:cove.mp3]	[sound:cove_meaning.mp3]	[sound:cove_example.mp3]	A cove is a part of land where it curves inward around the sea.	They hid the boat in a small cove on the south side of the island.	
+		
+block	блок	block.jpg	[sound:block.mp3]	[sound:block_meaning.mp3]	[sound:block_example.mp3]	A block is a solid piece of wood, stone or ice.	I saw a block of ice on the floor.	
+		
+tackle	снасті	tackle.jpg	[sound:tackle.mp3]	[sound:tackle_meaning.mp3]	[sound:tackle_example.mp3]	To tackle something means to deal with it in a determined and efficient way.	Such social problems need to be tackled right away.	
+		
+serve	служити	serve.jpg	[sound:serve.mp3]	[sound:serve_meaning.mp3]	[sound:serve_example.mp3]	To serve someone is to give them food or drinks.	He served us our drinks quickly.	
+		
+gamble	спекуляція	gamble.jpg	[sound:gamble.mp3]	[sound:gamble_meaning.mp3]	[sound:gamble_example.mp3]	To gamble means to play a game that involves winning or losing money.	Many people like to go to casinos to gamble.	
+		
+blind	сліпий	blind.jpg	[sound:blind.mp3]	[sound:blind_meaning.mp3]	[sound:blind_example.mp3]	When people are blind, they cannot see.	The blind man didn't see the hole and almost fell in.	
+		
+dew	роса	dew.jpg	[sound:dew.mp3]	[sound:dew_meaning.mp3]	[sound:dew_example.mp3]	dew is the drops of water that form on the ground outside during the night.	When we woke up, we saw that the grass was covered in dew.	
+		
+local	місцеві	local.jpg	[sound:local.mp3]	[sound:local_meaning.mp3]	[sound:local_example.mp3]	If something is local, it is nearby.	The local market in my neighborhood sells all the food we need.	
+		
+tough	жорсткий	tough.jpg	[sound:tough.mp3]	[sound:tough_meaning.mp3]	[sound:tough_example.mp3]	If something is tough, it is difficult.	The man passed his driving test even though it was very tough.	
+		
+royal	королівський	royal.jpg	[sound:royal.mp3]	[sound:royal_meaning.mp3]	[sound:royal_example.mp3]	royal describes something that belongs to a king or queen.	The king sat upon the royal throne.	
+		
+charcoal	вугілля	charcoal.jpg	[sound:charcoal.mp3]	[sound:charcoal_meaning.mp3]	[sound:charcoal_example.mp3]	charcoal is a black material that is used as fuel for fire.	There was burnt charcoal left on the ground from an old fire.	
+		
+sacred	священний	sacred.jpg	[sound:sacred.mp3]	[sound:sacred_meaning.mp3]	[sound:sacred_example.mp3]	If something is sacred, then it is worshipped and respected.	One religion in India will not harm cows because it believes that they are sacred.	
+		
+shelf	полиця	shelf.jpg	[sound:shelf.mp3]	[sound:shelf_meaning.mp3]	[sound:shelf_example.mp3]	A shelf is a place on a wall where you put things.	I keep my clothes on a shelf in my closet.	
+		
+share	акції	share.jpg	[sound:share.mp3]	[sound:share_meaning.mp3]	[sound:share_example.mp3]	To share something is to give some of it to another person.	Jimmy shared his apple with me.	
+		
+terminal	терміналу	terminal.jpg	[sound:terminal.mp3]	[sound:terminal_meaning.mp3]	[sound:terminal_example.mp3]	If something isterminal, then it causes or results in death.<!--anki-->	Since his condition was notterminal, he felt a great sense of relief.<!--anki-->	
+		
+beg	beg	beg.jpg	[sound:beg.mp3]	[sound:beg_meaning.mp3]	[sound:beg_example.mp3]	To beg is to ask for something one really wants.	The man begged for some money.	
+		
+army	армії	army.jpg	[sound:army.mp3]	[sound:army_meaning.mp3]	[sound:army_example.mp3]	An army is a large group of people who fight in wars.	The army protects all the people in the country.	
+		
+fold	складки	fold.jpg	[sound:fold.mp3]	[sound:fold_meaning.mp3]	[sound:fold_example.mp3]	To fold is to bend something like paper or cloth so that it takes up less space.	I folded the paper and put it in my pocket.	
+		
+metal	метал	metal.jpg	[sound:metal_1434531251878.mp3]	[sound:metal_meaning.mp3]	[sound:metal_example.mp3]	metal is a strong material people use to build things.	Steel is a common metal that is used to build buildings.	
+		
+supply	постачання	supply.jpg	[sound:supply_1434531251878.mp3]	[sound:supply_meaning.mp3]	[sound:supply_example.mp3]	To supply something means to give people what they need or want.	The water heater suppl<u>i</u>ed the house with warm water.	
+		
+mistake	помилка	mistake.jpg	[sound:mistake.mp3]	[sound:mistake_meaning.mp3]	[sound:mistake_example.mp3]	A mistake is something you do wrong.	My boss always yells at me when I make a mistake.	
+		
+frequently	часто	frequently.jpg	[sound:frequently.mp3]	[sound:frequently_meaning.mp3]	[sound:frequently_example.mp3]	When something happens frequently, it happens often.	We meet frequently, either at the beginning or ending of the week.	
+		
+equal	рівні	equal.jpg	[sound:equal.mp3]	[sound:equal_meaning.mp3]	[sound:equal_example.mp3]	To be equal is to be the same.	Both students are equal in age.	
+		
+ought	Потрібно	ought.jpg	[sound:ought_1434531251878.mp3]	[sound:ought_meaning.mp3]	[sound:ought_example.mp3]	If someone ought to do something, then it is the right thing to do.	I ought to take my library books back.	
+		
+inferior	нижче	inferior.jpg	[sound:inferior.mp3]	[sound:inferior_meaning.mp3]	[sound:inferior_example.mp3]	If something is inferior, it is not as good as something else.	Cars built a hundred years ago are inferior to ones built today.	
+		
+surf	серфінг	surf.jpg	[sound:surf.mp3]	[sound:surf_meaning.mp3]	[sound:surf_example.mp3]	To surf means to use a special board to ride on waves in the ocean.	The students went to the beach to surf during their vacation.	
+		
+native	рідною	native.jpg	[sound:native.mp3]	[sound:native_meaning.mp3]	[sound:native_example.mp3]	When something is native, it is originating in a certain place or area.	Avocadoes are native fruits of Mexico.	
+		
+deck	палуба	deck.jpg	[sound:deck.mp3]	[sound:deck_meaning.mp3]	[sound:deck_example.mp3]	A deck is a wooden floor built outside of a house or the floor of a ship.	A ship will store many supplies below its deck.	
+		
+dusk	сутінки	dusk.jpg	[sound:dusk.mp3]	[sound:dusk_meaning.mp3]	[sound:dusk_example.mp3]	dusk is the time in the evening when it begins to get dark.	After dusk, Hannah would catch fireflies in the park.	
+		
+cot	дитяче ліжечко	cot.jpg	[sound:cot.mp3]	[sound:cot_meaning.mp3]	[sound:cot_example.mp3]	A cot is a small portable bed.	At the camp, the boys’ cabin was lined with cots.	
+		
+condensed	конденсований	condensed.jpg	[sound:condensed.mp3]	[sound:condensed_meaning.mp3]	[sound:condensed_example.mp3]	When a liquid is condensed, it is made thicker.	One way to make a dessert thick and sweet is to use condensed milk.	
+		
+thrust	тяга	thrust.jpg	[sound:thrust.mp3]	[sound:thrust_meaning.mp3]	[sound:thrust_example.mp3]	Tothrust means to push or move something quickly with a lot of force.<!--anki--><!--anki-->	The boxerthrust his fist into the punching bag.<!--anki--><!--anki-->	
+		
+silent	мовчать	silent.jpg	[sound:silent.mp3]	[sound:silent_meaning.mp3]	[sound:silent_example.mp3]	If someone or something is silent, they make no sound.	Since no one was home, the house was silent.	
+		
+apart	один від одного	apart.jpg	[sound:apart.mp3]	[sound:apart_meaning.mp3]	[sound:apart_example.mp3]	When people or things are apart, they are not close together.	The couple decided to live apart from each other.	
+		
+steep	крутий	steep.jpg	[sound:steep.mp3]	[sound:steep_meaning.mp3]	[sound:steep_example.mp3]	If something is steep, then its slope or angle rises or falls sharply.	He rode his bike up the steep hill to reach the top.	
+		
+fond	фон	fond.jpg	[sound:fond.mp3]	[sound:fond_meaning.mp3]	[sound:fond_example.mp3]	When someone is fond of something, they like it.	I am very fond of chocolate cake.	
+		
+principal	принципал	principal.jpg	[sound:principal.mp3]	[sound:principal_meaning.mp3]	[sound:principal_example.mp3]	A principal is a person in charge of a school.	My school's principal can be very strict with the rules.	
+		
+masculine	чоловічий	masculine.jpg	[sound:masculine.mp3]	[sound:masculine_meaning.mp3]	[sound:masculine_example.mp3]	When something is masculine, it is a quality or thing related to men.	American football is usually considered a masculine sport.	
+		
+feminine	жіночий	feminine.jpg	[sound:feminine.mp3]	[sound:feminine_meaning.mp3]	[sound:feminine_example.mp3]	If something is feminine, then it has qualities that are commonly related to women.	Many of the older people thought his long hair made him look too feminine.	
+		
+wicked	злий	wicked.jpg	[sound:wicked.mp3]	[sound:wicked_meaning.mp3]	[sound:wicked_example.mp3]	If something is wicked, it is very bad or evil.	My boss is a very wicked man.	
+		
+within	всередині	within.jpg	[sound:within.mp3]	[sound:within_meaning.mp3]	[sound:within_example.mp3]	You use within to say that something is inside another thing.	within the box, there was a pizza.	
+		
+curve	крива	curve.jpg	[sound:curve.mp3]	[sound:curve_meaning.mp3]	[sound:curve_example.mp3]	To curve is to move in a line that bends and does not go straight.	The road curves to the left and to the right.	
+		
+steel	сталь	steel.jpg	[sound:steel.mp3]	[sound:steel_meaning.mp3]	[sound:steel_example.mp3]	steel is a shiny gray metal.	The new apartment building was made with steel.	
+		
+condition	стан	condition.jpg	[sound:condition.mp3]	[sound:condition_meaning.mp3]	[sound:condition_example.mp3]	The condition of someone or something is the state that they are in.	The patient's condition was very good.	
+		
+thick	товстий	thick.jpg	[sound:thick.mp3]	[sound:thick_meaning.mp3]	[sound:thick_example.mp3]	If something is thick, it is wide and solid.	The fog was so thick that I couldn't see through it.	
+		
+spare	запасний	spare.jpg	[sound:spare.mp3]	[sound:spare_meaning.mp3]	[sound:spare_example.mp3]	To spare something is to give it because you have more than you need.	I wanted to help him but I couldn't spare a tire.	
+		
+exact	точний	exact.jpg	[sound:exact.mp3]	[sound:exact_meaning.mp3]	[sound:exact_example.mp3]	If something is exact, it is just the right amount.	Please use the exact amount of sugar for the cake.	
+		
+drop	падіння	drop.jpg	[sound:drop.mp3]	[sound:drop_meaning.mp3]	[sound:drop_example.mp3]	To drop is to fall or allow something to fall.	A small amount of water dropped from the bottle.	
+		
+hurry	поспішайте	hurry.jpg	[sound:hurry.mp3]	[sound:hurry_meaning.mp3]	[sound:hurry_example.mp3]	To hurry is to do something quickly.	I hurried home on my bike.	
+		
+dive	занурення	dive.jpg	[sound:dive.mp3]	[sound:dive_meaning.mp3]	[sound:dive_example.mp3]	To dive is to jump into water.	I will dive into the lake once we get there.	
+		
+slight	незначний	slight.jpg	[sound:slight.mp3]	[sound:slight_meaning.mp3]	[sound:slight_example.mp3]	If something is slight, then it is small or minor.	There was only a slight change in the little boy’s height.	
+		
+burst	вибух	burst.jpg	[sound:burst.mp3]	[sound:burst_meaning.mp3]	[sound:burst_example.mp3]	To burst is to suddenly break open or apart.	The bomb bursted over the city.	
+		
+stray	бродячий	stray.jpg	[sound:stray.mp3]	[sound:stray_meaning.mp3]	[sound:stray_example.mp3]	To stray means to go in a wrong direction and often become lost.	He found himself lost because he had strayed from the tour group.	
+		
+dose	дози	dose.jpg	[sound:dose.mp3]	[sound:dose_meaning.mp3]	[sound:dose_example.mp3]	A dose is a certain amount of medicine that you take at one time.	My mother gave me a dose of medicine before I went to bed.	
+		
+immune	імунітет	immune.jpg	[sound:immune.mp3]	[sound:immune_meaning.mp3]	[sound:immune_example.mp3]	When someone is immune to a disease, they cannot be affected by it.	Children usually get shots to make them immune to certain diseases.	
+		
+ivy	плющ	ivy.jpg	[sound:ivy.mp3]	[sound:ivy_meaning.mp3]	[sound:ivy_example.mp3]	ivy is a plant with long vines that grows upward typically on walls.	The walls of the castle are covered with ivy.	
+		
+storm	буря	storm.jpg	[sound:storm.mp3]	[sound:storm_meaning.mp3]	[sound:storm_example.mp3]	A storm is very bad weather. There is a lot of rain or snow.	Did that storm wake you up last night?	
+		
+pop	поп	pop.jpg	[sound:pop.mp3]	[sound:pop_meaning.mp3]	[sound:pop_example.mp3]	A pop is a short, loud sound.	I heard a loud pop; then my computer screen shattered.	
+		
+value	значення	value.jpg	[sound:value.mp3]	[sound:value_meaning.mp3]	[sound:value_example.mp3]	If something has value, it is worth a lot of money.	Matthew found a treasure of very high value.	
+		
+contempt	презирство	contempt.jpg	[sound:contempt.mp3]	[sound:contempt_meaning.mp3]	[sound:contempt_example.mp3]	contempt is the feeling of having no respect for something.	The judge had contempt for the wicked criminal.	
+		
+compact	компактний	compact.jpg	[sound:compact.mp3]	[sound:compact_meaning.mp3]	[sound:compact_example.mp3]	If something is compact, it is smaller than normal.	A laptop computer is much more compact than a desktop model.	
+		
+bullet	куля	bullet.jpg	[sound:bullet.mp3]	[sound:bullet_meaning.mp3]	[sound:bullet_example.mp3]	A bullet is a small metal object that is shot out of guns.	bullets come in different sizes for different guns.	
+		
+neat	акуратний	neat.jpg	[sound:neat.mp3]	[sound:neat_meaning.mp3]	[sound:neat_example.mp3]	If something is neat, it is very clean or organized well.	My sister always keeps her bedroom very neat.	
+		
+weigh	важать	weigh.jpg	[sound:weigh.mp3]	[sound:weigh_meaning.mp3]	[sound:weigh_example.mp3]	To weigh something means to see how heavy it is.	The little dog weighed exactly 3 kgs.	
+		
+virtue	чеснота	virtue.jpg	[sound:virtue.mp3]	[sound:virtue_meaning.mp3]	[sound:virtue_example.mp3]	A virtue is a good quality or way of behaving.	My best virtue is forgiveness.	
+		
+annoy	дратувати	annoy.jpg	[sound:annoy.mp3]	[sound:annoy_meaning.mp3]	[sound:annoy_example.mp3]	To annoy someone means to bother them.	The flies buzzing around John's head annoyed him very much.	
+		
+loud	голосно	loud.jpg	[sound:loud.mp3]	[sound:loud_meaning.mp3]	[sound:loud_example.mp3]	If a sound is loud, it is strong and very easy to hear.	The man's voice was so loud that we all could hear him.	
+		
+rich	багатий	rich.jpg	[sound:rich.mp3]	[sound:rich_meaning.mp3]	[sound:rich_example.mp3]	If you are rich, you have a lot of money.	He's rich. He can buy anything he wants.	
+		
+species	видів	species.jpg	[sound:species.mp3]	[sound:species_meaning.mp3]	[sound:species_example.mp3]	A species is a type of plant or animal.	There are 21 different species of butterfly in this forest.	
+		
+shy	сором&#39;язливий	shy.jpg	[sound:shy.mp3]	[sound:shy_meaning.mp3]	[sound:shy_example.mp3]	When people are shy, they are nervous around people strange to them.	The girl was too shy to try out for the play.	
+		
+sideways	боком	sideways.jpg	[sound:sideways.mp3]	[sound:sideways_meaning.mp3]	[sound:sideways_example.mp3]	If something moves sideways, then it moves to or from the side.	Jim turned sideways in order to slow down and stop his snowboard.	
+		
+hack	рубати	hack.jpg	[sound:hack.mp3]	[sound:hack_meaning.mp3]	[sound:hack_example.mp3]	To hack something means to cut it into uneven pieces.	My uncle used the ax to hack the tree into many logs.	
+		
+visible	видно	visible.jpg	[sound:visible.mp3]	[sound:visible_meaning.mp3]	[sound:visible_example.mp3]	If something is visible, it can be seen.	The moon and stars were visible in the night sky.	
+		
+position	позиції	position.jpg	[sound:position.mp3]	[sound:position_meaning.mp3]	[sound:position_example.mp3]	A position is the way something is placed.	How can you sit in that position?	
+		
+actually	насправді	actually.jpg	[sound:actually_1434531251878.mp3]	[sound:actually_meaning.mp3]	[sound:actually_example.mp3]	actually means in fact or really.	My dad looks a little mean, but actually he's very kind.	
+		
+somewhat	дещо	somewhat.jpg	[sound:somewhat.mp3]	[sound:somewhat_meaning.mp3]	[sound:somewhat_example.mp3]	somewhat means to some degreee, but not to a large degree.	James was somewhat upset when he had to move some boxes.	
+		
+streak	смуга	streak.jpg	[sound:streak.mp3]	[sound:streak_meaning.mp3]	[sound:streak_example.mp3]	A streak is a long, thin mark that is easy to see.	Her hair was brown except for a streak which she dyed blonde.	
+		
+grand	великий	grand.jpg	[sound:grand.mp3]	[sound:grand_meaning.mp3]	[sound:grand_example.mp3]	When something is grand, it is big and liked by people.	The grand mountain rose high into the sky.	
+		
+wise	мудрий	wise.jpg	[sound:wise.mp3]	[sound:wise_meaning.mp3]	[sound:wise_example.mp3]	To be wise is to use experience and intelligence to make good choices.	Many people believe that owls are very wise animals.	
+		
+ruin	розорення	ruin.jpg	[sound:ruin.mp3]	[sound:ruin_meaning.mp3]	[sound:ruin_example.mp3]	To ruin something means to harm or damage it greatly.	Our walk in the park was ruined by the sudden rain.	
+		
+aboard	на борту	aboard.jpg	[sound:aboard.mp3]	[sound:aboard_meaning.mp3]	[sound:aboard_example.mp3]	When someone is aboard a ship or plane, they are on or in it.	They climbed aboard the kayak and paddled through the river.	
+		
+pardon	помилування	pardon.jpg	[sound:pardon.mp3]	[sound:pardon_meaning.mp3]	[sound:pardon_example.mp3]	To pardon is a way to ask someone to repeat what was said before.	pardon me teacher, but could you repeat what you just said?	
+		
+promptly	оперативно	promptly.jpg	[sound:promptly.mp3]	[sound:promptly_meaning.mp3]	[sound:promptly_example.mp3]	If something happens promptly, it happens quickly or on time.	Arrive promptly, or we won’t have time to discuss everything.	
+		
+rid	позбутися	rid.jpg	[sound:rid.mp3]	[sound:rid_meaning.mp3]	[sound:rid_example.mp3]	To rid is to make a place free from something or someone.	We rid our home of mice by using traps.	
+		
+progress	прогресу	progress.jpg	[sound:progress.mp3]	[sound:progress_meaning.mp3]	[sound:progress_example.mp3]	progress is the act of getting closer to doing or finishing something.	Our company made financial progress this year.	
+		
+hill	Хілл	hill.jpg	[sound:hill.mp3]	[sound:hill_meaning.mp3]	[sound:hill_example.mp3]	A hill is a round area of land. It is higher than the land around it.	The sun was rising above the green hills.	
+		
+trouble	неприємності	trouble.jpg	[sound:trouble.mp3]	[sound:trouble_meaning.mp3]	[sound:trouble_example.mp3]	trouble is a problem or a difficulty.	I have trouble working with my boss.	
+		
+pleased	задоволений	pleased.jpg	[sound:pleased.mp3]	[sound:pleased_meaning.mp3]	[sound:pleased_example.mp3]	When someone is pleased, they are happy.	She was pleased with the phone call she received.	
+		
+respect	повага	respect.jpg	[sound:respect.mp3]	[sound:respect_meaning.mp3]	[sound:respect_example.mp3]	respect is a good opinion of someone because they are good.	I have great respect for firemen.	
+		
+trip	поїздка	trip.jpg	[sound:trip.mp3]	[sound:trip_meaning.mp3]	[sound:trip_example.mp3]	A trip is a journey to a certain place.	Ken took a trip to the city yesterday.	
+		
+examine	вивчити	examine.jpg	[sound:examine.mp3]	[sound:examine_meaning.mp3]	[sound:examine_example.mp3]	To examine something is to look at it carefully.	The doctor examined my eyes today.	
+		
+failure	провал	failure.jpg	[sound:failure.mp3]	[sound:failure_meaning.mp3]	[sound:failure_example.mp3]	A failure happens when you do not do something right.	My cooking ended in failure because I burned the food.	
+		
+burn	горіти	burn.jpg	[sound:burn.mp3]	[sound:burn_meaning.mp3]	[sound:burn_example.mp3]	To burn something is to set it on fire.	I burned some wood in the camp fire.	
+		
+comfort	комфорт	comfort.jpg	[sound:comfort.mp3]	[sound:comfort_meaning.mp3]	[sound:comfort_example.mp3]	To comfort someone means to make them feel better.	I wanted to comfort my friend after I heard the bad news.	
+		
+entire	цілком	entire.jpg	[sound:entire.mp3]	[sound:entire_meaning.mp3]	[sound:entire_example.mp3]	When you talk about an entire thing, you are talking about the whole thing.	He was so hungry that he ate the entire pizza by himself.	
+		
+disgust	огиду	disgust.jpg	[sound:disgust_1434531251878.mp3]	[sound:disgust_meaning.mp3]	[sound:disgust_example.mp3]	disgust is a feeling of distaste and anger caused by something rude or unpleasant.	He felt disgust toward his date because she had such terrible eating habits.	
+		
+sense	сенс	sense.jpg	[sound:sense.mp3]	[sound:sense_meaning.mp3]	[sound:sense_example.mp3]	To sense something is to know about it without being told.	I could sense that he was watching me.	
+		
+practical	практичні	practical.jpg	[sound:practical.mp3]	[sound:practical_meaning.mp3]	[sound:practical_example.mp3]	If something is practical, it is useful in normal life.	Learning English is practical; you can use it in many places.	
+		
+rot	червоний	rot.jpg	[sound:rot.mp3]	[sound:rot_meaning.mp3]	[sound:rot_example.mp3]	When something rots, it slowly gets softer and is destroyed.	The old log began to rot in the forest.	
+		
+patient	пацієнта	patient.jpg	[sound:patient.mp3]	[sound:patient_meaning.mp3]	[sound:patient_example.mp3]	If a person is patient , they don't become angry or upset easily.	I had to be patient and wait until 5 o'clock to leave.	
+		
+improvise	імпровізувати	improvise.jpg	[sound:improvise.mp3]	[sound:improvise_meaning.mp3]	[sound:improvise_example.mp3]	To improvise something is to do it with whatever is available or without planning.	There was no meat for the pizza, so we improvised with what was in the fridge.	
+		
+cost	вартість	cost.jpg	[sound:cost.mp3]	[sound:cost_meaning.mp3]	[sound:cost_example.mp3]	To cost is to require expenditure or payment.	These designer shoes cost more than the regular ones.	
+		
+various	різні	various.jpg	[sound:various.mp3]	[sound:various_meaning.mp3]	[sound:various_example.mp3]	If something is various, there are many types of it.	She owned shoes of various styles.	
+		
+ashore	на березі	ashore.jpg	[sound:ashore.mp3]	[sound:ashore_meaning.mp3]	[sound:ashore_example.mp3]	If something goes ashore, it goes from water to the land.	After a long day of fishing, Glen pulled his boat ashore, so it wouldn’t float away.	
+		
+rub	rub	rub.jpg	[sound:rub.mp3]	[sound:rub_meaning.mp3]	[sound:rub_example.mp3]	To rub something is to push on it and move your hand back and forth.	Mom's feet were sore, so she rubbed them.	
+		
+race	раса	race.jpg	[sound:race.mp3]	[sound:race_meaning.mp3]	[sound:race_example.mp3]	A race is a contest to see who is the fastest.	Paul is a fast runner, so he easily won the race.	
+		
+pace	темп	pace.jpg	[sound:pace.mp3]	[sound:pace_meaning.mp3]	[sound:pace_example.mp3]	The pace of something is the speed at which it happens.	I ran the race at a slower pace than my friend.	
+		
+intelligence	інтелект	intelligence.jpg	[sound:intelligence.mp3]	[sound:intelligence_meaning.mp3]	[sound:intelligence_example.mp3]	intelligence is the ability to learn and understand things.	Because of his high intelligence, he finished school early.	
+		
+admit	визнати	admit.jpg	[sound:admit.mp3]	[sound:admit_meaning.mp3]	[sound:admit_example.mp3]	To admit something means to say that it is true.	I had to admit that I stole his idea.	
+		
+religious	релігійний	religious.jpg	[sound:religious.mp3]	[sound:religious_meaning.mp3]	[sound:religious_example.mp3]	When something is religious, it has to do with religion.	The holy man spoke about religious topics.	
+		
+grace	благодать	grace.jpg	[sound:grace.mp3]	[sound:grace_meaning.mp3]	[sound:grace_example.mp3]	grace is a quality of moving in a smooth, relaxed and attractive way.	The ballerina danced with grace.	
+		
+lord	пан	lord.jpg	[sound:lord.mp3]	[sound:lord_meaning.mp3]	[sound:lord_example.mp3]	Long ago, a lord was a man in charge of a town.	The lord of the town was not kind.	
+		
+attract	залучити	attract.jpg	[sound:attract.mp3]	[sound:attract_meaning.mp3]	[sound:attract_example.mp3]	To attract means to make a person or thing come closer or be interested.	The magnet attracted the metal.	
+		
+erect	прямостоячий	erect.jpg	[sound:erect.mp3]	[sound:erect_meaning.mp3]	[sound:erect_example.mp3]	To erect something means to build it.	The king erected two towers on the north and south sides of his castle.	
+		
+absolute	абсолютний	absolute.jpg	[sound:absolute.mp3]	[sound:absolute_meaning.mp3]	[sound:absolute_example.mp3]	If something is absolute, it is total or complete.	My presentation was an absolute disaster! It was terrible!	
+		
+result	результат	result.jpg	[sound:result.mp3]	[sound:result_meaning.mp3]	[sound:result_example.mp3]	A result is something that happens because of something else.	As a result of all the rain, the man had to climb on the roof.	
+		
+continue	продовжити	continue.jpg	[sound:continue.mp3]	[sound:continue_meaning.mp3]	[sound:continue_example.mp3]	To continue something is to keep doing it.	She stood under her umbrella as the rain continued to fall.	
+		
+beast	звіра	beast.jpg	[sound:beast.mp3]	[sound:beast_meaning.mp3]	[sound:beast_example.mp3]	A beast is a large, dangerous animal.	A lion is one of the fiercest beasts on Earth.	
+		
+balance	баланс	balance.jpg	[sound:balance.mp3]	[sound:balance_meaning.mp3]	[sound:balance_example.mp3]	To balance something is to keep it from falling.	We saw an elephant balance itself on a ball.	
+		
+trust	довіра	trust.jpg	[sound:trust.mp3]	[sound:trust_meaning.mp3]	[sound:trust_example.mp3]	To trust is to believe that someone is honest and will do what is right.	I trust my friends; they don't tell my secrets to other people.	
+		
+bake	випікати	bake.jpg	[sound:bake.mp3]	[sound:bake_meaning.mp3]	[sound:bake_example.mp3]	To bake means to cook food with heat.	My sister is a good cook. She bakes delicious cakes.	
+		
+overhead	над головою	overhead.jpg	[sound:overhead.mp3]	[sound:overhead_meaning.mp3]	[sound:overhead_example.mp3]	If something is overhead, it is located above you.	As we sat on top of the hill, a plane flew overhead.	
+		
+gain	виграш	gain.jpg	[sound:gain.mp3]	[sound:gain_meaning.mp3]	[sound:gain_example.mp3]	If you gain something, you get more of it.	I gained some weight over the summer.	
+		
+manner	чином	manner.jpg	[sound:manner.mp3]	[sound:manner_meaning.mp3]	[sound:manner_example.mp3]	A manner is the way someone does something.	His manner of not looking at someone while speaking, is a bit rude.	
+		
+decision	рішення	decision.jpg	[sound:decision.mp3]	[sound:decision_meaning.mp3]	[sound:decision_example.mp3]	A decision is a choice.	He made the wrong decision.	
+		
+comprehend	зрозуміти	comprehend.jpg	[sound:comprehend.mp3]	[sound:comprehend_meaning.mp3]	[sound:comprehend_example.mp3]	To comprehend something is to understand it.	Henry could not comprehend the message.	
+		
+lack	відсутність	lack.jpg	[sound:lack.mp3]	[sound:lack_meaning.mp3]	[sound:lack_example.mp3]	If there is a lack of something, there is not enough of it.	His only problem is a lack of money.	
+		
+vast	величезний	vast.jpg	[sound:vast_1434531251878.mp3]	[sound:vast_meaning.mp3]	[sound:vast_example.mp3]	If something is vast, it is very large.	The wealthy man bought a vast amount of land in the countryside.	
+		
+motion	руху	motion.jpg	[sound:motion.mp3]	[sound:motion_meaning.mp3]	[sound:motion_example.mp3]	A motion is a movement that someone makes.	The police officer made a motion with his hand.	
+		
+fail	збій	fail.jpg	[sound:fail.mp3]	[sound:fail_meaning.mp3]	[sound:fail_example.mp3]	To fail means you do not succeed in what you try to do.	Since he failed to get the job, he was sad.	
+		
+several	кілька	several.jpg	[sound:several.mp3]	[sound:several_meaning.mp3]	[sound:several_example.mp3]	several is more than two but not many.	He had to read several books for class.	
+		
+control	контроль	control.jpg	[sound:control.mp3]	[sound:control_meaning.mp3]	[sound:control_example.mp3]	To control something is to make it do what you want.	To control the TV, just push the buttons	
+		
+bulk	навалом	bulk.jpg	[sound:bulk.mp3]	[sound:bulk_meaning.mp3]	[sound:bulk_example.mp3]	The bulk of something is its great size.	The large elephant moved its bulk with legs as strong as tree trunks.	
+		
+voice	голос	voice.jpg	[sound:voice.mp3]	[sound:voice_meaning.mp3]	[sound:voice_example.mp3]	A voice is the sound a person makes when they talk or sing.	He used a microphone, so everyone could hear his voice.	
+		
+vision	бачення	vision.jpg	[sound:vision.mp3]	[sound:vision_meaning.mp3]	[sound:vision_example.mp3]	vision is the act of seeing.	The eye doctor tested my vision.	
+		
+load	навантаження	load.jpg	[sound:load_1434531251878.mp3]	[sound:load_meaning.mp3]	[sound:load_example.mp3]	To load is to put objects into something.	The man loaded the boxes into a truck.	
+		
+step	крок	step.jpg	[sound:step.mp3]	[sound:step_meaning.mp3]	[sound:step_example.mp3]	To step is to walk.	Be careful where you step.	
+		
+original	оригінал	original.jpg	[sound:original.mp3]	[sound:original_meaning.mp3]	[sound:original_example.mp3]	If something is original, it is the first one of that thing.	This is the original painting of the Mona Lisa.	
+		
+moisture	вологи	moisture.jpg	[sound:moisture_1434531251878.mp3]	[sound:moisture_meaning.mp3]	[sound:moisture_example.mp3]	moisture is small drops of water in the air or on a surface.	If you breathe on a window, moisture from your breath collects on the glass.	
+		
+ray	промінь	ray.jpg	[sound:ray.mp3]	[sound:ray_meaning.mp3]	[sound:ray_example.mp3]	A ray is a line of light that comes from a bright object.	The sun's warm rays covered the beach.	
+		
+quality	якість	quality.jpg	[sound:quality.mp3]	[sound:quality_meaning.mp3]	[sound:quality_example.mp3]	The quality of something is how good it is.	The quality of his car is very good.	
+		
+price	ціна	price.jpg	[sound:price.mp3]	[sound:price_meaning.mp3]	[sound:price_example.mp3]	The price of something is how much it costs.	What is the price of this item?	
+		
+bit	біт	bit.jpg	[sound:bit.mp3]	[sound:bit_meaning.mp3]	[sound:bit_example.mp3]	A bit is a small amount of something.	I ate a bit of chocolate before I went to bed.	
+		
+center	центр	center.jpg	[sound:center.mp3]	[sound:center_meaning.mp3]	[sound:center_example.mp3]	The center of something is the middle of it.	The center of a dart board is the most important spot.	
+		
+quarter	квартал	quarter.jpg	[sound:quarter.mp3]	[sound:quarter_meaning.mp3]	[sound:quarter_example.mp3]	A quarter is 25 cents.	He paid a quarter for the candy.	
+		
+defend	захищати	defend.jpg	[sound:defend.mp3]	[sound:defend_meaning.mp3]	[sound:defend_example.mp3]	To defend someone or something is to protect them from attack.	The soldiers defended the town from the invaders.	
+		
+single	одномісний	single.jpg	[sound:single.mp3]	[sound:single_meaning.mp3]	[sound:single_example.mp3]	If something is single, then there is only one.	I have a single key in my hand.	
+		
+broad	широкий	broad.jpg	[sound:broad.mp3]	[sound:broad_meaning.mp3]	[sound:broad_example.mp3]	If something is broad, it is wide.	The river is very long and broad.	
+		
+expect	очікувати	expect.jpg	[sound:expect.mp3]	[sound:expect_meaning.mp3]	[sound:expect_example.mp3]	If you expect something to happen, you believe it will happen.	I expect the bus to be here very soon.	
+		
+recognize	визнати	recognize.jpg	[sound:recognize.mp3]	[sound:recognize_meaning.mp3]	[sound:recognize_example.mp3]	To recognize something is to know it because you have seen it before.	I recognized an old friend from many years ago.	
+		
+search	пошук	search.jpg	[sound:search.mp3]	[sound:search_meaning.mp3]	[sound:search_example.mp3]	To search for something or someone means to look for them carefully.	I searched the newspaper for a new job.	
+		
+ground	землі	ground.jpg	[sound:ground.mp3]	[sound:ground_meaning.mp3]	[sound:ground_example.mp3]	The ground is the top part of the Earth that we walk on.	The ground under our feet was dry and brown.	
+		

@@ -1,0 +1,1282 @@
+web	web	web.jpg	[sound:web.mp3]	[sound:web_meaning.mp3]	[sound:web_example.mp3]	A web is a home made by a spider.	Mom cleaned the spider webs out of the garage.	
+		
+cloud	хмара	cloud.jpg	[sound:cloud.mp3]	[sound:cloud_meaning.mp3]	[sound:cloud_example.mp3]	A cloud is a group of water drops in the sky.	The sky was filled with white clouds.	
+		
+infrastructure	інфраструктури	infrastructure.jpg	[sound:infrastructure.mp3]	[sound:infrastructure_meaning.mp3]	[sound:infrastructure_example.mp3]	Aninfrastructure is a collection of services needed to run a society or business.<!--anki-->	Power lines are important parts of a city’sinfrastructure.<!--anki-->	
+		
+overview	огляд	overview.jpg	[sound:overview.mp3]	[sound:overview_meaning.mp3]	[sound:overview_example.mp3]	An overview is a general description of a situation.	My brother gave me an overview of the important parts of the book.	
+		
+manage	керувати	manage.jpg	[sound:manage.mp3]	[sound:manage_meaning.mp3]	[sound:manage_example.mp3]	To manage something means to control or be in charge of it.	I had to manage the meeting myself.	
+		
+access	доступ	access.jpg	[sound:access.mp3]	[sound:access_meaning.mp3]	[sound:access_example.mp3]	access is the right to enter or use something.	The manager was the only person with access to the password.	
+		
+scale	масштабу	scale.jpg	[sound:scale.mp3]	[sound:scale_meaning.mp3]	[sound:scale_example.mp3]	The scale of something is its size, especially when it is very large.	I was surprised by the scale of the buildings in the downtown area.	
+		
+create	створити	create.jpg	[sound:create.mp3]	[sound:create_meaning.mp3]	[sound:create_example.mp3]	To create means to make something new.	She created an igloo from blocks of snow.	
+		
+across	поперек	across.jpg	[sound:across.mp3]	[sound:across_meaning.mp3]	[sound:across_example.mp3]	To go across something is to go to the other side of it.	He walked across the board to the other side.	
+		
+device	пристрою	device.jpg	[sound:device.mp3]	[sound:device_meaning.mp3]	[sound:device_example.mp3]	A device is an object or a machine.	A thermometer is a device that tells temperature.	
+		
+control	контроль	control.jpg	[sound:control.mp3]	[sound:control_meaning.mp3]	[sound:control_example.mp3]	To control something is to make it do what you want.	To control the TV, just push the buttons	
+		
+cost	вартість	cost.jpg	[sound:cost.mp3]	[sound:cost_meaning.mp3]	[sound:cost_example.mp3]	To cost is to require expenditure or payment.	These designer shoes cost more than the regular ones.	
+		
+multiple	кілька	multiple.jpg	[sound:multiple.mp3]	[sound:multiple_meaning.mp3]	[sound:multiple_example.mp3]	If there are multiple things, there are many of them.	When the stunt went wrong, the man suffered multiple injuries.	
+		
+database	бази даних	database.jpg	[sound:database.mp3]	[sound:database_meaning.mp3]	[sound:database_example.mp3]	A database is a collection of data that is stored in a computer.	The company has a database of all the names and accounts of their customers.	
+		
+secure	безпечно	secure.jpg	[sound:secure.mp3]	[sound:secure_meaning.mp3]	[sound:secure_example.mp3]	To secure something means to get it after a lot of effort.	I was able to secure a good grade on my test after weeks of studying.	
+		
+elastic	еластичний	elastic.jpg	[sound:elastic.mp3]	[sound:elastic_meaning.mp3]	[sound:elastic_example.mp3]	elastic is a rubber that stretches when it is pulled.	He attached the elastic bungee to his legs before he jumped off the platform.	
+		
+available	доступні	available.jpg	[sound:available.mp3]	[sound:available_meaning.mp3]	[sound:available_example.mp3]	If something is available, it means you can get it.	There were many seats available in the room.	
+		
+set	набір	set.jpg	[sound:set.mp3]	[sound:set_meaning.mp3]	[sound:set_example.mp3]	To set something is to put it somewhere.	Please set the dice down on the table.	
+		
+process	процесу	process.jpg	[sound:process.mp3]	[sound:process_meaning.mp3]	[sound:process_example.mp3]	A process is the steps to take to do something.(A series of steps leading to a result)	Making a cake is a long process.	
+		
+own	власні	own.jpg	[sound:own.mp3]	[sound:own_meaning.mp3]	[sound:own_example.mp3]	To own something means to have it. That thing belongs to you.	My grandfather owns that house.	
+		
+connect	підключення	connect.jpg	[sound:connect.mp3]	[sound:connect_meaning.mp3]	[sound:connect_example.mp3]	To connect two things means to join them together.	I connected the mouse to my laptop computer.	
+		
+capacity	потужності	capacity.jpg	[sound:capacity.mp3]	[sound:capacity_meaning.mp3]	[sound:capacity_example.mp3]	The capacity of something is the amount of things that can be put in it.	The parking lot has reached its full capacity.	
+		
+support	підтримка	support.jpg	[sound:support.mp3]	[sound:support_meaning.mp3]	[sound:support_example.mp3]	To support something is to like it and help it be successful.	Everyone at work supports the new plan.	
+		
+provide	забезпечити	provide.jpg	[sound:provide.mp3]	[sound:provide_meaning.mp3]	[sound:provide_example.mp3]	To provide something means to supply it.	Each student was provided with a test and three sharp pencils.	
+		
+analyze	аналізувати	analyze.jpg	[sound:analyze.mp3]	[sound:analyze_meaning.mp3]	[sound:analyze_example.mp3]	To analyze something is to study it.	The scientist will analyze the blood sample.	
+		
+load	навантаження	load.jpg	[sound:load_1434531251878.mp3]	[sound:load_meaning.mp3]	[sound:load_example.mp3]	To load is to put objects into something.	The man loaded the boxes into a truck.	
+		
+custom	звичай	custom.jpg	[sound:custom.mp3]	[sound:custom_meaning.mp3]	[sound:custom_example.mp3]	A custom is a way of doing things that has been the same for a long time.	It is a custom that the bride and groom have the first dance.	
+		
+mobile	мобільний	mobile.jpg	[sound:mobile.mp3]	[sound:mobile_meaning.mp3]	[sound:mobile_example.mp3]	If something is mobile, it can be moved easily.	mobile phones are popular because you can take them anywhere.	
+		
+resource	ресурс	resource.jpg	[sound:resource.mp3]	[sound:resource_meaning.mp3]	[sound:resource_example.mp3]	resources are a person or country's money and materials that they can use.	The poor man didn't have the resources to feed himself.	
+		
+store	магазин	store.jpg	[sound:store.mp3]	[sound:store_meaning.mp3]	[sound:store_example.mp3]	A store is a place where you can buy things.	I picked up a few things at the grocery store.	
+		
+environment	навколишнє середовище	environment.jpg	[sound:environment.mp3]	[sound:environment_meaning.mp3]	[sound:environment_example.mp3]	The environment is the place where people work or live.	Keeping our environment clean is important to our health.	
+		
+virtual	віртуальний	virtual.jpg	[sound:virtual.mp3]	[sound:virtual_meaning.mp3]	[sound:virtual_example.mp3]	If something is virtual, then it is very close to being true or accurate.	Because he's popular, Joe is the virtual leader of the group.	
+		
+console	консолі	console.jpg	[sound:console.mp3]	[sound:console_meaning.mp3]	[sound:console_example.mp3]	To console someone who is sad means to make them comforted.	When my dog ran away, my dad consoled me.	
+		
+view	перегляду	view.jpg	[sound:view.mp3]	[sound:view_meaning.mp3]	[sound:view_example.mp3]	To view is to look at something.	Michael likes to view himself in the mirror.	
+		
+global	глобальний	global.jpg	[sound:global.mp3]	[sound:global_meaning.mp3]	[sound:global_example.mp3]	If something is global, it happens all around the world.	Pollution is a global problem.	
+		
+fast	швидко	fast.jpg	[sound:fast.mp3]	[sound:fast_meaning.mp3]	[sound:fast_example.mp3]	To fast means to go without food or drink for a period of time.	In her religion, they fast for five days and then have a big feast.	
+		
+well	добре	well.jpg	[sound:well.mp3]	[sound:well_meaning.mp3]	[sound:well_example.mp3]	You use well to say that something was done in a good way.	The couple can dance quite well.	
+		
+common	загальний	common.jpg	[sound:common.mp3]	[sound:common_meaning.mp3]	[sound:common_example.mp3]	If something is common, it happens often or there is much of it.	It is common for snow to fall in the winter.	
+		
+customer	клієнта	customer.jpg	[sound:customer.mp3]	[sound:customer_meaning.mp3]	[sound:customer_example.mp3]	A customer is a person who buys something at a store.	The customer put a few items in a bag.	
+		
+content	зміст	content.jpg	[sound:content_1434531251878.mp3]	[sound:content_meaning.mp3]	[sound:content_example.mp3]	To be content is to be happy and not want more.	The baby looked very content sitting on the floor.	
+		
+maintain	підтримувати	maintain.jpg	[sound:maintain_1434531251878.mp3]	[sound:maintain_meaning.mp3]	[sound:maintain_example.mp3]	To maintain means to make something stay the same.	The balls maintain constant movement.	
+		
+transfer	передачі	transfer.jpg	[sound:transfer.mp3]	[sound:transfer_meaning.mp3]	[sound:transfer_example.mp3]	To transfer something means to move it from one place to another.	The family transferred the groceries from the shopping cart to the car.	
+		
+focus	фокус	focus.jpg	[sound:focus.mp3]	[sound:focus_meaning.mp3]	[sound:focus_example.mp3]	To focus on something is to think about it and pay attention to it.	My mom always helps me to focus on my school work.	
+		
+example	наприклад	example.jpg	[sound:example.mp3]	[sound:example_meaning.mp3]	[sound:example_example.mp3]	An example of something is a thing that is typical of it.	Cola is an example of a soft drink.	
+		
+single	одномісний	single.jpg	[sound:single.mp3]	[sound:single_meaning.mp3]	[sound:single_example.mp3]	If something is single, then there is only one.	I have a single key in my hand.	
+		
+within	всередині	within.jpg	[sound:within.mp3]	[sound:within_meaning.mp3]	[sound:within_example.mp3]	You use within to say that something is inside another thing.	within the box, there was a pizza.	
+		
+monitor	монітор	monitor.jpg	[sound:monitor.mp3]	[sound:monitor_meaning.mp3]	[sound:monitor_example.mp3]	To monitor people or things is to watch them closely.	The teacher monitors the students when they take tests.	
+		
+document	документ	document.jpg	[sound:document.mp3]	[sound:document_meaning.mp3]	[sound:document_example.mp3]	A document is an official piece of writing.	He was given an official document proving he was a citizen.	
+		
+private	приватний	private.jpg	[sound:private.mp3]	[sound:private_meaning.mp3]	[sound:private_example.mp3]	If something is private, it is only used by one person or group.	Don't look at my diary! It's private!	
+		
+center	центр	center.jpg	[sound:center.mp3]	[sound:center_meaning.mp3]	[sound:center_example.mp3]	The center of something is the middle of it.	The center of a dart board is the most important spot.	
+		
+source	джерело	source.jpg	[sound:source.mp3]	[sound:source_meaning.mp3]	[sound:source_example.mp3]	A source of something is the place that it comes from.	The river was the source of drinking water for the village.	
+		
+reduce	зменшити	reduce.jpg	[sound:reduce.mp3]	[sound:reduce_meaning.mp3]	[sound:reduce_example.mp3]	To reduce something means to make it less in size or number.	When the store reduced its prices, people wanted to shop there.	
+		
+experience	досвіду	experience.jpg	[sound:experience.mp3]	[sound:experience_meaning.mp3]	[sound:experience_example.mp3]	An experience is something you have seen or done.	Rock climbing was a fun experience.	
+		
+ground	землі	ground.jpg	[sound:ground.mp3]	[sound:ground_meaning.mp3]	[sound:ground_example.mp3]	The ground is the top part of the Earth that we walk on.	The ground under our feet was dry and brown.	
+		
+speech	мови	speech.jpg	[sound:speech.mp3]	[sound:speech_meaning.mp3]	[sound:speech_example.mp3]	A speech is something said to a group of people.	She gave a speech to the class.	
+		
+deliver	доставити	deliver.jpg	[sound:deliver.mp3]	[sound:deliver_meaning.mp3]	[sound:deliver_example.mp3]	To deliver something is to take it from one place to another.	The man delivered Chinese food to my house.	
+		
+provision	надання	provision.jpg	[sound:provision.mp3]	[sound:provision_meaning.mp3]	[sound:provision_example.mp3]	The provision of something is the act of giving it to people in need or want.	That department is responsible for the provision of emergency supplies.	
+		
+core	ядро	core.jpg	[sound:core.mp3]	[sound:core_meaning.mp3]	[sound:core_example.mp3]	The core is the center of something.	The rings of a tree start forming at its core.	
+		
+standard	стандарт	standard.jpg	[sound:standard.mp3]	[sound:standard_meaning.mp3]	[sound:standard_example.mp3]	A standard is what people consider normal or good.	This older model TV is below our store's standards.	
+		
+stream	потік	stream.jpg	[sound:stream.mp3]	[sound:stream_meaning.mp3]	[sound:stream_example.mp3]	A stream is a small river.	The boy caught a fish in the stream.	
+		
+per	для	per.jpg	[sound:per.mp3]	[sound:per_meaning.mp3]	[sound:per_example.mp3]	per is used to mean “each” when giving a price, size, or amount.	It costs $8 per person to watch the baseball game.	
+		
+complex	складний	complex.jpg	[sound:complex_1434531251878.mp3]	[sound:complex_meaning.mp3]	[sound:complex_example.mp3]	If something is complex, it has many small parts. It is hard to understand.	A jig-saw puzzle can be complex because it has so many pieces.	
+		
+different	інший	different.jpg	[sound:different.mp3]	[sound:different_meaning.mp3]	[sound:different_example.mp3]	different describes someone or something that is not the same as others.	Each of my sisters has a different hair style from one another.	
+		
+command	команду	command.jpg	[sound:command.mp3]	[sound:command_meaning.mp3]	[sound:command_example.mp3]	To command someone is to tell them to do something.	The general commanded his army to attack.	
+		
+automate	автоматизувати	automate.jpg	[sound:automate.mp3]	[sound:automate_meaning.mp3]	[sound:automate_example.mp3]	To automate a company means to install machines or computers to do the work.	When the bank automated, it started installing ATM machines.	
+		
+integrate	інтегрувати	integrate.jpg	[sound:integrate.mp3]	[sound:integrate_meaning.mp3]	[sound:integrate_example.mp3]	To integrate means to join, communicate and socialize.	Governments want immigrants to integrate with the population.	
+		
+instance	наприклад	instance.jpg	[sound:instance.mp3]	[sound:instance_meaning.mp3]	[sound:instance_example.mp3]	An instance is an example of something.	I have never experienced an instance of hate. Have you?	
+		
+launch	запуску	launch.jpg	[sound:launch.mp3]	[sound:launch_meaning.mp3]	[sound:launch_example.mp3]	To launch something means to make it go into motion.	The boat launched from the dock and floated down the river.	
+		
+operate	працювати	operate.jpg	[sound:operate.mp3]	[sound:operate_meaning.mp3]	[sound:operate_example.mp3]	To operate means to work or function.	I'm sorry, but the trains are not operateing today.	
+		
+lower	нижче	lower.jpg	[sound:lower.mp3]	[sound:lower_meaning.mp3]	[sound:lower_example.mp3]	To lower something is to make it go down.	The chart shows how his production has lowered over the year.	
+		
+enable	увімкнути	enable.jpg	[sound:enable.mp3]	[sound:enable_meaning.mp3]	[sound:enable_example.mp3]	To enable a person is to make it possible for them to do something.	Having the key enabled us to open the door.	
+		
+define	define	define.jpg	[sound:define.mp3]	[sound:define_meaning.mp3]	[sound:define_example.mp3]	To define means to clearly state, show, or explain what something is.	People define success in many different ways.	
+		
+level	рівень	level.jpg	[sound:level.mp3]	[sound:level_meaning.mp3]	[sound:level_example.mp3]	A level is a point on a scale that measures something.	Please check the level of the temperature.	
+		
+search	пошук	search.jpg	[sound:search.mp3]	[sound:search_meaning.mp3]	[sound:search_example.mp3]	To search for something or someone means to look for them carefully.	I searched the newspaper for a new job.	
+		
+select	виберіть	select.jpg	[sound:select.mp3]	[sound:select_meaning.mp3]	[sound:select_example.mp3]	To select something is to choose it.	I hope that I selected the right answers on the test.	
+		
+route	маршрут	route.jpg	[sound:route.mp3]	[sound:route_meaning.mp3]	[sound:route_example.mp3]	A route is the way you go from one place to another.	I saw many new houses along the route to the city.	
+		
+edge	край	edge.jpg	[sound:edge.mp3]	[sound:edge_meaning.mp3]	[sound:edge_example.mp3]	The edge of something is the part of it that is farthest from the center.	He ran to the edge of the cliff.	
+		
+enterprise	підприємства	enterprise.jpg	[sound:enterprise.mp3]	[sound:enterprise_meaning.mp3]	[sound:enterprise_example.mp3]	An enterprise is a company or business.	My father owns an advertising enterprise.	
+		
+via	через	via.jpg	[sound:via.mp3]	[sound:via_meaning.mp3]	[sound:via_example.mp3]	To travel via something means to travel through or using something.	We arrived in the city from the airport via the train.	
+		
+sophisticated	витончений	sophisticated.jpg	[sound:sophisticated.mp3]	[sound:sophisticated_meaning.mp3]	[sound:sophisticated_example.mp3]	If someone is sophisticated, they know many things about the world.	Jake is one of the most sophisticated persons I’ve ever met.	
+		
+satellite	супутник	satellite.jpg	[sound:satellite.mp3]	[sound:satellite_meaning.mp3]	[sound:satellite_example.mp3]	A satellite is something that is sent into space to get information.	The satellite was traveling around the earth.	
+		
+allow	дозволити	allow.jpg	[sound:allow.mp3]	[sound:allow_meaning.mp3]	[sound:allow_example.mp3]	To allow something to happen means to let it happen.	Having a ticket will allow you to enter the show.	
+		
+migrate	мігрувати	migrate.jpg	[sound:migrate.mp3]	[sound:migrate_meaning.mp3]	[sound:migrate_example.mp3]	To migrate means to move from one place to another.	Many birds migrate to warmer countries in the winter.	
+		
+require	вимагати	require.jpg	[sound:require.mp3]	[sound:require_meaning.mp3]	[sound:require_example.mp3]	To require something is to say that it is necessary.	We require teachers to have a university degree.	
+		
+account	рахунок	account.jpg	[sound:account.mp3]	[sound:account_meaning.mp3]	[sound:account_example.mp3]	An account with a bank is an arrangement to keep one's money there.	After I paid for the new car, my bank account was nearly empty.	
+		
+consistent	послідовний	consistent.jpg	[sound:consistent.mp3]	[sound:consistent_meaning.mp3]	[sound:consistent_example.mp3]	If a person is consistent, they keep the same behavior or attitude.	Sara comes in every day and is our most consistent worker.	
+		
+architecture	архітектури	architecture.jpg	[sound:architecture.mp3]	[sound:architecture_meaning.mp3]	[sound:architecture_example.mp3]	architecture is the style or way a building is made.	The architecture of the church is amazing.	
+		
+protect	захищати	protect.jpg	[sound:protect.mp3]	[sound:protect_meaning.mp3]	[sound:protect_example.mp3]	To protect someone is to stop them from getting hurt.	Firemen protect us from fires.	
+		
+cluster	кластера	cluster.jpg	[sound:cluster.mp3]	[sound:cluster_meaning.mp3]	[sound:cluster_example.mp3]	A cluster of things is a small group of them placed close together.	She held a large cluster of grapes in her hand.	
+		
+state	стан	state.jpg	[sound:state.mp3]	[sound:state_meaning.mp3]	[sound:state_example.mp3]	To state something means to say it in a definite way.	The president stated his opinion about the world’s health concerns.	
+		
+specific	конкретні	specific.jpg	[sound:specific.mp3]	[sound:specific_meaning.mp3]	[sound:specific_example.mp3]	If something is specific, it is precise or exact.	Please choose a specific place on the map.	
+		
+license	ліцензії	license.jpg	[sound:license.mp3]	[sound:license_meaning.mp3]	[sound:license_example.mp3]	A license is an official document that gives one permission to do something.	In the United States you need a driver's license to drive legally.	
+		
+underlying	що лежить в основі	underlying.jpg	[sound:underlying.mp3]	[sound:underlying_meaning.mp3]	[sound:underlying_example.mp3]	When something is underlying, it is a hidden cause of something else.	Her underlying fear or flying reduced her traveling options.	
+		
+hybrid	гібрид	hybrid.jpg	[sound:hybrid.mp3]	[sound:hybrid_meaning.mp3]	[sound:hybrid_example.mp3]	A hybrid is a mixture of different things or styles.	In Greek mythology, a centaur is a hybrid of a man and a horse.	
+		
+range	діапазон	range.jpg	[sound:range.mp3]	[sound:range_meaning.mp3]	[sound:range_example.mp3]	A range is a number or a set of similar things.	I saw a range of cars to choose from.	
+		
+event	події	event.jpg	[sound:event.mp3]	[sound:event_meaning.mp3]	[sound:event_example.mp3]	An event is something that happens, especially something important.	Finishing high school was a major event in his life.	
+		
+step	крок	step.jpg	[sound:step.mp3]	[sound:step_meaning.mp3]	[sound:step_example.mp3]	To step is to walk.	Be careful where you step.	
+		
+identify	ідентифікувати	identify.jpg	[sound:identify.mp3]	[sound:identify_meaning.mp3]	[sound:identify_example.mp3]	To identify something is to be able to name it.	I used the file to identify his name.	
+		
+detect	виявити	detect.jpg	[sound:detect.mp3]	[sound:detect_meaning.mp3]	[sound:detect_example.mp3]	To detect something means to notice or find something.	The boy ran to the kitchen when he detected the smell of cookies.	
+		
+zone	зони	zone.jpg	[sound:zone.mp3]	[sound:zone_meaning.mp3]	[sound:zone_example.mp3]	A zone is an area that has different qualities from the ones around it.	Firefighters often work in danger zones.	
+		
+log	журнал	log.jpg	[sound:log.mp3]	[sound:log_meaning.mp3]	[sound:log_example.mp3]	A log is a thick piece of wood that is cut from a tree.	The fire was too small, so we added another logto it.	
+		
+recognition	визнання	recognition.jpg	[sound:recognition_1434531251878.mp3]	[sound:recognition_meaning.mp3]	[sound:recognition_example.mp3]	recognition is getting praise from other people.	The hero got recognition for his brave deed.	
+		
+memory	пам&#39;яті	memory.jpg	[sound:memory.mp3]	[sound:memory_meaning.mp3]	[sound:memory_example.mp3]	A memory is something you remember.	The memory of my first time in the city will always be the best.	
+		
+personalize	персоналізувати	personalize.jpg	[sound:personalize.mp3]	[sound:personalize_meaning.mp3]	[sound:personalize_example.mp3]	To personalize something means to design it to meet a person’s unique needs.	He personalized the woman’s exercises to give her a better workout.	
+		
+public	громадськості	public.jpg	[sound:public.mp3]	[sound:public_meaning.mp3]	[sound:public_example.mp3]	If something is public, it is meant for everyone to use.	I went to the public park to play with my friends.	
+		
+improve	поліпшити	improve.jpg	[sound:improve.mp3]	[sound:improve_meaning.mp3]	[sound:improve_example.mp3]	To improve something means to make it better.	He studied hard to improve his test scores from the previous year.	
+		
+collect	збирати	collect.jpg	[sound:collect.mp3]	[sound:collect_meaning.mp3]	[sound:collect_example.mp3]	To collect things is to group them together all in one place.	I collected shells when I was younger.	
+		
+product	продукту	product.jpg	[sound:product.mp3]	[sound:product_meaning.mp3]	[sound:product_example.mp3]	A product is something that is made.	My sister has many beauty products in her room.	
+		
+respond	відповідь	respond.jpg	[sound:respond.mp3]	[sound:respond_meaning.mp3]	[sound:respond_example.mp3]	To respond is to give an answer to what someone else said.	When the teacher asked the question, we all responded.	
+		
+increase	збільшувати	increase.jpg	[sound:increase.mp3]	[sound:increase_meaning.mp3]	[sound:increase_example.mp3]	To increase something is to make it larger or more.	They've increased the price of gas by 15 cents!	
+		
+risk	ризик	risk.jpg	[sound:risk.mp3]	[sound:risk_meaning.mp3]	[sound:risk_example.mp3]	A risk is a chance of something bad happening.	I took a risk and climbed the snowy mountain.	
+		
+tool	інструмент	tool.jpg	[sound:tool.mp3]	[sound:tool_meaning.mp3]	[sound:tool_example.mp3]	A tool is something that helps you do a task.	We used a tool to fix the window.	
+		
+framework	рамки	framework.jpg	[sound:framework.mp3]	[sound:framework_meaning.mp3]	[sound:framework_example.mp3]	A framework is a set of rules or ideas that people use to solve problems.	His ideas fit into the framework of a successful business plan.	
+		
+apply	застосовувати	apply.jpg	[sound:apply.mp3]	[sound:apply_meaning.mp3]	[sound:apply_example.mp3]	To apply something means to put it on.	She always appl<u>i</u>es makeup to her face before going outside.	
+		
+choice	вибір	choice.jpg	[sound:choice.mp3]	[sound:choice_meaning.mp3]	[sound:choice_example.mp3]	A choice is the act or possibility of picking something.	I had my choice of five doors to open.	
+		
+message	повідомлення	message.jpg	[sound:message.mp3]	[sound:message_meaning.mp3]	[sound:message_example.mp3]	A message is a set of words that you send to someone.	I left a message for you in the envelope.	
+		
+local	місцеві	local.jpg	[sound:local.mp3]	[sound:local_meaning.mp3]	[sound:local_example.mp3]	If something is local, it is nearby.	The local market in my neighborhood sells all the food we need.	
+		
+accurate	точні	accurate.jpg	[sound:accurate.mp3]	[sound:accurate_meaning.mp3]	[sound:accurate_example.mp3]	If something is accurate, it is completely correct.	The story in the newspaper wasn’t very accurate.	
+		
+truth	правда	truth.jpg	[sound:truth.mp3]	[sound:truth_meaning.mp3]	[sound:truth_example.mp3]	The truth is a fact or something that is right.	He was telling the truth about seeing a large green snake.	
+		
+forecast	прогноз	forecast.jpg	[sound:forecast.mp3]	[sound:forecast_meaning.mp3]	[sound:forecast_example.mp3]	A forecast is an idea about what the weather will be like in the future.	The forecast says that it will rain all week.	
+		
+share	акції	share.jpg	[sound:share.mp3]	[sound:share_meaning.mp3]	[sound:share_example.mp3]	To share something is to give some of it to another person.	Jimmy shared his apple with me.	
+		
+familiar	знайомий	familiar.jpg	[sound:familiar.mp3]	[sound:familiar_meaning.mp3]	[sound:familiar_example.mp3]	If someone or something is familiar to you, you know them well.	The two friends were very familiar with each other.	
+		
+receive	отримувати	receive.jpg	[sound:receive.mp3]	[sound:receive_meaning.mp3]	[sound:receive_example.mp3]	To receive something is to get it.	I received a present on my birthday.	
+		
+ensure	забезпечити	ensure.jpg	[sound:ensure.mp3]	[sound:ensure_meaning.mp3]	[sound:ensure_example.mp3]	To ensure is to make certain that something happens.	Eating good food ensures that we stay healthy.	
+		
+failure	провал	failure.jpg	[sound:failure.mp3]	[sound:failure_meaning.mp3]	[sound:failure_example.mp3]	A failure happens when you do not do something right.	My cooking ended in failure because I burned the food.	
+		
+expertise	експертизи	expertise.jpg	[sound:expertise.mp3]	[sound:expertise_meaning.mp3]	[sound:expertise_example.mp3]	expertise is the knowledge and skills to do something well.	John has a lot of advertisingexpertise. He can sell anything!<!--anki-->	
+		
+inventory	інвентар	inventory.jpg	[sound:inventory.mp3]	[sound:inventory_meaning.mp3]	[sound:inventory_example.mp3]	An inventory is a supply of something.	Gwen was checking the inventory to make sure we had what we needed.	
+		
+already	вже	already.jpg	[sound:already.mp3]	[sound:already_meaning.mp3]	[sound:already_example.mp3]	If something happens already, it happens before a certain time.	It is already time for the movie to start. Let's go in.	
+		
+audit	аудиту	audit.jpg	[sound:audit.mp3]	[sound:audit_meaning.mp3]	[sound:audit_example.mp3]	To audit means to inspect financial records from a person or business.	The government usually audits companies that report lower than usual incomes.	
+		
+variety	різноманітність	variety.jpg	[sound:variety.mp3]	[sound:variety_meaning.mp3]	[sound:variety_example.mp3]	A variety of something is a group of many different kinds of it.	There are a variety of flowers at the shop.	
+		
+amount	суми	amount.jpg	[sound:amount.mp3]	[sound:amount_meaning.mp3]	[sound:amount_example.mp3]	An amount is how much there is of something.	Can I use my card to pay for the entire amount?	
+		
+however	однак	however.jpg	[sound:however.mp3]	[sound:however_meaning.mp3]	[sound:however_example.mp3]	however means despite or not being influenced by something.	She is a great cook. however, she never had professional lessons.	
+		
+alert	попередження	alert.jpg	[sound:alert.mp3]	[sound:alert_meaning.mp3]	[sound:alert_example.mp3]	To alert someone is to tell or warn them about something.	The fire alarm alerted us that there was a problem.	
+		
+comprehend	зрозуміти	comprehend.jpg	[sound:comprehend.mp3]	[sound:comprehend_meaning.mp3]	[sound:comprehend_example.mp3]	To comprehend something is to understand it.	Henry could not comprehend the message.	
+		
+shield	щит	shield.jpg	[sound:shield.mp3]	[sound:shield_meaning.mp3]	[sound:shield_example.mp3]	To shield something is to protect it.	She shielded her eyes from the sun with sunglasses.	
+		
+broad	широкий	broad.jpg	[sound:broad.mp3]	[sound:broad_meaning.mp3]	[sound:broad_example.mp3]	If something is broad, it is wide.	The river is very long and broad.	
+		
+lot	багато	lot.jpg	[sound:lot.mp3]	[sound:lot_meaning.mp3]	[sound:lot_example.mp3]	A lot means a large number or amount of people, animals, things, etc.	There are a lot of apples in the basket.	
+		
+ability	здібності	ability.jpg	[sound:ability.mp3]	[sound:ability_meaning.mp3]	[sound:ability_example.mp3]	ability is the quality of a person being able to do something well.	His swimming abilities let him cross the entire lake.	
+		
+entire	цілком	entire.jpg	[sound:entire.mp3]	[sound:entire_meaning.mp3]	[sound:entire_example.mp3]	When you talk about an entire thing, you are talking about the whole thing.	He was so hungry that he ate the entire pizza by himself.	
+		
+update	оновлення	update.jpg	[sound:update.mp3]	[sound:update_meaning.mp3]	[sound:update_example.mp3]	An update is an act of making something more modern.	I’m doing an update on my personal phone directory.	
+		
+project	проекту	project.jpg	[sound:project.mp3]	[sound:project_meaning.mp3]	[sound:project_example.mp3]	A project is a type of work that you do for school or a job.	His afternoon work project was to paint the room green.	
+		
+report	звіт	report.jpg	[sound:report.mp3]	[sound:report_meaning.mp3]	[sound:report_example.mp3]	A report is something students write for school.	Karen had trouble writing her report.	
+		
+administrative	адміністративні	administrative.jpg	[sound:administrative.mp3]	[sound:administrative_meaning.mp3]	[sound:administrative_example.mp3]	administrative describes anything related to managing a company or organization.	I work as an administrative assistant to the owner of the company.	
+		
+client	клієнта	client.jpg	[sound:client.mp3]	[sound:client_meaning.mp3]	[sound:client_example.mp3]	A client is a person or business that pays another to do a service.	She has many clients who enjoy coming to her salon.	
+		
+include	включати	include.jpg	[sound:include.mp3]	[sound:include_meaning.mp3]	[sound:include_example.mp3]	To include something means to have it as part of a group.	Does this meal include a soft drink?	
+		
+release	реліз	release.jpg	[sound:release.mp3]	[sound:release_meaning.mp3]	[sound:release_example.mp3]	To release something is to stop holding it.	She released the bird from her hands.	
+		
+perform	виконувати	perform.jpg	[sound:perform.mp3]	[sound:perform_meaning.mp3]	[sound:perform_example.mp3]	To perform is to do something in front of people who watch.	He will perform a song for the class.	
+		
+direct	прямий	direct.jpg	[sound:direct.mp3]	[sound:direct_meaning.mp3]	[sound:direct_example.mp3]	If something is direct, it goes straight between two places.	The green path is a direct route to my house.	
+		
+advantage	перевага	advantage.jpg	[sound:advantage.mp3]	[sound:advantage_meaning.mp3]	[sound:advantage_example.mp3]	An advantage is something that helps you.	Being tall is an advantage to a basketball player.	
+		
+administration	адміністрації	administration.jpg	[sound:administration.mp3]	[sound:administration_meaning.mp3]	[sound:administration_example.mp3]	An administration is the group of people who manage a company or organization.	She hoped she could be promoted to a job in the administration.	
+		
+voice	голос	voice.jpg	[sound:voice.mp3]	[sound:voice_meaning.mp3]	[sound:voice_example.mp3]	A voice is the sound a person makes when they talk or sing.	He used a microphone, so everyone could hear his voice.	
+		
+effort	зусиль	effort.jpg	[sound:effort.mp3]	[sound:effort_meaning.mp3]	[sound:effort_example.mp3]	effort is hard work or an attempt to do something.	He always puts a lot of effort into his studies.	
+		
+remote	віддалений	remote.jpg	[sound:remote.mp3]	[sound:remote_meaning.mp3]	[sound:remote_example.mp3]	If something is remote, it is very far away and difficult to get to.	It took many days to get to the remote island.	
+		
+label	етикетці	label.jpg	[sound:label.mp3]	[sound:label_meaning.mp3]	[sound:label_example.mp3]	A label is a tag that tells about something.	The label on the back of your shirt will tell you what size it is.	
+		
+status	статус	status.jpg	[sound:status.mp3]	[sound:status_meaning.mp3]	[sound:status_example.mp3]	status is the position of something or someone in relation to others.	She had achieved the status of being the smartest girl in the class.	
+		
+particular	зокрема	particular.jpg	[sound:particular.mp3]	[sound:particular_meaning.mp3]	[sound:particular_example.mp3]	If something is particular, then it is a single, important part of a group of things.	The dress shop didn’t have the particular dress she was looking for.	
+		
+save	зберегти	save.jpg	[sound:save.mp3]	[sound:save_meaning.mp3]	[sound:save_example.mp3]	To save something is to keep it from being hurt.	I want to help save the world.	
+		
+wide	широкий	wide.jpg	[sound:wide.mp3]	[sound:wide_meaning.mp3]	[sound:wide_example.mp3]	If something is wide, it is large from side to side.	The door was as wide as my arms.	
+		
+intelligence	інтелект	intelligence.jpg	[sound:intelligence.mp3]	[sound:intelligence_meaning.mp3]	[sound:intelligence_example.mp3]	intelligence is the ability to learn and understand things.	Because of his high intelligence, he finished school early.	
+		
+gain	виграш	gain.jpg	[sound:gain.mp3]	[sound:gain_meaning.mp3]	[sound:gain_example.mp3]	If you gain something, you get more of it.	I gained some weight over the summer.	
+		
+parallel	паралельно	parallel.jpg	[sound:parallel.mp3]	[sound:parallel_meaning.mp3]	[sound:parallel_example.mp3]	If two things are parallel, they are the same distance away from each other.	There are two yellow parallel lines dividing both sides of traffic.	
+		
+communicate	спілкуватися	communicate.jpg	[sound:communicate.mp3]	[sound:communicate_meaning.mp3]	[sound:communicate_example.mp3]	To communicate is to give information by talking, writing, etc.	I communicated  with Paul about his new ideas.	
+		
+handle	ручкою	handle.jpg	[sound:handle.mp3]	[sound:handle_meaning.mp3]	[sound:handle_example.mp3]	A handle is the part of an object people hold while using it.	The pot is very hot. So pick it up by the handle.	
+		
+demand	попит	demand.jpg	[sound:demand.mp3]	[sound:demand_meaning.mp3]	[sound:demand_example.mp3]	To demand something is to say strongly that you want it.	The workers demanded to be paid more money.	
+		
+contact	контакту	contact.jpg	[sound:contact.mp3]	[sound:contact_meaning.mp3]	[sound:contact_example.mp3]	To contact  someone is to speak or write to them.	I contacted Sue about my party.	
+		
+technology	технології	technology.jpg	[sound:technology.mp3]	[sound:technology_meaning.mp3]	[sound:technology_example.mp3]	technology is new things made by using science.	He loves technology such as laptop computers.	
+		
+pinpoint	визначити	pinpoint.jpg	[sound:pinpoint.mp3]	[sound:pinpoint_meaning.mp3]	[sound:pinpoint_example.mp3]	To pinpoint something means to locate it exactly.	The navigation system in my car is able to pinpoint my exact location.	
+		
+certificate	сертифікат	certificate.jpg	[sound:certificate.mp3]	[sound:certificate_meaning.mp3]	[sound:certificate_example.mp3]	A certificate is a document that says that something is true or happened.	I was given a certificate after completing the computer course.	
+		
+relevant	відповідні	relevant.jpg	[sound:relevant.mp3]	[sound:relevant_meaning.mp3]	[sound:relevant_example.mp3]	When something is relevant, it is important to a certain person or situation.	The thirty-year-old book about politics is still relevant to our society today.	
+		
+response	відповідь	response.jpg	[sound:response.mp3]	[sound:response_meaning.mp3]	[sound:response_example.mp3]	A response is the answer to a question.	"He asked if I was sad. My response was """"No""""."	
+		
+approach	підхід	approach.jpg	[sound:approach_1434531251878.mp3]	[sound:approach_meaning.mp3]	[sound:approach_example.mp3]	To approach something means to move close to it.	The boy approached his school.	
+		
+layer	шар	layer.jpg	[sound:layer.mp3]	[sound:layer_meaning.mp3]	[sound:layer_example.mp3]	A layer covers over something or is between two things.	There was a layer of snow on the tops of the houses this morning.	
+		
+achieve	досягти	achieve.jpg	[sound:achieve.mp3]	[sound:achieve_meaning.mp3]	[sound:achieve_example.mp3]	To achieve something is to successfully do it after trying hard.	I was happy that I could achieve my goal	
+		
+either	або	either.jpg	[sound:either.mp3]	[sound:either_meaning.mp3]	[sound:either_example.mp3]	"either is used with """"or"""" to say there are two or more possibilities."	You can choose to be either white or black when you play chess.	
+		
+discover	відкрити	discover.jpg	[sound:discover.mp3]	[sound:discover_meaning.mp3]	[sound:discover_example.mp3]	To discover something is to find it for the first time.	I discovered some new information in this book!	
+		
+instead	замість цього	instead.jpg	[sound:instead.mp3]	[sound:instead_meaning.mp3]	[sound:instead_example.mp3]	instead means in place of.	He ate the carrot instead of the ice cream.	
+		
+real	реальний	real.jpg	[sound:real.mp3]	[sound:real_meaning.mp3]	[sound:real_example.mp3]	If something is real, it actually exists.	The handbag has a stamp on it, so it's real.	
+		
+object	об&#39;єкт	object.jpg	[sound:object.mp3]	[sound:object_meaning.mp3]	[sound:object_example.mp3]	An object is an inanimate thing that you can see or touch.	The shopping cart was filled with objects.	
+		
+replicate	повторювати	replicate.jpg	[sound:replicate.mp3]	[sound:replicate_meaning.mp3]	[sound:replicate_example.mp3]	To replicate something is to do it in the exact same way as someone before.	I would love to replicate my father’s achievements in school.	
+		
+corporate	корпоративні	corporate.jpg	[sound:corporate.mp3]	[sound:corporate_meaning.mp3]	[sound:corporate_example.mp3]	If something is corporate, it is related to a large business.	Tom enjoys working in the corporate world.	
+		
+remove	видалити	remove.jpg	[sound:remove.mp3]	[sound:remove_meaning.mp3]	[sound:remove_example.mp3]	To remove something is to take it away.	I removed the nail from the board.	
+		
+fleet	флоту	fleet.jpg	[sound:fleet.mp3]	[sound:fleet_meaning.mp3]	[sound:fleet_example.mp3]	A fleet is a group of ships.	The fleet of ships spent a few days at the dock.	
+		
+compatible	сумісність	compatible.jpg	[sound:compatible.mp3]	[sound:compatible_meaning.mp3]	[sound:compatible_example.mp3]	When things are compatible, they work well or exist together successfully.	Jan and Fred are too different. They will never be compatible.	
+		
+due	належне	due.jpg	[sound:due.mp3]	[sound:due_meaning.mp3]	[sound:due_example.mp3]	When something is due, it is expected to happen or be done at that time.	The papers were due on the 19th.	
+		
+progress	прогресу	progress.jpg	[sound:progress.mp3]	[sound:progress_meaning.mp3]	[sound:progress_example.mp3]	progress is the act of getting closer to doing or finishing something.	Our company made financial progress this year.	
+		
+determine	визначити	determine.jpg	[sound:determine.mp3]	[sound:determine_meaning.mp3]	[sound:determine_example.mp3]	To determine means to choose or make a decision.	He tried to determine which one to eat first.	
+		
+against	проти	against.jpg	[sound:against.mp3]	[sound:against_meaning.mp3]	[sound:against_example.mp3]	To be against something is to be touching it or opposed to it.	They both leaned against the wall.	
+		
+appliance	прилад	appliance.jpg	[sound:appliance.mp3]	[sound:appliance_meaning.mp3]	[sound:appliance_example.mp3]	An appliance is a piece of equipment used for jobs in the home.	Many homes have appliances like ovens, toasters and refrigerators.	
+		
+fiber	волокна	fiber.jpg	[sound:fiber_1434531251878.mp3]	[sound:fiber_meaning.mp3]	[sound:fiber_example.mp3]	fiber is a thread of a substance used to make clothes or rope.	The mat was made from tiny fibers.	
+		
+independent	незалежний	independent.jpg	[sound:independent.mp3]	[sound:independent_meaning.mp3]	[sound:independent_example.mp3]	If something is independent, it is not controlled by something else.	She chose to live an independent life in the country.	
+		
+further	далі	further.jpg	[sound:further.mp3]	[sound:further_meaning.mp3]	[sound:further_example.mp3]	further is used to say something is from a distance or time.	The escalator is further along than I thought.	
+		
+capital	капітал	capital.jpg	[sound:capital.mp3]	[sound:capital_meaning.mp3]	[sound:capital_example.mp3]	A capital is an important city where a country's leaders live and work.	We will visit the capital to learn about our government.	
+		
+massive	масивний	massive.jpg	[sound:massive.mp3]	[sound:massive_meaning.mp3]	[sound:massive_example.mp3]	If something is massive, it is very big.	The wheels on his truck were massive.	
+		
+eliminate	ліквідувати	eliminate.jpg	[sound:eliminate.mp3]	[sound:eliminate_meaning.mp3]	[sound:eliminate_example.mp3]	To eliminate something that is unwanted means to completely remove it.	Wearing a seatbelt eliminates some of the dangers of driving a car.	
+		
+since	з	since.jpg	[sound:since.mp3]	[sound:since_meaning.mp3]	[sound:since_example.mp3]	since is used to talk about a past event still happening now.	since 1992, he has been driving that car.	
+		
+experiment	експеримент	experiment.jpg	[sound:experiment.mp3]	[sound:experiment_meaning.mp3]	[sound:experiment_example.mp3]	An experiment is a test that you do to see what will happen.	The student did an experiment in science class.	
+		
+extract	екстракт	extract.jpg	[sound:extract.mp3]	[sound:extract_meaning.mp3]	[sound:extract_example.mp3]	Toextract something means to remove it.<!--anki-->	The dentistextracted the woman’s damaged tooth and put in a fake one.<!--anki-->	
+		
+convert	конвертувати	convert.jpg	[sound:convert.mp3]	[sound:convert_meaning.mp3]	[sound:convert_example.mp3]	To convert something means to change it into something else.	The man converted his messy field into a garden of flowers.	
+		
+interact	взаємодіяти	interact.jpg	[sound:interact.mp3]	[sound:interact_meaning.mp3]	[sound:interact_example.mp3]	To interact is to talk to or do something with another person.	The kids began to interact when the adults left the room.	
+		
+solution	розчин	solution.jpg	[sound:solution.mp3]	[sound:solution_meaning.mp3]	[sound:solution_example.mp3]	A solution is a way to solve a problem.	There are many problems. We need solutions.	
+		
+dynamic	динамічний	dynamic.jpg	[sound:dynamic.mp3]	[sound:dynamic_meaning.mp3]	[sound:dynamic_example.mp3]	When people are dynamic, they are lively and have creative ideas.	The new, dynamic employee came up with a good way to juggle his work load.	
+		
+vision	бачення	vision.jpg	[sound:vision.mp3]	[sound:vision_meaning.mp3]	[sound:vision_example.mp3]	vision is the act of seeing.	The eye doctor tested my vision.	
+		
+formation	формування	formation.jpg	[sound:formation.mp3]	[sound:formation_meaning.mp3]	[sound:formation_example.mp3]	A formation is the way that something is made.	The formation of ice happens when water freezes.	
+		
+combine	комбінувати	combine.jpg	[sound:combine.mp3]	[sound:combine_meaning.mp3]	[sound:combine_example.mp3]	To combine is to join together to make a single thing or group.	Mina combined peanut butter and jelly to make a sandwich.	
+		
+rest	відпочинок	rest.jpg	[sound:rest.mp3]	[sound:rest_meaning.mp3]	[sound:rest_example.mp3]	To rest is to stop being active while the body gets back its strength.	I rested on the couch after work.	
+		
+overhead	над головою	overhead.jpg	[sound:overhead.mp3]	[sound:overhead_meaning.mp3]	[sound:overhead_example.mp3]	If something is overhead, it is located above you.	As we sat on top of the hill, a plane flew overhead.	
+		
+execute	виконати	execute.jpg	[sound:execute.mp3]	[sound:execute_meaning.mp3]	[sound:execute_example.mp3]	To execute someone means to kill them as a legal punishment.	Some people are executed for serious crimes.	
+		
+native	рідною	native.jpg	[sound:native.mp3]	[sound:native_meaning.mp3]	[sound:native_example.mp3]	When something is native, it is originating in a certain place or area.	Avocadoes are native fruits of Mexico.	
+		
+inside	всередині	inside.jpg	[sound:inside.mp3]	[sound:inside_meaning.mp3]	[sound:inside_example.mp3]	inside means the inner part, space or side of something.	The inside of the box was empty.	
+		
+spot	місце	spot.jpg	[sound:spot.mp3]	[sound:spot_meaning.mp3]	[sound:spot_example.mp3]	A spot is a place where something happens.	The kitchen is a good spot to eat meals.	
+		
+trigger	тригер	trigger.jpg	[sound:trigger.mp3]	[sound:trigger_meaning.mp3]	[sound:trigger_example.mp3]	A trigger is the part of the gun that a person pulls to make it fire.	The man had his finger on the trigger of the gun.	
+		
+rapidly	швидко	rapidly.jpg	[sound:rapidly.mp3]	[sound:rapidly_meaning.mp3]	[sound:rapidly_example.mp3]	When something happens rapidly, it happens very fast.	The train moved rapidly on the tracks.	
+		
+oracle	оракул	oracle.jpg	[sound:oracle.mp3]	[sound:oracle_meaning.mp3]	[sound:oracle_example.mp3]	An oracle is person who speaks with gods and gives advice about the future.	The king went to the oracle to ask if going to war was a good idea.	
+		
+request	запит	request.jpg	[sound:request.mp3]	[sound:request_meaning.mp3]	[sound:request_example.mp3]	To request something is to ask for it.	The little girl requested a special gift from Santa Claus.	
+		
+chef	лідер	chef.jpg	[sound:chef.mp3]	[sound:chef_meaning.mp3]	[sound:chef_example.mp3]	A chef is a person who cooks in a restaurant.	Tom is a chef at the restaurant near my house.	
+		
+issue	проблема	issue.jpg	[sound:issue.mp3]	[sound:issue_meaning.mp3]	[sound:issue_example.mp3]	An issue is an important topic.	The men spoke about issue that were important to the people.	
+		
+modify	змінити	modify.jpg	[sound:modify.mp3]	[sound:modify_meaning.mp3]	[sound:modify_example.mp3]	To modify something is to change it a little bit.	I modified my outfit by adding a belt to it.	
+		
+consume	споживати	consume.jpg	[sound:consume_1434531251878.mp3]	[sound:consume_meaning.mp3]	[sound:consume_example.mp3]	To consume something means to eat or drink it.	Jack consumed a whole plate of spaghetti.	
+		
+feature	функція	feature.jpg	[sound:feature.mp3]	[sound:feature_meaning.mp3]	[sound:feature_example.mp3]	A feature is an important part of something.	The cell phone has many features.	
+		
+extend	розширити	extend.jpg	[sound:extend.mp3]	[sound:extend_meaning.mp3]	[sound:extend_example.mp3]	To extend is to stretch out or reach.	The boy extended his hand to catch the ball.	
+		
+fault	вини	fault.jpg	[sound:fault.mp3]	[sound:fault_meaning.mp3]	[sound:fault_example.mp3]	A fault is a mistake.	It is my fault that the cat ran away. I left the door open.	
+		
+establish	встановити	establish.jpg	[sound:establish.mp3]	[sound:establish_meaning.mp3]	[sound:establish_example.mp3]	To establish something means to create it.	He wanted to establish a club for people to help the Earth.	
+		
+ongoing	триває	ongoing.jpg	[sound:ongoing.mp3]	[sound:ongoing_meaning.mp3]	[sound:ongoing_example.mp3]	If something isongoing, then it is still happening or still growing.<!--anki-->	The development of plants isongoing because it takes time for them to mature.<!--anki-->	
+		
+publish	публікувати	publish.jpg	[sound:publish.mp3]	[sound:publish_meaning.mp3]	[sound:publish_example.mp3]	To publish a book is to get it printed and ready to sell.	That company publishes daily newspapers.	
+		
+schedule	графік	schedule.jpg	[sound:schedule.mp3]	[sound:schedule_meaning.mp3]	[sound:schedule_example.mp3]	A schedule is a plan that tells you when to do things.	What is your class schedule for today?	
+		
+cache	кеш	cache.jpg	[sound:cache.mp3]	[sound:cache_meaning.mp3]	[sound:cache_example.mp3]	A cache is a hiding place for valuable things.	The pirates kept their jewelry in a cache hidden in a cave.	
+		
+necessary	необхідно	necessary.jpg	[sound:necessary.mp3]	[sound:necessary_meaning.mp3]	[sound:necessary_example.mp3]	If something is necessary, you must do it.	It is necessary to have a passport when you travel to a foreign country.	
+		
+enforce	виконання	enforce.jpg	[sound:enforce.mp3]	[sound:enforce_meaning.mp3]	[sound:enforce_example.mp3]	To enforce means to make a person follow a rule.	Police enforce traffic laws to keep everyone safe.	
+		
+organize	організувати	organize.jpg	[sound:organize.mp3]	[sound:organize_meaning.mp3]	[sound:organize_example.mp3]	To organize is to plan or get ready for an event.	Make a list to help you organize the things you need.	
+		
+reach	досягти	reach.jpg	[sound:reach.mp3]	[sound:reach_meaning.mp3]	[sound:reach_example.mp3]	To reach means to arrive at a place.	I was happy to finally reach my destination.	
+		
+distribute	поширювати	distribute.jpg	[sound:distribute.mp3]	[sound:distribute_meaning.mp3]	[sound:distribute_example.mp3]	To distribute something is to give it to a number of people.	The teacher distributed crayons and markers to his students.	
+		
+current	струм	current.jpg	[sound:current.mp3]	[sound:current_meaning.mp3]	[sound:current_example.mp3]	A current is a steady and constant flow of air or water in a river or ocean.	The ocean currents took the ship far off into the sea.	
+		
+responsible	відповідальний	responsible.jpg	[sound:responsible.mp3]	[sound:responsible_meaning.mp3]	[sound:responsible_example.mp3]	If a person is responsible, they do the right things.	I try to be responsible and save money.	
+		
+expense	витрат	expense.jpg	[sound:expense.mp3]	[sound:expense_meaning.mp3]	[sound:expense_example.mp3]	An expense is the money that people spend on something.	She wrote down all the expenses for her trip.	
+		
+spend	витрачати	spend.jpg	[sound:spend.mp3]	[sound:spend_meaning.mp3]	[sound:spend_example.mp3]	To spend is to use time doing something or being somewhere.	I like to spend my free time fishing.	
+		
+space	простір	space.jpg	[sound:space.mp3]	[sound:space_meaning.mp3]	[sound:space_example.mp3]	A space is an empty area.	I don't have much space for things in my small house.	
+		
+specify	вказати	specify.jpg	[sound:specify.mp3]	[sound:specify_meaning.mp3]	[sound:specify_example.mp3]	To specify is to describe something clearly.	The poster didn’t specify where the concert was taking place.	
+		
+consist	складаються	consist.jpg	[sound:consist.mp3]	[sound:consist_meaning.mp3]	[sound:consist_example.mp3]	To consist of is to be made of parts or things.	Today's choices for lunch consisted of pizza, hamburgers, and hot dogs.	
+		
+implement	реалізувати	implement.jpg	[sound:implement.mp3]	[sound:implement_meaning.mp3]	[sound:implement_example.mp3]	Toimplement something means to ensure that what has been planned is done.<!--anki--><!--anki-->	The school decided toimplement a new teaching strategy.<!--anki--><!--anki-->	
+		
+prepare	підготувати	prepare.jpg	[sound:prepare.mp3]	[sound:prepare_meaning.mp3]	[sound:prepare_example.mp3]	To prepare is to get ready for something.	I prepared my speech to the class.	
+		
+vast	величезний	vast.jpg	[sound:vast_1434531251878.mp3]	[sound:vast_meaning.mp3]	[sound:vast_example.mp3]	If something is vast, it is very large.	The wealthy man bought a vast amount of land in the countryside.	
+		
+along	разом	along.jpg	[sound:along.mp3]	[sound:along_meaning.mp3]	[sound:along_example.mp3]	along means to move from one part of a road, river etc. to another.	Walk along this tunnel for ten minutes, and you'll see a door on the left.	
+		
+capture	захоплення	capture.jpg	[sound:capture.mp3]	[sound:capture_meaning.mp3]	[sound:capture_example.mp3]	To capture someone or something is to catch them.	James tried to capture the bubbles in his hands.	
+		
+match	матч	match.jpg	[sound:match.mp3]	[sound:match_meaning.mp3]	[sound:match_example.mp3]	To match is to be the same or similar.	The two shoes matched. They looked the same.	
+		
+rate	ставка	rate.jpg	[sound:rate.mp3]	[sound:rate_meaning.mp3]	[sound:rate_example.mp3]	A rate is the speed at which something happens.	Grass tends to grow at a very slow rate.	
+		
+individual	індивідуальний	individual.jpg	[sound:individual.mp3]	[sound:individual_meaning.mp3]	[sound:individual_example.mp3]	An individual is one person.	Only one individual could win the bicycle race.	
+		
+diverse	різноманітні	diverse.jpg	[sound:diverse_1434531251878.mp3]	[sound:diverse_meaning.mp3]	[sound:diverse_example.mp3]	When a group of things is diverse, it is made up of a wide variety of things.	Big cities have diverse populations with people of different races and ages.	
+		
+output	вихід	output.jpg	[sound:output.mp3]	[sound:output_meaning.mp3]	[sound:output_example.mp3]	output is the amount of something that a person or thing produces.	The boss hired more workers to increase the factory’s output of products.	
+		
+exact	точний	exact.jpg	[sound:exact.mp3]	[sound:exact_meaning.mp3]	[sound:exact_example.mp3]	If something is exact, it is just the right amount.	Please use the exact amount of sugar for the cake.	
+		
+budget	бюджет	budget.jpg	[sound:budget.mp3]	[sound:budget_meaning.mp3]	[sound:budget_example.mp3]	A budget is the amount of money available to spend on something.	His budget for food was very tight.	
+		
+transaction	транзакції	transaction.jpg	[sound:transaction.mp3]	[sound:transaction_meaning.mp3]	[sound:transaction_example.mp3]	Atransaction is an act of buying or selling something.<!--anki-->	Because the clerk was new at the job, the simpletransaction took a long time.<!--anki-->	
+		
+feedback	зворотній зв&#39;язок	feedback.jpg	[sound:feedback.mp3]	[sound:feedback_meaning.mp3]	[sound:feedback_example.mp3]	feedback is comments to a person about how they are doing something.	I asked my boss for feedback on my work.	
+		
+actually	насправді	actually.jpg	[sound:actually_1434531251878.mp3]	[sound:actually_meaning.mp3]	[sound:actually_example.mp3]	actually means in fact or really.	My dad looks a little mean, but actually he's very kind.	
+		
+charge	заряд	charge.jpg	[sound:charge_1434531251878.mp3]	[sound:charge_meaning.mp3]	[sound:charge_example.mp3]	A charge is the price to pay for something.	The charge for the shirts was $15.00.	
+		
+ideal	ідеальний	ideal.jpg	[sound:ideal.mp3]	[sound:ideal_meaning.mp3]	[sound:ideal_example.mp3]	If something is ideal, it is the best that it can possibly be.	This house is an ideal place for my family. It has everything we need.	
+		
+purchase	придбання	purchase.jpg	[sound:purchase.mp3]	[sound:purchase_meaning.mp3]	[sound:purchase_example.mp3]	To purchase something is to buy it.	I recently purchased a new car.	
+		
+retrieve	отримати	retrieve.jpg	[sound:retrieve.mp3]	[sound:retrieve_meaning.mp3]	[sound:retrieve_example.mp3]	To retrieve something is to find it and get it back.	She retrieved her mail from the mail box.	
+		
+lack	відсутність	lack.jpg	[sound:lack.mp3]	[sound:lack_meaning.mp3]	[sound:lack_example.mp3]	If there is a lack of something, there is not enough of it.	His only problem is a lack of money.	
+		
+globe	земної кулі	globe.jpg	[sound:globe.mp3]	[sound:globe_meaning.mp3]	[sound:globe_example.mp3]	The globe refers to the Earth.	Water covers most of the globe.	
+		
+transmit	передавати	transmit.jpg	[sound:transmit.mp3]	[sound:transmit_meaning.mp3]	[sound:transmit_example.mp3]	To transmit something means to pass it from one person or place to another.	The radio tower transmits a signal to all the radios in a 20-kilometer radius.	
+		
+resolve	вирішувати	resolve.jpg	[sound:resolve.mp3]	[sound:resolve_meaning.mp3]	[sound:resolve_example.mp3]	To resolve something means to find a solution.	She resolved the problem with her children by giving them both a toy.	
+		
+character	характер	character.jpg	[sound:character.mp3]	[sound:character_meaning.mp3]	[sound:character_example.mp3]	Your character is your personality.	My sister's character is fun and very outgoing.	
+		
+image	зображення	image.jpg	[sound:image.mp3]	[sound:image_meaning.mp3]	[sound:image_example.mp3]	The image of something is a picture of it.	The image of her eye was very clear.	
+		
+attach	прикріпити	attach.jpg	[sound:attach.mp3]	[sound:attach_meaning.mp3]	[sound:attach_example.mp3]	To attach is to put two things together.	I attached the socks to the clothesline to dry.	
+		
+produce	виробляти	produce.jpg	[sound:produce.mp3]	[sound:produce_meaning.mp3]	[sound:produce_example.mp3]	To produce something is to make or grow it.	This tree produces apples every year.	
+		
+cognitive	когнітивні	cognitive.jpg	[sound:cognitive_1434531251878.mp3]	[sound:cognitive_meaning.mp3]	[sound:cognitive_example.mp3]	If something is cognitive, it is related to learning and knowing things.	After her physical examination, her cognitive strengths were tested.	
+		
+race	раса	race.jpg	[sound:race.mp3]	[sound:race_meaning.mp3]	[sound:race_example.mp3]	A race is a contest to see who is the fastest.	Paul is a fast runner, so he easily won the race.	
+		
+patch	патч	patch.jpg	[sound:patch.mp3]	[sound:patch_meaning.mp3]	[sound:patch_example.mp3]	A patch is a part of a surface that is different in appearance from the rest.	There was one small patch of grass in the sand-covered desert.	
+		
+glacier	льодовик	glacier.jpg	[sound:glacier.mp3]	[sound:glacier_meaning.mp3]	[sound:glacier_example.mp3]	A glacier is a large piece of ice that moves very slowly.	The North Pole is covered by a huge glacier.	
+		
+decision	рішення	decision.jpg	[sound:decision.mp3]	[sound:decision_meaning.mp3]	[sound:decision_example.mp3]	A decision is a choice.	He made the wrong decision.	
+		
+several	кілька	several.jpg	[sound:several.mp3]	[sound:several_meaning.mp3]	[sound:several_example.mp3]	several is more than two but not many.	He had to read several books for class.	
+		
+method	метод	method.jpg	[sound:method.mp3]	[sound:method_meaning.mp3]	[sound:method_example.mp3]	A method is the way to do something.	One method to remember things is to tie a string around your finger.	
+		
+physical	фізичний	physical.jpg	[sound:physical.mp3]	[sound:physical_meaning.mp3]	[sound:physical_example.mp3]	If something is physical, it is related to your body and not your mind.	Biking is good for your physical health.	
+		
+tolerant	толерантний	tolerant.jpg	[sound:tolerant.mp3]	[sound:tolerant_meaning.mp3]	[sound:tolerant_example.mp3]	When people are tolerant, they are approved of because they accept others.	The tolerant leader thought that everyone was equal regardless of race.	
+		
+retain	зберігати	retain.jpg	[sound:retain.mp3]	[sound:retain_meaning.mp3]	[sound:retain_example.mp3]	To retain something is to keep it.	Even by the afternoon, the day had retained the morning’s freshness.	
+		
+personnel	персоналу	personnel.jpg	[sound:personnel.mp3]	[sound:personnel_meaning.mp3]	[sound:personnel_example.mp3]	personnel are employees in a business.	When business increased, we had to hire more personnel.	
+		
+intuitive	інтуїтивно	intuitive.jpg	[sound:intuitive.mp3]	[sound:intuitive_meaning.mp3]	[sound:intuitive_example.mp3]	intuitive is knowing about something without naturally having support or proof.	Rhonda had an intuitive feeling that Shane wasn’t coming to school today.	
+		
+populate	заповнити	populate.jpg	[sound:populate.mp3]	[sound:populate_meaning.mp3]	[sound:populate_example.mp3]	If people populate an area, they live there.	Billions of people populate the Earth.	
+		
+react	реагувати	react.jpg	[sound:react.mp3]	[sound:react_meaning.mp3]	[sound:react_example.mp3]	To react is to act in a certain way because of something that happened.	James reacted badly to the news.	
+		
+social	соціальний	social.jpg	[sound:social.mp3]	[sound:social_meaning.mp3]	[sound:social_example.mp3]	If something is social, it is about many people in a community.	People should come together and fix the world's social problems.	
+		
+sensitive	чутливий	sensitive.jpg	[sound:sensitive.mp3]	[sound:sensitive_meaning.mp3]	[sound:sensitive_example.mp3]	When someone or something is sensitive, they are easily hurt.	My teeth are sensitive to cold things.	
+		
+architect	архітектор	architect.jpg	[sound:architect.mp3]	[sound:architect_meaning.mp3]	[sound:architect_example.mp3]	An architect is a person who designs buildings.	The plans for building the new home were drawn by a famous architect.	
+		
+input	введення	input.jpg	[sound:input.mp3]	[sound:input_meaning.mp3]	[sound:input_example.mp3]	input is information that is put into a computer.	Type the input into the computer program.	
+		
+task	завдання	task.jpg	[sound:task.mp3]	[sound:task_meaning.mp3]	[sound:task_example.mp3]	A task is work that someone has to do.	Who has the task of building the brick wall?	
+		
+comprehensive	всеосяжний	comprehensive.jpg	[sound:comprehensive.mp3]	[sound:comprehensive_meaning.mp3]	[sound:comprehensive_example.mp3]	If something is comprehensive, it has all the details about something else.	The teacher gave us a comprehensive review for the exam.	
+		
+aggregate	сукупність	aggregate.jpg	[sound:aggregate.mp3]	[sound:aggregate_meaning.mp3]	[sound:aggregate_example.mp3]	When a number is aggregate, it is made up of smaller amounts added together.	The company totaled its aggregate sales for the entire year.	
+		
+authority	влади	authority.jpg	[sound:authority.mp3]	[sound:authority_meaning.mp3]	[sound:authority_example.mp3]	authority is the power that someone has because of their position.	The policeman has authority on the streets.	
+		
+option	опції	option.jpg	[sound:option.mp3]	[sound:option_meaning.mp3]	[sound:option_example.mp3]	An option is a choice between two or more things.	The children were given the option of three houses to pick from.	
+		
+trial	випробування	trial.jpg	[sound:trial.mp3]	[sound:trial_meaning.mp3]	[sound:trial_example.mp3]	A trial is the way a court discovers if a person is guilty or innocent.	He went on trial for robbing the bank.	
+		
+obtain	отримати	obtain.jpg	[sound:obtain.mp3]	[sound:obtain_meaning.mp3]	[sound:obtain_example.mp3]	To obtain is to get something you want or need.	After I passed the test, I obtained my driver's license.	
+		
+net	чистий	net.jpg	[sound:net.mp3]	[sound:net_meaning.mp3]	[sound:net_example.mp3]	A net is a bag made of strong thread. It is used to catch animals.	The boy caught butterflies in his net.	
+		
+price	ціна	price.jpg	[sound:price.mp3]	[sound:price_meaning.mp3]	[sound:price_example.mp3]	The price of something is how much it costs.	What is the price of this item?	
+		
+bring	принести	bring.jpg	[sound:bring.mp3]	[sound:bring_meaning.mp3]	[sound:bring_example.mp3]	To bring means to take someone or something to a person or place.	Oscar will bring in all the boxes.	
+		
+disaster	катастрофи	disaster.jpg	[sound:disaster.mp3]	[sound:disaster_meaning.mp3]	[sound:disaster_example.mp3]	A disaster is a really bad thing that happens.	When the car crashed, it was a disaster.	
+		
+among	серед	among.jpg	[sound:among.mp3]	[sound:among_meaning.mp3]	[sound:among_example.mp3]	If you are among certain things, they are all around you.	There was a red apple among green ones.	
+		
+navigate	навігація	navigate.jpg	[sound:navigate.mp3]	[sound:navigate_meaning.mp3]	[sound:navigate_example.mp3]	To navigate something is to control the way it moves or goes.	She navigated the ship across the ocean.	
+		
+engage	займатися	engage.jpg	[sound:engage.mp3]	[sound:engage_meaning.mp3]	[sound:engage_example.mp3]	To engage in something means to do it.	Dad was engaged in sawing a piece of wood in half.	
+		
+switch	перемикач	switch.jpg	[sound:switch.mp3]	[sound:switch_meaning.mp3]	[sound:switch_example.mp3]	To switch means to change something to something else.	Mom switched the TV station from the news to her favorite show.	
+		
+frequently	часто	frequently.jpg	[sound:frequently.mp3]	[sound:frequently_meaning.mp3]	[sound:frequently_example.mp3]	When something happens frequently, it happens often.	We meet frequently, either at the beginning or ending of the week.	
+		
+function	функції	function.jpg	[sound:function.mp3]	[sound:function_meaning.mp3]	[sound:function_example.mp3]	The function of something is what it does.	The function of a flashlight is to help you see in the dark.	
+		
+motion	руху	motion.jpg	[sound:motion.mp3]	[sound:motion_meaning.mp3]	[sound:motion_example.mp3]	A motion is a movement that someone makes.	The police officer made a motion with his hand.	
+		
+efficient	ефективний	efficient.jpg	[sound:efficient.mp3]	[sound:efficient_meaning.mp3]	[sound:efficient_example.mp3]	If something or someone is efficient, they do not waste energy.	My car is very efficient. I rarely have to buy gas.	
+		
+behavior	поведінка	behavior.jpg	[sound:behavior.mp3]	[sound:behavior_meaning.mp3]	[sound:behavior_example.mp3]	Your behavior is the way you act.	Their behavior was good this semester. They didn't cause trouble.	
+		
+overall	загалом	overall.jpg	[sound:overall.mp3]	[sound:overall_meaning.mp3]	[sound:overall_example.mp3]	When a thing is talked about overall, the whole thing is considered.	overall, the party was a huge success.	
+		
+site	сайту	site.jpg	[sound:site.mp3]	[sound:site_meaning.mp3]	[sound:site_example.mp3]	A site is a place.	We found the perfect site for our picnic.	
+		
+shell	оболонки	shell.jpg	[sound:shell.mp3]	[sound:shell_meaning.mp3]	[sound:shell_example.mp3]	A shell is a hard covering that protects the body of some sea creatures.	There were many pretty shells on the beach.	
+		
+policy	політика	policy.jpg	[sound:policy.mp3]	[sound:policy_meaning.mp3]	[sound:policy_example.mp3]	A policy is a rule.	He told us that his policy was to put customers first.	
+		
+limit	обмеження	limit.jpg	[sound:limit.mp3]	[sound:limit_meaning.mp3]	[sound:limit_example.mp3]	A limit is the largest or smallest amount of something that you allow.	My mother put a limit on how much I could use the phone.	
+		
+credentials	повноваження	credentials.jpg	[sound:credentials.mp3]	[sound:credentials_meaning.mp3]	[sound:credentials_example.mp3]	credentials are the proof of someone’s experience or ability to do something.	The mechanic hung his credentials on his office wall.	
+		
+block	блок	block.jpg	[sound:block.mp3]	[sound:block_meaning.mp3]	[sound:block_example.mp3]	A block is a solid piece of wood, stone or ice.	I saw a block of ice on the floor.	
+		
+notice	повідомлення	notice.jpg	[sound:notice.mp3]	[sound:notice_meaning.mp3]	[sound:notice_example.mp3]	To notice something is to see it for the first time.	Did you notice the view?	
+		
+whether	чи	whether.jpg	[sound:whether.mp3]	[sound:whether_meaning.mp3]	[sound:whether_example.mp3]	You use whether when you must choose between two things.	I could not decide whether to go left or right.	
+		
+opportunity	можливість	opportunity.jpg	[sound:opportunity_1434531251878.mp3]	[sound:opportunity_meaning.mp3]	[sound:opportunity_example.mp3]	An opportunity is a chance to do something.	I had an opportunity to take pictures in the jungle.	
+		
+replace	замінити	replace.jpg	[sound:replace.mp3]	[sound:replace_meaning.mp3]	[sound:replace_example.mp3]	To replace something is to put it in the place of something else.	I replaced the tire on my car because it was flat.	
+		
+prior	попередній	prior.jpg	[sound:prior.mp3]	[sound:prior_meaning.mp3]	[sound:prior_example.mp3]	When something happened prior to something else, it happened earlier.	Ron had to wait since he arrived prior to the scheduled meeting time.	
+		
+rather	скоріше	rather.jpg	[sound:rather.mp3]	[sound:rather_meaning.mp3]	[sound:rather_example.mp3]	rather is used when you want to do one thing but not the other.	I would rather have the red one than the blue one.	
+		
+minimal	мінімальний	minimal.jpg	[sound:minimal.mp3]	[sound:minimal_meaning.mp3]	[sound:minimal_example.mp3]	When something is minimal, it is very small.	My lazy husband does a minimal amount of work around the house.	
+		
+avoid	уникнути	avoid.jpg	[sound:avoid.mp3]	[sound:avoid_meaning.mp3]	[sound:avoid_example.mp3]	To avoid something is to stay away from it.	avoid the broken bottle on the floor.	
+		
+internal	внутрішній	internal.jpg	[sound:internal.mp3]	[sound:internal_meaning.mp3]	[sound:internal_example.mp3]	When something is internal, it exists or happens inside a person, object, or place.	We removed the outer case to reveal the computer’s internal wires.	
+		
+supply	постачання	supply.jpg	[sound:supply_1434531251878.mp3]	[sound:supply_meaning.mp3]	[sound:supply_example.mp3]	To supply something means to give people what they need or want.	The water heater suppl<u>i</u>ed the house with warm water.	
+		
+satisfy	задовольнити	satisfy.jpg	[sound:satisfy.mp3]	[sound:satisfy_meaning.mp3]	[sound:satisfy_example.mp3]	To satisfy someone means to make them happy.	It will satisfy my teacher if I finish all my homework.	
+		
+safe	безпечний	safe.jpg	[sound:safe.mp3]	[sound:safe_meaning.mp3]	[sound:safe_example.mp3]	When a person is safe, they are not in danger.	Put on your seat belt in the car to be safe.	
+		
+facility	об&#39;єкті	facility.jpg	[sound:facility.mp3]	[sound:facility_meaning.mp3]	[sound:facility_example.mp3]	A facility is a building that exists for a particular purpose.	There are many educational facilities in big cities.	
+		
+spark	іскра	spark.jpg	[sound:spark.mp3]	[sound:spark_meaning.mp3]	[sound:spark_example.mp3]	A spark is a small, quick flash of fire.	As he welded the two pieces of metal together, sparks flew everywhere.	
+		
+raw	сировина	raw.jpg	[sound:raw.mp3]	[sound:raw_meaning.mp3]	[sound:raw_example.mp3]	If a material is raw, it is natural and has not been processed.	The company dumped raw sewage into the river.	
+		
+original	оригінал	original.jpg	[sound:original.mp3]	[sound:original_meaning.mp3]	[sound:original_example.mp3]	If something is original, it is the first one of that thing.	This is the original painting of the Mona Lisa.	
+		
+appropriate	відповідним чином	appropriate.jpg	[sound:appropriate.mp3]	[sound:appropriate_meaning.mp3]	[sound:appropriate_example.mp3]	When a thing is appropriate, it is right or normal.	It's appropriate to wear a suit when you go to the office.	
+		
+exchange	обміну	exchange.jpg	[sound:exchange.mp3]	[sound:exchange_meaning.mp3]	[sound:exchange_example.mp3]	To exchange means to give something for another thing in return.	I exchanged my foreign money for American dollars.	
+		
+exceed	перевищувати	exceed.jpg	[sound:exceed.mp3]	[sound:exceed_meaning.mp3]	[sound:exceed_example.mp3]	To exceed is to be more than something.	Since I exceeded my limit, I decided to get rid of my credit cards.	
+		
+fabric	тканина	fabric.jpg	[sound:fabric.mp3]	[sound:fabric_meaning.mp3]	[sound:fabric_example.mp3]	fabric is cloth used to make clothes, furniture, etc.	The towels were made from a soft fabric.	
+		
+adapt	адаптуватися	adapt.jpg	[sound:adapt.mp3]	[sound:adapt_meaning.mp3]	[sound:adapt_example.mp3]	To adapt means to change in order to deal with a new situation or addition.	When he went to the new town, he had to adapt to all the weather changes.	
+		
+quantum	квант	quantum.jpg	[sound:quantum.mp3]	[sound:quantum_meaning.mp3]	[sound:quantum_example.mp3]	When something is quantum, it relates to the behavior of atomic particles.	The physics student studied quantum mechanics.	
+		
+community	спільноти	community.jpg	[sound:community.mp3]	[sound:community_meaning.mp3]	[sound:community_example.mp3]	A community is a group of people who live together.	The kids from my community usually play together.	
+		
+remain	залишиться	remain.jpg	[sound:remain.mp3]	[sound:remain_meaning.mp3]	[sound:remain_example.mp3]	To remain somewhere is to stay there.	My sister had to remain home since she was sick.	
+		
+expand	розширити	expand.jpg	[sound:expand.mp3]	[sound:expand_meaning.mp3]	[sound:expand_example.mp3]	To expand is to become bigger in size.	A balloon will expand as you blow air into it.	
+		
+chain	ланцюга	chain.jpg	[sound:chain.mp3]	[sound:chain_meaning.mp3]	[sound:chain_example.mp3]	A chain is a series of connected loops often used to keep things in place.	The scary dog was secured with a chain.	
+		
+verify	перевірити	verify.jpg	[sound:verify.mp3]	[sound:verify_meaning.mp3]	[sound:verify_example.mp3]	To verify means to find out if something is true.	Julian called the movie theater to verify that the movie started at nine.	
+		
+benefit	користь	benefit.jpg	[sound:benefit.mp3]	[sound:benefit_meaning.mp3]	[sound:benefit_example.mp3]	A benefit is a good thing.	Being able to fly is a good benefit to birds.	
+		
+session	сесії	session.jpg	[sound:session.mp3]	[sound:session_meaning.mp3]	[sound:session_example.mp3]	A session is a meeting at a regular time in order to discuss and solve an issue.	Every three months the managers met in a session to discuss regional sales.	
+		
+whole	цілком	whole.jpg	[sound:whole.mp3]	[sound:whole_meaning.mp3]	[sound:whole_example.mp3]	whole  means all of something.	I ate the whole pie. We don't have any more.	
+		
+essential	важливо	essential.jpg	[sound:essential.mp3]	[sound:essential_meaning.mp3]	[sound:essential_example.mp3]	If something is essential, it is very important and necessary.	It is essential to have oxygen when you scuba dive.	
+		
+gather	збирати	gather.jpg	[sound:gather.mp3]	[sound:gather_meaning.mp3]	[sound:gather_example.mp3]	To gather is to collect several things usually from different places.	Sam gathered some flowers for his mother.	
+		
+challenge	виклик	challenge.jpg	[sound:challenge.mp3]	[sound:challenge_meaning.mp3]	[sound:challenge_example.mp3]	A challenge is something difficult to complete.	It was a challenge to climb to the top of the mountain.	
+		
+solve	вирішити	solve.jpg	[sound:solve.mp3]	[sound:solve_meaning.mp3]	[sound:solve_example.mp3]	To solve something is to find an answer to it.	All the students could easily solve the math problem.	
+		
+still	досі	still.jpg	[sound:still.mp3]	[sound:still_meaning.mp3]	[sound:still_example.mp3]	still is used when you say that a situation keeps going on.	They are still waiting in line to get tickets.	
+		
+confidence	довіру	confidence.jpg	[sound:confidence.mp3]	[sound:confidence_meaning.mp3]	[sound:confidence_example.mp3]	If you have confidence about something, you are sure of it.	I have confidence that I did well on the test.	
+		
+sentiment	настрої	sentiment.jpg	[sound:sentiment.mp3]	[sound:sentiment_meaning.mp3]	[sound:sentiment_example.mp3]	A sentiment is an opinion based on your feelings.	Tess told everyone at the table her sentiments about eating meat.	
+		
+negative	негативний	negative.jpg	[sound:negative.mp3]	[sound:negative_meaning.mp3]	[sound:negative_example.mp3]	When something is negative, it is unpleasant or sad.	She doesn’t like to say negative things about her friends.	
+		
+positive	позитивний	positive.jpg	[sound:positive.mp3]	[sound:positive_meaning.mp3]	[sound:positive_example.mp3]	If something is positive, it is good.	She has a positive future ahead of her after finishing college.	
+		
+medication	ліки	medication.jpg	[sound:medication.mp3]	[sound:medication_meaning.mp3]	[sound:medication_example.mp3]	medication is medicine or drugs given to people who are sick.	The doctor gave me medication to treat my illness.	
+		
+recognize	визнати	recognize.jpg	[sound:recognize.mp3]	[sound:recognize_meaning.mp3]	[sound:recognize_example.mp3]	To recognize something is to know it because you have seen it before.	I recognized an old friend from many years ago.	
+		
+face	обличчя	face.jpg	[sound:face.mp3]	[sound:face_meaning.mp3]	[sound:face_example.mp3]	If you face a problem, you deal with it.	My sister and I have to find a better way to face our differences.	
+		
+examine	вивчити	examine.jpg	[sound:examine.mp3]	[sound:examine_meaning.mp3]	[sound:examine_example.mp3]	To examine something is to look at it carefully.	The doctor examined my eyes today.	
+		
+beyond	далі	beyond.jpg	[sound:beyond.mp3]	[sound:beyond_meaning.mp3]	[sound:beyond_example.mp3]	If A is beyond B, A is farther away.	John's house is beyond that lake.	
+		
+term	термін	term.jpg	[sound:term.mp3]	[sound:term_meaning.mp3]	[sound:term_example.mp3]	A term is a word for something.	"I often use the term """"oops"""" when I make a mistake."	
+		
+govern	уряду	govern.jpg	[sound:govern.mp3]	[sound:govern_meaning.mp3]	[sound:govern_example.mp3]	To govern is to control the public business of a country, state, or city.	The United States is governed from the White House.	
+		
+version	версії	version.jpg	[sound:version.mp3]	[sound:version_meaning.mp3]	[sound:version_example.mp3]	A version is an account of something that differs slightly from the original.	She read the students British version of the Chinese fairy tale.	
+		
+rely	покладатися	rely.jpg	[sound:rely.mp3]	[sound:rely_meaning.mp3]	[sound:rely_example.mp3]	To rely on something or someone is to trust or depend on them.	The boy rely(y)ied on his older brother to help him.	
+		
+broadcast	мовлення	broadcast.jpg	[sound:broadcast.mp3]	[sound:broadcast_meaning.mp3]	[sound:broadcast_example.mp3]	A broadcast is a television or radio show.	We watched the broadcast of the local news on TV.	
+		
+threat	загрози	threat.jpg	[sound:threat.mp3]	[sound:threat_meaning.mp3]	[sound:threat_example.mp3]	A threat is something bad that might happen.	Due to the dark clouds, there was a threat of a bad storm.	
+		
+artifact	артефакт	artifact.jpg	[sound:artifact.mp3]	[sound:artifact_meaning.mp3]	[sound:artifact_example.mp3]	An artifact is an old object made by humans that is historically interesting.	We studied artifacts from an ancient Chinese settlement.	
+		
+subject	предмета	subject.jpg	[sound:subject.mp3]	[sound:subject_meaning.mp3]	[sound:subject_example.mp3]	To subject someone to something means to force them to do or experience it.	The officers subjected everyone to a careful search before they left the plane.	
+		
+conclusion	висновок	conclusion.jpg	[sound:conclusion.mp3]	[sound:conclusion_meaning.mp3]	[sound:conclusion_example.mp3]	The conclusion of something is the final part of it.	At the conclusion for the race, the spectators cheered for the winner.	
+		
+advance	заздалегідь	advance.jpg	[sound:advance_1434531251878.mp3]	[sound:advance_meaning.mp3]	[sound:advance_example.mp3]	To advance is to go forward.	He advanced up the ladder slowly.	
+		
+basic	основний	basic.jpg	[sound:basic.mp3]	[sound:basic_meaning.mp3]	[sound:basic_example.mp3]	If something is basic, it is very simple or easy.	I learned some basic English skills in school today.	
+		
+separate	окремо	separate.jpg	[sound:separate.mp3]	[sound:separate_meaning.mp3]	[sound:separate_example.mp3]	If two things are separate, they are not together.	New York and Los Angeles are in two separate parts of America.	
+		
+typical	типовий	typical.jpg	[sound:typical.mp3]	[sound:typical_meaning.mp3]	[sound:typical_example.mp3]	If something is typical, it is normal for a certain type of thing.	Barking is typical behavior for dogs.	
+		
+list	список	list.jpg	[sound:list.mp3]	[sound:list_meaning.mp3]	[sound:list_example.mp3]	A list is a record of information printed with an item on each line.	My mom makes a list of groceries to buy.	
+		
+section	розділ	section.jpg	[sound:section.mp3]	[sound:section_meaning.mp3]	[sound:section_example.mp3]	A section is a part of something larger.	The green section of the graph is the most important part.	
+		
+operation	операції	operation.jpg	[sound:operation.mp3]	[sound:operation_meaning.mp3]	[sound:operation_example.mp3]	An operation is when a doctor replaces or removes something in the body.	The operation on my arm was a success.	
+		
+coordinate	координати	coordinate.jpg	[sound:coordinate.mp3]	[sound:coordinate_meaning.mp3]	[sound:coordinate_example.mp3]	To coordinate things is to make different parts work together.	Each skating team had to coordinate their movements for the show.	
+		
+offer	пропозицію	offer.jpg	[sound:offer.mp3]	[sound:offer_meaning.mp3]	[sound:offer_example.mp3]	To offer is to present someone with something.	He offered me the keys to his car.	
+		
+description	опис	description.jpg	[sound:description.mp3]	[sound:description_meaning.mp3]	[sound:description_example.mp3]	A description of someone or something says what they are like.	I gave a description of the man with the gun and hat to the police.	
+		
+rack	стійку	rack.jpg	[sound:rack.mp3]	[sound:rack_meaning.mp3]	[sound:rack_example.mp3]	A rack is an object with shelves that holds things.	He stored his tools on a rack.	
+		
+innovative	інноваційний	innovative.jpg	[sound:innovative.mp3]	[sound:innovative_meaning.mp3]	[sound:innovative_example.mp3]	If something or someone is innovative, they can think in creative ways.	Since Peter was so innovative, he was chosen to lead the science team.	
+		
+bare	просто	bare.jpg	[sound:bare.mp3]	[sound:bare_meaning.mp3]	[sound:bare_example.mp3]	When something is bare, it is plain. It has no covering.	He likes to walk around in his bare feet.	
+		
+metal	метал	metal.jpg	[sound:metal_1434531251878.mp3]	[sound:metal_meaning.mp3]	[sound:metal_example.mp3]	metal is a strong material people use to build things.	Steel is a common metal that is used to build buildings.	
+		
+breadth	широта	breadth.jpg	[sound:breadth.mp3]	[sound:breadth_meaning.mp3]	[sound:breadth_example.mp3]	breadth is the distance from one side to the other side of something.	The breadth of the northern wall of the house is twenty meters.	
+		
+restore	відновлення	restore.jpg	[sound:restore.mp3]	[sound:restore_meaning.mp3]	[sound:restore_example.mp3]	To restore something is to put it back the way it was.	Victor restored the old car.	
+		
+property	власності	property.jpg	[sound:property.mp3]	[sound:property_meaning.mp3]	[sound:property_example.mp3]	property is something that someone owns.	The house is now my property.	
+		
+prone	схильний	prone.jpg	[sound:prone_1434531251878.mp3]	[sound:prone_meaning.mp3]	[sound:prone_example.mp3]	When things are prone to some bad thing, they are likely affected by it.	Some people are more prone to catching colds than others.	
+		
+error	помилка	error.jpg	[sound:error.mp3]	[sound:error_meaning.mp3]	[sound:error_example.mp3]	An error is something you do wrong.	I made an error on my report, so my boss was angry.	
+		
+flexible	гнучкою	flexible.jpg	[sound:flexible.mp3]	[sound:flexible_meaning.mp3]	[sound:flexible_example.mp3]	If something is flexible, then it can bend easily without breaking.	The tree branch was so flexible it could be bent into a circle and not break.	
+		
+found	знайдено	found.jpg	[sound:found.mp3]	[sound:found_meaning.mp3]	[sound:found_example.mp3]	To found a company or organization means to start it.	The pilgrims founded one of the first colonies in the United States.	
+		
+generate	генерувати	generate.jpg	[sound:generate.mp3]	[sound:generate_meaning.mp3]	[sound:generate_example.mp3]	To generate something means to cause it to develop or begin.	The mayor promised to generate new jobs and programs to help the poor.	
+		
+associate	асоційованим	associate.jpg	[sound:associate.mp3]	[sound:associate_meaning.mp3]	[sound:associate_example.mp3]	To associate means to connect something with a person or thing.	Most people associate birthday parties with having fun.	
+		
+significant	значним	significant.jpg	[sound:significant.mp3]	[sound:significant_meaning.mp3]	[sound:significant_example.mp3]	When someone or something is significant, they are important.	I read many significant novels as a literature major in university.	
+		
+yet	ще	yet.jpg	[sound:yet.mp3]	[sound:yet_meaning.mp3]	[sound:yet_example.mp3]	yet is used to say something has not happened up to now.	We can't go out yet; we're still eating.	
+		
+indicate	вкажіть	indicate.jpg	[sound:indicate.mp3]	[sound:indicate_meaning.mp3]	[sound:indicate_example.mp3]	To indicate means to show, point or make something clear.	He pointed to his eyes to indicate where he had hurt himself.	
+		
+attack	атаки	attack.jpg	[sound:attack.mp3]	[sound:attack_meaning.mp3]	[sound:attack_example.mp3]	To attack is to try to fight or to hurt.	The man with the sword attacked the other man first.	
+		
+register	зареєструватися	register.jpg	[sound:register.mp3]	[sound:register_meaning.mp3]	[sound:register_example.mp3]	A register is an official list or record of people or things.	At a wedding there is register for all of the guests to sign.	
+		
+weather	погода	weather.jpg	[sound:weather.mp3]	[sound:weather_meaning.mp3]	[sound:weather_example.mp3]	The weather is the condition of the air: hot, rainy, windy, etc.	The weather can be sunny, rainy, or cold.	
+		
+tune	мелодія	tune.jpg	[sound:tune.mp3]	[sound:tune_meaning.mp3]	[sound:tune_example.mp3]	A tune is a song.	The students played a familiar tune for the audience.	
+		
+tedious	нудний	tedious.jpg	[sound:tedious.mp3]	[sound:tedious_meaning.mp3]	[sound:tedious_example.mp3]	When something is tedious, it is long, frustrating, and boring.	His job involved a lot of tedious typing, filing, and organizing.	
+		
+potential	потенціал	potential.jpg	[sound:potential.mp3]	[sound:potential_meaning.mp3]	[sound:potential_example.mp3]	potential means capable of being but not yet in existence.	I've thought of some potential problems with your idea.	
+		
+return	повернення	return.jpg	[sound:return.mp3]	[sound:return_meaning.mp3]	[sound:return_example.mp3]	To return is to go back to a place.	I was happy to return home to my mom after school.	
+		
+predict	передбачити	predict.jpg	[sound:predict.mp3]	[sound:predict_meaning.mp3]	[sound:predict_example.mp3]	To predict something is to say that it will happen.	She predicted that I would get married next year.	
+		
+capable	здатний	capable.jpg	[sound:capable_1434531251878.mp3]	[sound:capable_meaning.mp3]	[sound:capable_example.mp3]	If someone or something is capable of something, they can do it.	The Olympic athlete is capable of lifting a lot of weight.	
+		
+accelerate	прискорити	accelerate.jpg	[sound:accelerate.mp3]	[sound:accelerate_meaning.mp3]	[sound:accelerate_example.mp3]	To accelerate means to increase in speed.	When he stepped on the gas pedal, the motorcycle accelerated.	
+		
+alarm	тривоги	alarm.jpg	[sound:alarm.mp3]	[sound:alarm_meaning.mp3]	[sound:alarm_example.mp3]	An alarm is something that warns people of danger.	When the students heard the fire alarm, they left the building.	
+		
+export	експорт	export.jpg	[sound:export.mp3]	[sound:export_meaning.mp3]	[sound:export_example.mp3]	To export products means to sell them to other countries.	The United States exports many cereals and grains.	
+		
+component	компонент	component.jpg	[sound:component.mp3]	[sound:component_meaning.mp3]	[sound:component_example.mp3]	A component is a part of a larger machine.	Computers have many different components, so they are complicated to build.	
+		
+express	експрес	express.jpg	[sound:express.mp3]	[sound:express_meaning.mp3]	[sound:express_example.mp3]	To express a feeling or idea means to show others how one thinks or feels.	The nurse expressed her sympathy for the sick patient.	
+		
+nor	ні	nor.jpg	[sound:nor.mp3]	[sound:nor_meaning.mp3]	[sound:nor_example.mp3]	You use nor to connect two negative ideas.	I eat neither apples nor oranges. I don’t like either one.	
+		
+abstract	реферат	abstract.jpg	[sound:abstract.mp3]	[sound:abstract_meaning.mp3]	[sound:abstract_example.mp3]	If ideas are abstract, they are based on general ways of thinking.	The idea of beauty is abstract and changes over time.	
+		
+sector	секторі	sector.jpg	[sound:sector.mp3]	[sound:sector_meaning.mp3]	[sound:sector_example.mp3]	A sector is a part of a country’s economy in a specific type of industry.	We learned about just a few of the factories within the manufacturing sector.	
+		
+spin	спина	spin.jpg	[sound:spin.mp3]	[sound:spin_meaning.mp3]	[sound:spin_example.mp3]	To spin is to turn around in circles.	The boy kept spinning until he fell down.	
+		
+rapid	швидкий	rapid.jpg	[sound:rapid.mp3]	[sound:rapid_meaning.mp3]	[sound:rapid_example.mp3]	When something is rapid, it moves or changes very quickly.	His mother was surprised by her son's rapid growth.	
+		
+bright	яскравий	bright.jpg	[sound:bright.mp3]	[sound:bright_meaning.mp3]	[sound:bright_example.mp3]	If something is bright, it shows a lot of light.	The bright light from the explosion hurt my eyes.	
+		
+invest	інвестувати	invest.jpg	[sound:invest.mp3]	[sound:invest_meaning.mp3]	[sound:invest_example.mp3]	To invest means to use money in a way that will bring a profit later.	I invested money in a new building that should bring me a profit.	
+		
+idle	бездіяльний	idle.jpg	[sound:idle.mp3]	[sound:idle_meaning.mp3]	[sound:idle_example.mp3]	If you are idle, you are not doing anything.	She read a book to keep from being idle.	
+		
+legacy	спадщина	legacy.jpg	[sound:legacy.mp3]	[sound:legacy_meaning.mp3]	[sound:legacy_example.mp3]	A legacy is an effect that exists because of a person or thing in the past.	The legacy of the ancient Egyptians can be seen in their monuments.	
+		
+continue	продовжити	continue.jpg	[sound:continue.mp3]	[sound:continue_meaning.mp3]	[sound:continue_example.mp3]	To continue something is to keep doing it.	She stood under her umbrella as the rain continued to fall.	
+		
+tolerance	толерантність	tolerance.jpg	[sound:tolerance.mp3]	[sound:tolerance_meaning.mp3]	[sound:tolerance_example.mp3]	tolerance is the ability to accept something painful or unpleasant.	Boxers have a high tolerance for pain.	
+		
+metropolitan	митрополита	metropolitan.jpg	[sound:metropolitan.mp3]	[sound:metropolitan_meaning.mp3]	[sound:metropolitan_example.mp3]	If something is metropolitan, it relates to a large city.	All of the metropolitan excitement of New York City made Rufus nervous.	
+		
+generation	покоління	generation.jpg	[sound:generation.mp3]	[sound:generation_meaning.mp3]	[sound:generation_example.mp3]	A generation is a group of people who live at the same time.	My grandparents are from a different generation than me.	
+		
+priority	пріоритет	priority.jpg	[sound:priority_1434531251878.mp3]	[sound:priority_meaning.mp3]	[sound:priority_example.mp3]	A priority is something that is more important than other things.	My priority is to get good grades in school.	
+		
+inherit	успадковувати	inherit.jpg	[sound:inherit.mp3]	[sound:inherit_meaning.mp3]	[sound:inherit_example.mp3]	To inherit it to get something from someone who has died.	She inherited her mother's gold earrings.	
+		
+encounter	зустрічі	encounter.jpg	[sound:encounter_1434531251878.mp3]	[sound:encounter_meaning.mp3]	[sound:encounter_example.mp3]	If you encounter something, you meet or come close to it.	I encountered a sea turtle while I was swimming.	
+		
+finally	нарешті	finally.jpg	[sound:finally.mp3]	[sound:finally_meaning.mp3]	[sound:finally_example.mp3]	If something happens finally, it happens after a longtime or at the end.	He finally crossed the finish line after five hours of running.	
+		
+asset	активу	asset.jpg	[sound:asset_1434531251878.mp3]	[sound:asset_meaning.mp3]	[sound:asset_example.mp3]	An asset is a skill or quality that is useful or valuable.	The coach realized the boy’s speed was an asset to the team.	
+		
+privacy	конфіденційність	privacy.jpg	[sound:privacy.mp3]	[sound:privacy_meaning.mp3]	[sound:privacy_example.mp3]	To have privacy is to be away from other people.	Please hang the sign on the door so we can have some privacy.	
+		
+major	мажор	major.jpg	[sound:major.mp3]	[sound:major_meaning.mp3]	[sound:major_example.mp3]	If something is major, it is big or important.	I have a major problem. My boss wants me to redo my project!	
+		
+various	різні	various.jpg	[sound:various.mp3]	[sound:various_meaning.mp3]	[sound:various_example.mp3]	If something is various, there are many types of it.	She owned shoes of various styles.	
+		
+crawl	повзати	crawl.jpg	[sound:crawl.mp3]	[sound:crawl_meaning.mp3]	[sound:crawl_example.mp3]	To crawl is to move slowly on your hands and knees.	The baby crawled across the floor.	
+		
+suit	костюм	suit.jpg	[sound:suit.mp3]	[sound:suit_meaning.mp3]	[sound:suit_example.mp3]	A suit is a set of clothes. It usually includes a jacket with pants or a skirt.	I wore my new suit on my date with Melissa.	
+		
+compress	стиснути	compress.jpg	[sound:compress.mp3]	[sound:compress_meaning.mp3]	[sound:compress_example.mp3]	To compress something means to press or squeeze it so that it takes up less space.	I compressed my clothes to fit into a single suitcase.	
+		
+destination	призначення	destination.jpg	[sound:destination.mp3]	[sound:destination_meaning.mp3]	[sound:destination_example.mp3]	A destination is the place where someone or something is going to.	The destination of this plane is Munich, Germany.	
+		
+embed	вставляти	embed.jpg	[sound:embed.mp3]	[sound:embed_meaning.mp3]	[sound:embed_example.mp3]	To embed something means to place it firmly within a surrounding thing.	The logger embedded the ax into the wood after chopping several logs.	
+		
+guide	керівництво	guide.jpg	[sound:guide.mp3]	[sound:guide_meaning.mp3]	[sound:guide_example.mp3]	A guide is someone who shows you where to go.	We followed a guide at the park.	
+		
+fail	збій	fail.jpg	[sound:fail.mp3]	[sound:fail_meaning.mp3]	[sound:fail_example.mp3]	To fail means you do not succeed in what you try to do.	Since he failed to get the job, he was sad.	
+		
+carefully	ретельно	carefully.jpg	[sound:carefully.mp3]	[sound:carefully_meaning.mp3]	[sound:carefully_example.mp3]	carefully means with great attention, especially to detail or safety.	The baby carefully climbed down the stairs.	
+		
+stitch	стібка	stitch.jpg	[sound:stitch.mp3]	[sound:stitch_meaning.mp3]	[sound:stitch_example.mp3]	To stitch is to use a needle and thread to join pieces of cloth together.	My grandmother stitched the pieces together to make a big blanket.	
+		
+diagram	діаграми	diagram.jpg	[sound:diagram.mp3]	[sound:diagram_meaning.mp3]	[sound:diagram_example.mp3]	A diagram is a simple drawing that explains what something is or how it works.	By following the diagram, I was able to put the desk together.	
+		
+fix	виправити	fix.jpg	[sound:fix.mp3]	[sound:fix_meaning.mp3]	[sound:fix_example.mp3]	To fix something is to make it work.	My dad has many tools to help him fix broken things.	
+		
+guarantee	гарантії	guarantee.jpg	[sound:guarantee.mp3]	[sound:guarantee_meaning.mp3]	[sound:guarantee_example.mp3]	To guarantee means to know something will happen.	I guarantee that the sun will come up in the morning.	
+		
+background	фону	background.jpg	[sound:background.mp3]	[sound:background_meaning.mp3]	[sound:background_example.mp3]	A background is a person’s education, family, and experience.	The new teacher had a background in science and math.	
+		
+recover	відновити	recover.jpg	[sound:recover.mp3]	[sound:recover_meaning.mp3]	[sound:recover_example.mp3]	To recover is to go back to normal after something bad happens.	I hope the city will recover soon after the flood.	
+		
+tour	тур	tour.jpg	[sound:tour.mp3]	[sound:tour_meaning.mp3]	[sound:tour_example.mp3]	A tour is a short trip in which you see many sights.	I took a tour of Asia and Europe.	
+		
+furniture	меблі	furniture.jpg	[sound:furniture.mp3]	[sound:furniture_meaning.mp3]	[sound:furniture_example.mp3]	furniture is the things used in a house such as tables and chairs.	His living room only had a few simple pieces of furniture.	
+		
+landscape	краєвид	landscape.jpg	[sound:landscape.mp3]	[sound:landscape_meaning.mp3]	[sound:landscape_example.mp3]	A landscape is how an area of land looks.	The landscape of the country is very green.	
+		
+refine	уточнювати	refine.jpg	[sound:refine.mp3]	[sound:refine_meaning.mp3]	[sound:refine_example.mp3]	To refine something is to make it better by making changes.	The principal refined his method of controlling students over the years.	
+		
+inspect	інспектувати	inspect.jpg	[sound:inspect.mp3]	[sound:inspect_meaning.mp3]	[sound:inspect_example.mp3]	To inspect is to look at something carefully.	The mechanic inspected our car to see if it had any problems.	
+		
+member	член	member.jpg	[sound:member.mp3]	[sound:member_meaning.mp3]	[sound:member_example.mp3]	A member is a person who is part of a group.	Julie is the newest member of our team.	
+		
+comment	коментар	comment.jpg	[sound:comment.mp3]	[sound:comment_meaning.mp3]	[sound:comment_example.mp3]	To comment means to say something that shows your personal opinion.	Tom commented on the poor quality of the food.	
+		
+resort	курорт	resort.jpg	[sound:resort_1434531251878.mp3]	[sound:resort_meaning.mp3]	[sound:resort_example.mp3]	To resort to something is to depend on it in order to solve a problem.	I hope they don't resort to violence to end the argument.	
+		
+outlook	перспективи	outlook.jpg	[sound:outlook.mp3]	[sound:outlook_meaning.mp3]	[sound:outlook_example.mp3]	An outlook is a person’s opinion or way of thinking about something.	He changed his outlook about rats after he read a book about them.	
+		
+trust	довіра	trust.jpg	[sound:trust.mp3]	[sound:trust_meaning.mp3]	[sound:trust_example.mp3]	To trust is to believe that someone is honest and will do what is right.	I trust my friends; they don't tell my secrets to other people.	
+		
+chat	чат	chat.jpg	[sound:chat.mp3]	[sound:chat_meaning.mp3]	[sound:chat_example.mp3]	To chat is to talk with someone.	Even though they were far apart, the couple chatted every day.	
+		
+dial	набору	dial.jpg	[sound:dial.mp3]	[sound:dial_meaning.mp3]	[sound:dial_example.mp3]	A dial is the front of a clock.	I looked at the dial to see what time it was.	
+		
+boot	завантаження	boot.jpg	[sound:boot.mp3]	[sound:boot_meaning.mp3]	[sound:boot_example.mp3]	A boot is a heavy shoe that goes over your ankle.	He wore boots so that his feet wouldn't get wet.	
+		
+isolate	ізолювати	isolate.jpg	[sound:isolate.mp3]	[sound:isolate_meaning.mp3]	[sound:isolate_example.mp3]	To isolate is to separate one person or thing from a group.	The teacher isolated the bad child from the class before talking with her.	
+		
+decrease	зменшення	decrease.jpg	[sound:decrease.mp3]	[sound:decrease_meaning.mp3]	[sound:decrease_example.mp3]	To decrease something is to make it less than it was before.	Hiring more police officers has decreased crime in the city.	
+		
+safety	безпеки	safety.jpg	[sound:safety.mp3]	[sound:safety_meaning.mp3]	[sound:safety_example.mp3]	safety means to be the condition of being safe and free from danger.	For his own safety, he was placed in a car seat.	
+		
+bid	ставку	bid.jpg	[sound:bid.mp3]	[sound:bid_meaning.mp3]	[sound:bid_example.mp3]	A bid to do something is an attempt to do it.	He made a bid to become the university’s next president.	
+		
+spare	запасний	spare.jpg	[sound:spare.mp3]	[sound:spare_meaning.mp3]	[sound:spare_example.mp3]	To spare something is to give it because you have more than you need.	I wanted to help him but I couldn't spare a tire.	
+		
+quantity	кількість	quantity.jpg	[sound:quantity.mp3]	[sound:quantity_meaning.mp3]	[sound:quantity_example.mp3]	A quantity is a certain amount of something.	I have a small quantity of milk in my glass.	
+		
+passenger	пасажира	passenger.jpg	[sound:passenger.mp3]	[sound:passenger_meaning.mp3]	[sound:passenger_example.mp3]	A passenger is a person who rides in a car, train, or airplane.	One passenger was standing in the subway train.	
+		
+quarter	квартал	quarter.jpg	[sound:quarter.mp3]	[sound:quarter_meaning.mp3]	[sound:quarter_example.mp3]	A quarter is 25 cents.	He paid a quarter for the candy.	
+		
+rich	багатий	rich.jpg	[sound:rich.mp3]	[sound:rich_meaning.mp3]	[sound:rich_example.mp3]	If you are rich, you have a lot of money.	He's rich. He can buy anything he wants.	
+		
+foundation	фундамент	foundation.jpg	[sound:foundation.mp3]	[sound:foundation_meaning.mp3]	[sound:foundation_example.mp3]	A foundation is a group that provides money for research.	The foundation raised money to give scholarships to students.	
+		
+simplicity	простота	simplicity.jpg	[sound:simplicity.mp3]	[sound:simplicity_meaning.mp3]	[sound:simplicity_example.mp3]	The simplicity of something is the fact that it is easy to do or understand.	We were able to find the house thanks to the simplicity of the directions.	
+		
+utilize	використовувати	utilize.jpg	[sound:utilize.mp3]	[sound:utilize_meaning.mp3]	[sound:utilize_example.mp3]	To utilize something means to use it for a specific purpose.	They utilized a pair of scissors to cut the ribbon.	
+		
+depend	залежить	depend.jpg	[sound:depend.mp3]	[sound:depend_meaning.mp3]	[sound:depend_example.mp3]	To depend on someone or something is to need them.	Children depend on their parents for many things.	
+		
+candidate	кандидата	candidate.jpg	[sound:candidate.mp3]	[sound:candidate_meaning.mp3]	[sound:candidate_example.mp3]	A candidate is a person who is competing to win something such as a job.	Alice is the best candidate for the job.	
+		
+respective	відповідні	respective.jpg	[sound:respective.mp3]	[sound:respective_meaning.mp3]	[sound:respective_example.mp3]	When things are respective, they relate separately to each person just mentioned.	The boxers were told to return to their respective corners.	
+		
+fraud	шахрайство	fraud.jpg	[sound:fraud_1434531251878.mp3]	[sound:fraud_meaning.mp3]	[sound:fraud_example.mp3]	fraud is the crime of gaining money by lying or by tricking people.	Experts say that credit card fraud increases around the holidays.	
+		
+knowledge	знання	knowledge.jpg	[sound:knowledge.mp3]	[sound:knowledge_meaning.mp3]	[sound:knowledge_example.mp3]	knowledge is information that you have about something.	A music teacher should have good knowledge of music.	
+		
+claim	претензії	claim.jpg	[sound:claim.mp3]	[sound:claim_meaning.mp3]	[sound:claim_example.mp3]	To claim means to say that something is true.	He claimed to know why the country's laws were weak.	
+		
+item	пункту	item.jpg	[sound:item.mp3]	[sound:item_meaning.mp3]	[sound:item_example.mp3]	An item is a thing that you buy or sell.	I have many items for school in my bag.	
+		
+journal	журнал	journal.jpg	[sound:journal.mp3]	[sound:journal_meaning.mp3]	[sound:journal_example.mp3]	A journal is a type of magazine that deals with an academic subject.	Mi-young was busy working on an article for an art journal.	
+		
+interval	інтервал	interval.jpg	[sound:interval.mp3]	[sound:interval_meaning.mp3]	[sound:interval_example.mp3]	An interval is the time between two things happening.	Tony rested for brief intervals while he worked in the yard.	
+		
+strategy	стратегії	strategy.jpg	[sound:strategy.mp3]	[sound:strategy_meaning.mp3]	[sound:strategy_example.mp3]	A strategy is a plan for how to do something.	The team came up with a strategy to win the game.	
+		
+fluid	рідини	fluid.jpg	[sound:fluid.mp3]	[sound:fluid_meaning.mp3]	[sound:fluid_example.mp3]	If something is fluid, it is smooth and moves gracefully.	Boris was a famous ballet dancer because people admired his fluid movements.	
+		
+collaborate	співпрацювати	collaborate.jpg	[sound:collaborate.mp3]	[sound:collaborate_meaning.mp3]	[sound:collaborate_example.mp3]	To collaborate means to work together on something.	When they collaborated, they managed to finish their chores early.	
+		
+ecosystem	екосистеми	ecosystem.jpg	[sound:ecosystem.mp3]	[sound:ecosystem_meaning.mp3]	[sound:ecosystem_example.mp3]	An ecosystem is a group of plants and animals in an area.	The river's ecosystem not only includes fish but other insects and plants.	
+		
+recent	останні	recent.jpg	[sound:recent.mp3]	[sound:recent_meaning.mp3]	[sound:recent_example.mp3]	When something is recent, it happened a short time ago.<!--anki-->	I did not know what caused his recent behavior.<!--anki-->	
+		
+kit	комплект	kit.jpg	[sound:kit.mp3]	[sound:kit_meaning.mp3]	[sound:kit_example.mp3]	A kit is a set of all the things needed to do something.	Is there a first aid kit in your office?	
+		
+preview	попередній перегляд	preview.jpg	[sound:preview.mp3]	[sound:preview_meaning.mp3]	[sound:preview_example.mp3]	A preview is an opportunity to see something before it is available to the public.	The band played us a preview of their new song.	
+		
+terminal	терміналу	terminal.jpg	[sound:terminal.mp3]	[sound:terminal_meaning.mp3]	[sound:terminal_example.mp3]	If something isterminal, then it causes or results in death.<!--anki-->	Since his condition was notterminal, he felt a great sense of relief.<!--anki-->	
+		
+cause	причину	cause.jpg	[sound:cause.mp3]	[sound:cause_meaning.mp3]	[sound:cause_example.mp3]	To cause is to make something happen.	The cold weather caused her to get sick.	
+		
+ray	промінь	ray.jpg	[sound:ray.mp3]	[sound:ray_meaning.mp3]	[sound:ray_example.mp3]	A ray is a line of light that comes from a bright object.	The sun's warm rays covered the beach.	
+		
+defend	захищати	defend.jpg	[sound:defend.mp3]	[sound:defend_meaning.mp3]	[sound:defend_example.mp3]	To defend someone or something is to protect them from attack.	The soldiers defended the town from the invaders.	
+		
+annual	річний	annual.jpg	[sound:annual.mp3]	[sound:annual_meaning.mp3]	[sound:annual_example.mp3]	If something is annual, it happens once a year.	The only time I see my aunts and uncles is at our annual family picnic.	
+		
+goods	товарів	goods.jpg	[sound:goods.mp3]	[sound:goods_meaning.mp3]	[sound:goods_example.mp3]	goods are anything that can be bought or sold.	Shoes, hats, dresses and purses were the goods she wanted to buy.	
+		
+sound	звуку	sound.jpg	[sound:sound_1434531251878.mp3]	[sound:sound_meaning.mp3]	[sound:sound_example.mp3]	To sound means to make a noise.	The alarm clock sounded and woke us all up.	
+		
+false	помилковий	false.jpg	[sound:false.mp3]	[sound:false_meaning.mp3]	[sound:false_example.mp3]	If something is false, it is not correct.	If you think the answer is false, press the red button.	
+		
+occur	відбуваються	occur.jpg	[sound:occur.mp3]	[sound:occur_meaning.mp3]	[sound:occur_example.mp3]	To occur means to happen.	When did the thunderstorm occur?	
+		
+context	контексті	context.jpg	[sound:context.mp3]	[sound:context_meaning.mp3]	[sound:context_example.mp3]	context is the situations that form the background of an event.	They studied the context of the battle before giving their presentation.	
+		
+moisture	вологи	moisture.jpg	[sound:moisture_1434531251878.mp3]	[sound:moisture_meaning.mp3]	[sound:moisture_example.mp3]	moisture is small drops of water in the air or on a surface.	If you breathe on a window, moisture from your breath collects on the glass.	
+		
+harvest	врожаю	harvest.jpg	[sound:harvest_1434531251878.mp3]	[sound:harvest_meaning.mp3]	[sound:harvest_example.mp3]	A harvest is the act of collecting food from farming.	They had a lot of wheat from the last harvest.	
+		
+yield	врожайність	yield.jpg	[sound:yield_1434531251878.mp3]	[sound:yield_meaning.mp3]	[sound:yield_example.mp3]	To yield something means to give up control of it or to give it away.	He had to yield his turn because he was in checkmate.	
+		
+dash	тире	dash.jpg	[sound:dash.mp3]	[sound:dash_meaning.mp3]	[sound:dash_example.mp3]	To dash means to run or move quickly.	Helen dashed up the stairs, so she wouldn’t be late for her appointment.	
+		
+garage	гараж	garage.jpg	[sound:garage.mp3]	[sound:garage_meaning.mp3]	[sound:garage_example.mp3]	A garage is the part of a house where people put their cars.	My car does not get dirty because I keep it in the garage.	
+		
+spouse	подружжя	spouse.jpg	[sound:spouse.mp3]	[sound:spouse_meaning.mp3]	[sound:spouse_example.mp3]	Aspouse is the person to whom someone is married.<!--anki--><!--anki-->	I live in a home with myspouse and our two children.<!--anki--><!--anki-->	
+		
+household	домогосподарства	household.jpg	[sound:household.mp3]	[sound:household_meaning.mp3]	[sound:household_example.mp3]	A household is all the people who live in one house.	Our household is made up of my father, my mother and me.	
+		
+bulb	лампа	bulb.jpg	[sound:bulb.mp3]	[sound:bulb_meaning.mp3]	[sound:bulb_example.mp3]	A bulb is the glass part of an electric light.	I had to change the light bulb in my bedroom.	
+		
+bulk	навалом	bulk.jpg	[sound:bulk.mp3]	[sound:bulk_meaning.mp3]	[sound:bulk_example.mp3]	The bulk of something is its great size.	The large elephant moved its bulk with legs as strong as tree trunks.	
+		
+unique	унікальний	unique.jpg	[sound:unique.mp3]	[sound:unique_meaning.mp3]	[sound:unique_example.mp3]	If people or things are unique, they are not like the others.	Her dog is unique. I've never seen one quite like it.	
+		
+waste	відходів	waste.jpg	[sound:waste.mp3]	[sound:waste_meaning.mp3]	[sound:waste_example.mp3]	To waste means to carelessly use something all up.	Turn off the water so you don't waste it.	
+		
+breakdown	зламатися	breakdown.jpg	[sound:breakdown.mp3]	[sound:breakdown_meaning.mp3]	[sound:breakdown_example.mp3]	A breakdown is a failure to work correctly.	Her car had a breakdown, and she wasn’t sure how to fix it.	
+		
+tough	жорсткий	tough.jpg	[sound:tough.mp3]	[sound:tough_meaning.mp3]	[sound:tough_example.mp3]	If something is tough, it is difficult.	The man passed his driving test even though it was very tough.	
+		
+likely	ймовірно	likely.jpg	[sound:likely.mp3]	[sound:likely_meaning.mp3]	[sound:likely_example.mp3]	If something likely happens, it will probably happen.	I will likely stay at home and watch TV tonight.	
+		
+prevent	запобігти	prevent.jpg	[sound:prevent.mp3]	[sound:prevent_meaning.mp3]	[sound:prevent_example.mp3]	To prevent something is to stop it from happening.	The handcuffs prevented me from moving my hands.	
+		
+wire	дроту	wire.jpg	[sound:wire.mp3]	[sound:wire_meaning.mp3]	[sound:wire_example.mp3]	A wire is a thin string made out of metal.	The wires were connected to towers that brought electricity to the city.	
+		
+agriculture	сільське господарство	agriculture.jpg	[sound:agriculture.mp3]	[sound:agriculture_meaning.mp3]	[sound:agriculture_example.mp3]	agriculture is the growing of food and animals.	The farmer studied agriculture in college.	
+		
+represent	представляти	represent.jpg	[sound:represent.mp3]	[sound:represent_meaning.mp3]	[sound:represent_example.mp3]	To represent is to speak or act for a person or group.	My lawyer will represent me in court.	
+		
+hide	приховати	hide.jpg	[sound:hide.mp3]	[sound:hide_meaning.mp3]	[sound:hide_example.mp3]	To hide is to try not to let others see you.	The other children will hide while you count to 100.	
+		
+huge	величезний	huge.jpg	[sound:huge.mp3]	[sound:huge_meaning.mp3]	[sound:huge_example.mp3]	If something is huge, it is very big.	At work, my father drives a huge truck.	
+		
+explore	досліджувати	explore.jpg	[sound:explore.mp3]	[sound:explore_meaning.mp3]	[sound:explore_example.mp3]	To explore is to look for new places.	He wants to explore the world and see new things.	
+		
+immediate	негайно	immediate.jpg	[sound:immediate.mp3]	[sound:immediate_meaning.mp3]	[sound:immediate_example.mp3]	If something is immediate, it happens quickly.	An immediate response came from the pizza place.	
+		
+success	успіху	success.jpg	[sound:success.mp3]	[sound:success_meaning.mp3]	[sound:success_example.mp3]	success is doing something well that you choose to do.	My daughter was a big success at school.	
+		
+majority	більшість	majority.jpg	[sound:majority_1434531251878.mp3]	[sound:majority_meaning.mp3]	[sound:majority_example.mp3]	A majority of something is almost all of the people or things in that group.	A majority of the people voted for Tom Smith in the election.	
+		
+correct	правильно	correct.jpg	[sound:correct.mp3]	[sound:correct_meaning.mp3]	[sound:correct_example.mp3]	To be correct is to be right.	All of my answers on the test were correct.	
+		
+far	далеко	far.jpg	[sound:far.mp3]	[sound:far_meaning.mp3]	[sound:far_example.mp3]	If something is far, it is not close.	It's far going from the east coast to the west coast of America.	
+		
+treasure	скарб	treasure.jpg	[sound:treasure.mp3]	[sound:treasure_meaning.mp3]	[sound:treasure_example.mp3]	A treasure is a collection of valuable things, especially jewels or gold.	They became very rich when they found the buried treasure.	
+		
+hidden	приховано	hidden.jpg	[sound:hidden.mp3]	[sound:hidden_meaning.mp3]	[sound:hidden_example.mp3]	hidden means to be not easily noticed or too hard to find.	The hidden camera recorded everything in the parking lot.	
+		
+patient	пацієнта	patient.jpg	[sound:patient.mp3]	[sound:patient_meaning.mp3]	[sound:patient_example.mp3]	If a person is patient , they don't become angry or upset easily.	I had to be patient and wait until 5 o'clock to leave.	
+		
+strength	міцність	strength.jpg	[sound:strength.mp3]	[sound:strength_meaning.mp3]	[sound:strength_example.mp3]	strength is the physical power that you have.	Exercising will increase your strength and give you more power.	
+		
+frequency	частоти	frequency.jpg	[sound:frequency.mp3]	[sound:frequency_meaning.mp3]	[sound:frequency_example.mp3]	The frequency of something is the number of times that it happens.	The frequency of rainstorms is very high, especially during the spring.	
+		
+intent	намір	intent.jpg	[sound:intent_1434531251878.mp3]	[sound:intent_meaning.mp3]	[sound:intent_example.mp3]	An intent is a plan to do something.	Her intent is to visit Italy next summer.	
+		
+spread	поширення	spread.jpg	[sound:spread.mp3]	[sound:spread_meaning.mp3]	[sound:spread_example.mp3]	To spread is to move quickly to more places.	I like to spread butter on my toast.	
+		
+compare	порівняти	compare.jpg	[sound:compare.mp3]	[sound:compare_meaning.mp3]	[sound:compare_example.mp3]	To compare means to say how two things are the same and different.	If you compare cats and dogs, you'll see that they're both good pets.	
+		
+prime	прем&#39;єр	prime.jpg	[sound:prime.mp3]	[sound:prime_meaning.mp3]	[sound:prime_example.mp3]	If something is prime, it is the most important one.	Dirty air is a prime cause of illness.	
+		
+facial	особи	facial.jpg	[sound:facial.mp3]	[sound:facial_meaning.mp3]	[sound:facial_example.mp3]	If something is facial, it is related to a person's face.	I could tell from his facial features that he was angry.	
+		
+international	міжнародний	international.jpg	[sound:international.mp3]	[sound:international_meaning.mp3]	[sound:international_example.mp3]	If something is international, it involves more than one country.	The United Nations is a powerful international organization.	
+		
+locate	знайдіть	locate.jpg	[sound:locate.mp3]	[sound:locate_meaning.mp3]	[sound:locate_example.mp3]	To locate something is to find it.	I could not locate my keys in the house.	
+		
+pace	темп	pace.jpg	[sound:pace.mp3]	[sound:pace_meaning.mp3]	[sound:pace_example.mp3]	The pace of something is the speed at which it happens.	I ran the race at a slower pace than my friend.	
+		
+peak	пік	peak.jpg	[sound:peak.mp3]	[sound:peak_meaning.mp3]	[sound:peak_example.mp3]	The peak is the very top of a mountain.	There is snow on the peaks of those mountains.	
+		
+attempt	спроба	attempt.jpg	[sound:attempt_1434531251878.mp3]	[sound:attempt_meaning.mp3]	[sound:attempt_example.mp3]	To attempt something is to try to do that thing.	I am attempting to learn English.	
+		
+previous	Попередній	previous.jpg	[sound:previous.mp3]	[sound:previous_meaning.mp3]	[sound:previous_example.mp3]	If something is previous, then it happened earlier in time or order.	He turned back to the previous page to read the paragraph again.	
+		
+assumption	припущення	assumption.jpg	[sound:assumption.mp3]	[sound:assumption_meaning.mp3]	[sound:assumption_example.mp3]	An assumption is something that you believe is true but cannot prove.	I went to the cafeteria on the assumption that everyone would be there.	
+		
+struggle	боротьба	struggle.jpg	[sound:struggle.mp3]	[sound:struggle_meaning.mp3]	[sound:struggle_example.mp3]	To struggle is to fight against someone or something.	The kids struggled with each other for the toy.	
+		
+impact	впливу	impact.jpg	[sound:impact.mp3]	[sound:impact_meaning.mp3]	[sound:impact_example.mp3]	An impact is the effect someone or something has on another.A strong influence.	My grandmother had a great impact on my life.	
+		
+alone	самостійно	alone.jpg	[sound:alone.mp3]	[sound:alone_meaning.mp3]	[sound:alone_example.mp3]	If someone is alone, they are not with another person.	The boy wanted to be alone to think.	
+		
+initiate	ініціювати	initiate.jpg	[sound:initiate.mp3]	[sound:initiate_meaning.mp3]	[sound:initiate_example.mp3]	To initiate something means to start it.	You have to turn the switch on to initiate the computer system.	
+		
+loan	кредит	loan.jpg	[sound:loan.mp3]	[sound:loan_meaning.mp3]	[sound:loan_example.mp3]	A loan is the act of lending something, usually money.	I got a loan from the bank.	
+		
+recommend	рекомендую	recommend.jpg	[sound:recommend.mp3]	[sound:recommend_meaning.mp3]	[sound:recommend_example.mp3]	To recommend something is to say that someone should do it.	My doctor recommended that I get some exercise.	
+		
+torch	факел	torch.jpg	[sound:torch.mp3]	[sound:torch_meaning.mp3]	[sound:torch_example.mp3]	A torch is a stick with one end on fire that can be carried in order to give light.	He grabbed a piece of wood and stuck it in the fire in order to make a torch.	
+		
+super	супер	super.jpg	[sound:super.mp3]	[sound:super_meaning.mp3]	[sound:super_example.mp3]	super means really good.	My dad said I did a super job cleaning the house.	
+		
+goal	мета	goal.jpg	[sound:goal.mp3]	[sound:goal_meaning.mp3]	[sound:goal_example.mp3]	A goal is something you work toward.	Her goal was to become a doctor.	
+		
+skill	майстерність	skill.jpg	[sound:skill.mp3]	[sound:skill_meaning.mp3]	[sound:skill_example.mp3]	A skill is the knowledge and ability that allows you to do something well.	A snowboarder must have the right skills to do well.	
+		
+research	дослідження	research.jpg	[sound:research.mp3]	[sound:research_meaning.mp3]	[sound:research_example.mp3]	research is close and careful study to discover new things.	Scientists did a lot of research on the subject of blood type.	
+		
+resolution	дозвіл	resolution.jpg	[sound:resolution.mp3]	[sound:resolution_meaning.mp3]	[sound:resolution_example.mp3]	A resolution is a personal decision.	At New Year, I made a list of resolutions to help me have a better year.	
+		
+steady	стійкий	steady.jpg	[sound:steady.mp3]	[sound:steady_meaning.mp3]	[sound:steady_example.mp3]	When someone or something is steady, they are under control.	The problem was hard but she remained steady and solved it.	
+		
+balance	баланс	balance.jpg	[sound:balance.mp3]	[sound:balance_meaning.mp3]	[sound:balance_example.mp3]	To balance something is to keep it from falling.	We saw an elephant balance itself on a ball.	
+		
+peace	мир	peace.jpg	[sound:peace.mp3]	[sound:peace_meaning.mp3]	[sound:peace_example.mp3]	peace is a time without war.	A white dove is a symbol for peace.	
+		
+stack	стек	stack.jpg	[sound:stack.mp3]	[sound:stack_meaning.mp3]	[sound:stack_example.mp3]	A stack is a pile of different things.	There was a stack of paperwork on his desk to complete.	
+		
+detail	детально	detail.jpg	[sound:detail.mp3]	[sound:detail_meaning.mp3]	[sound:detail_example.mp3]	A detail is a small piece of information.	Jane told Ben all the details of her trip to China.	
+		
+disrupt	порушувати	disrupt.jpg	[sound:disrupt.mp3]	[sound:disrupt_meaning.mp3]	[sound:disrupt_example.mp3]	To disrupt something or someone is to prevent them from working.	The loud crash disrupted the class lecture.	
+		
+bake	випікати	bake.jpg	[sound:bake.mp3]	[sound:bake_meaning.mp3]	[sound:bake_example.mp3]	To bake means to cook food with heat.	My sister is a good cook. She bakes delicious cakes.	
+		
+grant	грант	grant.jpg	[sound:grant.mp3]	[sound:grant_meaning.mp3]	[sound:grant_example.mp3]	To grant something is to allow someone to have it.	The teacher granted us a break after studying hard all day.	
+		
+describe	опишіть	describe.jpg	[sound:describe.mp3]	[sound:describe_meaning.mp3]	[sound:describe_example.mp3]	To describe is to say or write what someone or something is like.	They described their tree as colorful with gold ribbon and a star.	
+		
+edit	редагувати	edit.jpg	[sound:edit.mp3]	[sound:edit_meaning.mp3]	[sound:edit_example.mp3]	To edit means to correct a piece of writing so that it is suitable to be published.	She asked her brother to edit her paper before she submitted it to her teacher.	
+		
+dive	занурення	dive.jpg	[sound:dive.mp3]	[sound:dive_meaning.mp3]	[sound:dive_example.mp3]	To dive is to jump into water.	I will dive into the lake once we get there.	
+		
+diagnose	діагностувати	diagnose.jpg	[sound:diagnose.mp3]	[sound:diagnose_meaning.mp3]	[sound:diagnose_example.mp3]	To diagnose someone means to identify the medical condition they have.	Several of the children were diagnosed with the flu.	
+		
+toward	до	toward.jpg	[sound:toward.mp3]	[sound:toward_meaning.mp3]	[sound:toward_example.mp3]	If you go toward something, you go closer to it.	Santa walked toward my house with a special tree.	
+		
+incident	інцидент	incident.jpg	[sound:incident.mp3]	[sound:incident_meaning.mp3]	[sound:incident_example.mp3]	An incident is an event that is usually not pleasant.	Mr. Wilson had an incident where he became sick and had to leave.	
+		
+follow	слідуйте	follow.jpg	[sound:follow_1434531251878.mp3]	[sound:follow_meaning.mp3]	[sound:follow_example.mp3]	To follow means to go behind someone and go where they go.	The little boy followed his mother home.	
+		
+emulate	емулювати	emulate.jpg	[sound:emulate.mp3]	[sound:emulate_meaning.mp3]	[sound:emulate_example.mp3]	To emulate people means to imitate them because they are greatly admired.	As a small boy, he always tried to emulate his big brother.	
+		
+basis	основі	basis.jpg	[sound:basis.mp3]	[sound:basis_meaning.mp3]	[sound:basis_example.mp3]	To do something on time's basis is how often you do it.	My grandfather gets his hearing checked on a yearly basis.	
+		
+review	огляд	review.jpg	[sound:review.mp3]	[sound:review_meaning.mp3]	[sound:review_example.mp3]	A review of something is a formal inspection of it by people in authority.	The government ordered a careful review of the economic situation.	
+		
+evaluate	оцінити	evaluate.jpg	[sound:evaluate.mp3]	[sound:evaluate_meaning.mp3]	[sound:evaluate_example.mp3]	To evaluate something means to study it, so a decision can be made.	Joe and Ken evaluated the plan and agreed that it would work.	
+		
+fraction	фракція	fraction.jpg	[sound:fraction.mp3]	[sound:fraction_meaning.mp3]	[sound:fraction_example.mp3]	A fraction is a small part of something.	Only a fraction of the cake was gone.	
+		
+origin	походження	origin.jpg	[sound:origin.mp3]	[sound:origin_meaning.mp3]	[sound:origin_example.mp3]	The origin of someone or something is where they come from.	The origin of the honey that we eat is from a beehive.	
+		
+bit	біт	bit.jpg	[sound:bit.mp3]	[sound:bit_meaning.mp3]	[sound:bit_example.mp3]	A bit is a small amount of something.	I ate a bit of chocolate before I went to bed.	
+		
+temporary	тимчасовий	temporary.jpg	[sound:temporary.mp3]	[sound:temporary_meaning.mp3]	[sound:temporary_example.mp3]	If something is temporary, it exists for a short time.	This car is only temporary; I'll get a new one soon.	
+		
+classic	класичний	classic.jpg	[sound:classic.mp3]	[sound:classic_meaning.mp3]	[sound:classic_example.mp3]	If something is classic, it is typical.	The athlete made a classic mistake - he started running too soon.	
+		
+later	пізніше	later.jpg	[sound:later.mp3]	[sound:later_meaning.mp3]	[sound:later_example.mp3]	later means after the present, expected, or usual time.	She missed the train, so she'll arrive a little later than expected.	
+		
+actual	фактичний	actual.jpg	[sound:actual.mp3]	[sound:actual_meaning.mp3]	[sound:actual_example.mp3]	actual means that something is real or true.	This is the actual sword that the King owned, not a fake one.	
+		
+role	ролі	role.jpg	[sound:role.mp3]	[sound:role_meaning.mp3]	[sound:role_example.mp3]	A role is the normal purpose or function of a person or thing.	My role at work is to check the quality of the products.	
+		
+compromise	компроміс	compromise.jpg	[sound:compromise.mp3]	[sound:compromise_meaning.mp3]	[sound:compromise_example.mp3]	To compromise is to agree to something that is not exactly what you want.	We both compromised about the game we decided to play.	
+		
+secret	секрет	secret.jpg	[sound:secret.mp3]	[sound:secret_meaning.mp3]	[sound:secret_example.mp3]	A secret is something that you do not tell other people.	The two boys were sharing a secret.	
+		
+northern	північний	northern.jpg	[sound:northern.mp3]	[sound:northern_meaning.mp3]	[sound:northern_example.mp3]	If something is northern, it is in the direction of north.	It is much colder in northern countries than it is here.	
+		
+pause	пауза	pause.jpg	[sound:pause.mp3]	[sound:pause_meaning.mp3]	[sound:pause_example.mp3]	To pause means to stop doing something for a while.	Since she was so hungry, she paused to make a snack.	
+		
+consistency	послідовності	consistency.jpg	[sound:consistency.mp3]	[sound:consistency_meaning.mp3]	[sound:consistency_example.mp3]	consistency is the state of always behaving in the same way.	Her consistency in archery meant that our team had a chance to win.	
+		
+insert	вставку	insert.jpg	[sound:insert.mp3]	[sound:insert_meaning.mp3]	[sound:insert_example.mp3]	To insert something means to put it in something else.	The mailman inserted the letter into the mailbox.	
+		
+quality	якість	quality.jpg	[sound:quality.mp3]	[sound:quality_meaning.mp3]	[sound:quality_example.mp3]	The quality of something is how good it is.	The quality of his car is very good.	
+		
+measure	міра	measure.jpg	[sound:measure_1434531251878.mp3]	[sound:measure_meaning.mp3]	[sound:measure_example.mp3]	To measure something means to find out the quality, value, or effect of it.	The scientists carefully measured the amount of chemicals in the tubes.	
+		
+fit	підходять	fit.jpg	[sound:fit.mp3]	[sound:fit_meaning.mp3]	[sound:fit_example.mp3]	If something fits, it is small enough or the right size to go there.	The colorful eggs fit into the box.	
+		
+involve	залучати	involve.jpg	[sound:involve.mp3]	[sound:involve_meaning.mp3]	[sound:involve_example.mp3]	To involve means to be actively taking part in something.	The whole family was involved in playing the game.	
+		
+dependency	залежність	dependency.jpg	[sound:dependency.mp3]	[sound:dependency_meaning.mp3]	[sound:dependency_example.mp3]	A dependency is a strong need for someone or something.	The child still has a dependency on her mother.	
+		
+estimate	оцінка	estimate.jpg	[sound:estimate.mp3]	[sound:estimate_meaning.mp3]	[sound:estimate_example.mp3]	To estimate something means to make a guess about it.	The boy estimated that he was one meter tall.	
+		
+homogeneous	однорідний	homogeneous.jpg	[sound:homogeneous.mp3]	[sound:homogeneous_meaning.mp3]	[sound:homogeneous_example.mp3]	If something is homogeneous, it is made up of things which are all the same.	All of the houses on Victor’s block were boring and homogeneous.	
+		
+intermittent	переривчастий	intermittent.jpg	[sound:intermittent.mp3]	[sound:intermittent_meaning.mp3]	[sound:intermittent_example.mp3]	If something is intermittent, then it happens in a way that is not constant.	It was hard to focus because intermittent noises came from the workers outside.	
+		
+transportation	перевезення	transportation.jpg	[sound:transportation.mp3]	[sound:transportation_meaning.mp3]	[sound:transportation_example.mp3]	transportation is any type of vehicle that can carry people or things.	I don’t have a car, so my normal transportation is the train.	
+		
+military	військові	military.jpg	[sound:military.mp3]	[sound:military_meaning.mp3]	[sound:military_example.mp3]	The military is the armed forces of a country.	I joined the military after I finished high school.	
+		
+initial	початковий	initial.jpg	[sound:initial.mp3]	[sound:initial_meaning.mp3]	[sound:initial_example.mp3]	When something is initial, it is the first thing.	The initial step when writing a paper is to find a good topic.	
+		
+escort	супровід	escort.jpg	[sound:escort.mp3]	[sound:escort_meaning.mp3]	[sound:escort_example.mp3]	To escort people means to safely accompany them to a place.	Her bodyguards escorted her to the movie theater.	
+		
+vehicle	транспортного засобу	vehicle.jpg	[sound:vehicle.mp3]	[sound:vehicle_meaning.mp3]	[sound:vehicle_example.mp3]	A vehicle is a thing that moves people or things to another place.	A ferry is a vehicle that takes people from one island to another.	
+		
+burden	тягар	burden.jpg	[sound:burden.mp3]	[sound:burden_meaning.mp3]	[sound:burden_example.mp3]	A burden is a serious or difficult responsibility.Something that is carried;a source of stress or worry.	Children who do not behave are a burden to their parents.	
+		
+integrity	цілісність	integrity.jpg	[sound:integrity_1434531251878.mp3]	[sound:integrity_meaning.mp3]	[sound:integrity_example.mp3]	integrity is honesty and good morals.	The principal had a lot of integrity.	
+		
+insight	в полі зору	insight.jpg	[sound:insight.mp3]	[sound:insight_meaning.mp3]	[sound:insight_example.mp3]	insight is a deep and accurate understanding of something.	The physics textbook gave the student newinsight about gravity.<!--anki--><!--anki-->	
+		
+audience	аудиторії	audience.jpg	[sound:audience_1434531251878.mp3]	[sound:audience_meaning.mp3]	[sound:audience_example.mp3]	An audience is a group of people who watch something together.	There was a large audience at the game.	
+		
+reproduce	відтворювати	reproduce.jpg	[sound:reproduce.mp3]	[sound:reproduce_meaning.mp3]	[sound:reproduce_example.mp3]	To reproduce is to make something exactly how someone else did it.	The children tried to reproduce their house using toy blocks.	
+		
+extension	розширення	extension.jpg	[sound:extension.mp3]	[sound:extension_meaning.mp3]	[sound:extension_example.mp3]	An extension is a part added to something to give it more time or space.	My parents decided to add an extension to our house for the new baby.	
+		
+traverse	траверс	traverse.jpg	[sound:traverse.mp3]	[sound:traverse_meaning.mp3]	[sound:traverse_example.mp3]	To traverse means to move or travel through an area.	The explorer traversed the desert alone on a camel.	
+		
+congested	перевантажені	congested.jpg	[sound:congested.mp3]	[sound:congested_meaning.mp3]	[sound:congested_example.mp3]	If something is congested, it is full or blocked.	Tom didn’t get home until after dark because the road was so congested.	
+		
+hop	хоп	hop.jpg	[sound:hop.mp3]	[sound:hop_meaning.mp3]	[sound:hop_example.mp3]	To hop means to jump a short distance.	The kangaroo quickly hopped away from danger.	
+		
+introduce	ввести	introduce.jpg	[sound:introduce.mp3]	[sound:introduce_meaning.mp3]	[sound:introduce_example.mp3]	To introduce someone or something is to say who they are.	I introduced myself to our newest co-worker today.	
+		
+ease	легкості	ease.jpg	[sound:ease_1434531251878.mp3]	[sound:ease_meaning.mp3]	[sound:ease_example.mp3]	When something is done with ease, it is not hard to do.	The monkey climbed the tree with ease.	
+		
+extreme	екстремальний	extreme.jpg	[sound:extreme.mp3]	[sound:extreme_meaning.mp3]	[sound:extreme_example.mp3]	If something is extreme, it is in a large amount or degree.	His workout was so extreme that he was sweating heavily.	
+		
+sudden	раптово	sudden.jpg	[sound:sudden.mp3]	[sound:sudden_meaning.mp3]	[sound:sudden_example.mp3]	When something is sudden, it happens very quickly.	He felt a sudden pain in his chest.	
+		
+volatile	нестійкий	volatile.jpg	[sound:volatile.mp3]	[sound:volatile_meaning.mp3]	[sound:volatile_example.mp3]	When something is volatile, it is likely to change suddenly and unexpectedly.	The volatile volcano might explode at any moment.	
+		
+sense	сенс	sense.jpg	[sound:sense.mp3]	[sound:sense_meaning.mp3]	[sound:sense_example.mp3]	To sense something is to know about it without being told.	I could sense that he was watching me.	
+		
+accomplish	виконати	accomplish.jpg	[sound:accomplish.mp3]	[sound:accomplish_meaning.mp3]	[sound:accomplish_example.mp3]	To accomplish something means to finish it.	He accomplished his goal of running ten miles.	
+		
+behave	поводьтеся	behave.jpg	[sound:behave.mp3]	[sound:behave_meaning.mp3]	[sound:behave_example.mp3]	To behave is to act in a particular way, especially to be good.	She always behaves well when her father is around.	
+		
+retail	роздрібна торгівля	retail.jpg	[sound:retail.mp3]	[sound:retail_meaning.mp3]	[sound:retail_example.mp3]	retail is the activity of selling goods to the public, often for personal use.	Though cheap to make, once a t-shirt reachesretail, it costs ten times as much.<!--anki-->	
+		
+conversation	бесіди	conversation.jpg	[sound:conversation.mp3]	[sound:conversation_meaning.mp3]	[sound:conversation_example.mp3]	A conversation is a talk between people.	There were two conversations going on at once.	
+		
+surface	поверхні	surface.jpg	[sound:surface_1434531251878.mp3]	[sound:surface_meaning.mp3]	[sound:surface_example.mp3]	The surface of something is the top part or outside of it.	The surface of the moon is very rough.	
+		
+orbit	орбіта	orbit.jpg	[sound:orbit.mp3]	[sound:orbit_meaning.mp3]	[sound:orbit_example.mp3]	To orbit something means to move around it in a continuous, curving path.	The moon orbits the Earth.	
+		
+proximity	близькість	proximity.jpg	[sound:proximity.mp3]	[sound:proximity_meaning.mp3]	[sound:proximity_example.mp3]	proximity is closeness in time, space, or relationships.	All the trees in theproximity of the beach had been cut down.<!--anki-->	
+		
+deal	угоди	deal.jpg	[sound:deal.mp3]	[sound:deal_meaning.mp3]	[sound:deal_example.mp3]	A deal is an agreement that you have with another person.	I made a deal with the other company to give us some money.	
+		
+course	Звичайно	course.jpg	[sound:course.mp3]	[sound:course_meaning.mp3]	[sound:course_example.mp3]	A course is a class in school.	I took a P.E. course in school this year.	
+		
+span	span	span.jpg	[sound:span.mp3]	[sound:span_meaning.mp3]	[sound:span_example.mp3]	To span a length of time is to last that long.	His work began in 1999. It has spaned many years since then.	
+		
+chart	діаграми	chart.jpg	[sound:chart.mp3]	[sound:chart_meaning.mp3]	[sound:chart_example.mp3]	A chart is a list of information.	We used a chart to see how we had improved.	
+		
+structure	структура	structure.jpg	[sound:structure.mp3]	[sound:structure_meaning.mp3]	[sound:structure_example.mp3]	A structure is a building.	They just built a beautiful new structure downtown.	
+		
+deny	заперечувати	deny.jpg	[sound:deny.mp3]	[sound:deny_meaning.mp3]	[sound:deny_example.mp3]	To deny something is to say it is not true.	The boy denied that he broke the window.	
+		
+assign	призначити	assign.jpg	[sound:assign.mp3]	[sound:assign_meaning.mp3]	[sound:assign_example.mp3]	To assign something to someone is to tell them to do it.	I assigned the worker an important task.	
+		
+assume	припустити	assume.jpg	[sound:assume.mp3]	[sound:assume_meaning.mp3]	[sound:assume_example.mp3]	To assume something is to think that it is true, even with no proof.	I assume you are both familiar with this plan.	
+		
+federation	федерації	federation.jpg	[sound:federation.mp3]	[sound:federation_meaning.mp3]	[sound:federation_example.mp3]	A federation is a group of states or businesses working for a common cause.	The United Nations is a federation designed to prevent war, disease, and famine.	
+		
+effective	ефективним	effective.jpg	[sound:effective.mp3]	[sound:effective_meaning.mp3]	[sound:effective_example.mp3]	If something is effective, it works well.	Swimming is an effective way to stay healthy.	
+		
+vulnerable	вразливі	vulnerable.jpg	[sound:vulnerable.mp3]	[sound:vulnerable_meaning.mp3]	[sound:vulnerable_example.mp3]	When someone is vulnerable, they are weak and without protection.	He felt very vulnerable when he was stranded in the desert.	
+		
+classify	класифікувати	classify.jpg	[sound:classify.mp3]	[sound:classify_meaning.mp3]	[sound:classify_example.mp3]	To classify things is to put them into groups based on their type.	The biologist classif<u>i</u>ed the plant as a completely new species.	
+		
+intellectual	інтелектуальний	intellectual.jpg	[sound:intellectual.mp3]	[sound:intellectual_meaning.mp3]	[sound:intellectual_example.mp3]	An intellectual is a very smart person.	We’ve always considered my Uncle Max the intellectual of the family.	
+		
+inadvertent	випадково	inadvertent.jpg	[sound:inadvertent.mp3]	[sound:inadvertent_meaning.mp3]	[sound:inadvertent_example.mp3]	When an action is inadvertent, it is done without realizing what you are doing.	She made an inadvertent error when she knocked over the nail polish.	
+		
+roll	рулон	roll.jpg	[sound:roll.mp3]	[sound:roll_meaning.mp3]	[sound:roll_example.mp3]	To roll is to move by turning over and over.	You must roll the ball into the pins when you bowl.	
+		
+manner	чином	manner.jpg	[sound:manner.mp3]	[sound:manner_meaning.mp3]	[sound:manner_example.mp3]	A manner is the way someone does something.	His manner of not looking at someone while speaking, is a bit rude.	
+		
+rotate	повернути	rotate.jpg	[sound:rotate.mp3]	[sound:rotate_meaning.mp3]	[sound:rotate_example.mp3]	To rotate something means to turn it around in a circle.	An airplane's propellers rotate quickly to help it fly.	
+		
+plain	рівнина	plain.jpg	[sound:plain.mp3]	[sound:plain_meaning.mp3]	[sound:plain_example.mp3]	If something is simple, it is plain and not decorated.	He bought a pair of plain white shoes over the weekend.	
+		
+minimize	мінімізувати	minimize.jpg	[sound:minimize.mp3]	[sound:minimize_meaning.mp3]	[sound:minimize_example.mp3]	To minimize means to reduce something to the lowest possible level.	I checked my homework twice to minimize errors I might have made.	
+		
+subscribe	підписатися	subscribe.jpg	[sound:subscribe.mp3]	[sound:subscribe_meaning.mp3]	[sound:subscribe_example.mp3]	To subscribe to something is to agree or to concur with it.	She subscribed to the view that musical education should be kept in schools.	
+		
+wizard	майстра	wizard.jpg	[sound:wizard.mp3]	[sound:wizard_meaning.mp3]	[sound:wizard_example.mp3]	A wizard is a man who can do magic.	The wizard made gold fall from the sky.	
+		
+sign	знак	sign.jpg	[sound:sign.mp3]	[sound:sign_meaning.mp3]	[sound:sign_example.mp3]	A sign is a notice giving information, directions, a warning, etc.	The sign indicated that today would be a bad day.	
+		
+spectrum	спектр	spectrum.jpg	[sound:spectrum.mp3]	[sound:spectrum_meaning.mp3]	[sound:spectrum_example.mp3]	The spectrum is the full range of color ranging from red to violet.	You can see the entire spectrum in a rainbow.	
+		
+burst	вибух	burst.jpg	[sound:burst.mp3]	[sound:burst_meaning.mp3]	[sound:burst_example.mp3]	To burst is to suddenly break open or apart.	The bomb bursted over the city.	
+		
+expect	очікувати	expect.jpg	[sound:expect.mp3]	[sound:expect_meaning.mp3]	[sound:expect_example.mp3]	If you expect something to happen, you believe it will happen.	I expect the bus to be here very soon.	
+		
+mechanism	механізму	mechanism.jpg	[sound:mechanism.mp3]	[sound:mechanism_meaning.mp3]	[sound:mechanism_example.mp3]	A mechanism is a part of a machine that performs a certain function.	I can’t open my car door because the locking mechanism is broke.	
+		
+assemble	збирати	assemble.jpg	[sound:assemble.mp3]	[sound:assemble_meaning.mp3]	[sound:assemble_example.mp3]	To assemble means to get together in one place.	The parents assembled to discuss ways to improve their children’s education.	
+		
+principal	принципал	principal.jpg	[sound:principal.mp3]	[sound:principal_meaning.mp3]	[sound:principal_example.mp3]	A principal is a person in charge of a school.	My school's principal can be very strict with the rules.	
+		
+publication	публікації	publication.jpg	[sound:publication.mp3]	[sound:publication_meaning.mp3]	[sound:publication_example.mp3]	A publication is something printed, like a newspaper or book.	She's been a subscriber to that publication for over ten years.	
+		
